@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neapowers</title>
+    <link>https://neapowers.com/</link>
+    <description>Recent content on neapowers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Feb 2021 08:38:38 -0500</lastBuildDate><atom:link href="https://neapowers.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing Spark Native Functions (Catalyst Expressions)</title>
+      <link>https://neapowers.com/apache-spark/native-functions-catalyst-expressions/</link>
+      <pubDate>Wed, 10 Feb 2021 08:38:38 -0500</pubDate>
+      
+      <guid>https://neapowers.com/apache-spark/native-functions-catalyst-expressions/</guid>
+      <description>Writing Spark Native Functions (Catalyst Expressions) This post explains how Spark&amp;rsquo;s public interface is exposed via catalyst expressions and how you can write your own functions in this manner.
+Catalyst expressions are a great way to write performant code and learn about how Spark works under the hood.
+Walking backwards in the Spark codebase The org.apache.spark.sql.functions object contains the following add_months method:
+def add_months(startDate: Column, numMonths: Column): Column = withExpr { AddMonths(startDate.</description>
+    </item>
+    
+    <item>
+      <title>Working Remotely in Medellin</title>
+      <link>https://neapowers.com/nomad/working-remotely-in-medellin/</link>
+      <pubDate>Tue, 09 Feb 2021 22:24:05 -0500</pubDate>
+      
+      <guid>https://neapowers.com/nomad/working-remotely-in-medellin/</guid>
+      <description>Working Remotely in Medellin Medellin is a wonderful place to live and work remotely, especially for folks on the East Coast timezone.
+Medellin is easily accessible and full of friendly locals. The city has a violent history, but is now relatively safe, as long as you follow the street smart rules of Latin America.
+The city is still wonderful and offers great value, but it&amp;rsquo;s not the same undiscovered paradise it was back from 2008-2015.</description>
+    </item>
+    
+  </channel>
+</rss>

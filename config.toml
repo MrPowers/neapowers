@@ -1,0 +1,15 @@
+baseURL = "https://neapowers.com/"
+languageCode = "en-us"
+title = "neapowers"
+theme = "github-style"
+googleAnalytics = "UA-123456-789"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Matthew Powers"
+  description = "Spark nerd, reggateon lover"
+  twitter = "neapowers"
+  github = "MrPowers"
+  location = "Medellín"
+  url = "https://neapowers.com"

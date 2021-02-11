@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apache-sparks on neapowers</title>
+    <link>https://neapowers.com/apache-spark/</link>
+    <description>Recent content in Apache-sparks on neapowers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Feb 2021 08:38:38 -0500</lastBuildDate><atom:link href="https://neapowers.com/apache-spark/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing Spark Native Functions (Catalyst Expressions)</title>
+      <link>https://neapowers.com/apache-spark/native-functions-catalyst-expressions/</link>
+      <pubDate>Wed, 10 Feb 2021 08:38:38 -0500</pubDate>
+      
+      <guid>https://neapowers.com/apache-spark/native-functions-catalyst-expressions/</guid>
+      <description>Writing Spark Native Functions (Catalyst Expressions) This post explains how Spark&amp;rsquo;s public interface is exposed via catalyst expressions and how you can write your own functions in this manner.
+Catalyst expressions are a great way to write performant code and learn about how Spark works under the hood.
+Walking backwards in the Spark codebase The org.apache.spark.sql.functions object contains the following add_months method:
+def add_months(startDate: Column, numMonths: Column): Column = withExpr { AddMonths(startDate.</description>
+    </item>
+    
+  </channel>
+</rss>

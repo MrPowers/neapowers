@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <script type="application/javascript" src='https://neapowers.com/js/theme-mode.js'></script>
+    <link rel="stylesheet" href='https://neapowers.com/css/frameworks.min.css' />
+    <link rel="stylesheet" href='https://neapowers.com/css/github.min.css' />
+    <link rel="stylesheet" href='https://neapowers.com/css/github-style.css' />
+    <link rel="stylesheet" href='https://neapowers.com/css/light.css' />
+    <link rel="stylesheet" href='https://neapowers.com/css/dark.css' />
+    <link rel="stylesheet" href='https://neapowers.com/css/syntax.css' />
+    <title>Writing Spark Native Functions (Catalyst Expressions) - neapowers</title>
+    
+    <link rel="icon" type="image/x-icon" href='https://neapowers.com/images/favicon.ico'>
+    
+    <meta name="theme-color" content="#1e2327">
+
+    
+    <meta name="description"
+  content="Writing Spark Native Functions (Catalyst Expressions) This post explains how Spark&amp;rsquo;s public interface is exposed via catalyst expressions and how you can write your own functions in this manner.
+Catalyst expressions are a great way to write performant code and learn about how Spark works under the hood.
+Walking backwards in the Spark codebase The org.apache.spark.sql.functions object contains the following add_months method:
+def add_months(startDate: Column, numMonths: Column): Column = withExpr { AddMonths(startDate." />
+<meta name="keywords"
+  content='' />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://neapowers.com/apache-spark/native-functions-catalyst-expressions/" />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Writing Spark Native Functions (Catalyst Expressions) - neapowers" />
+<meta name="twitter:description"
+  content="Writing Spark Native Functions (Catalyst Expressions) This post explains how Spark&amp;rsquo;s public interface is exposed via catalyst expressions and how you can write your own functions in this manner.
+Catalyst expressions are a great way to write performant code and learn about how Spark works under the hood.
+Walking backwards in the Spark codebase The org.apache.spark.sql.functions object contains the following add_months method:
+def add_months(startDate: Column, numMonths: Column): Column = withExpr { AddMonths(startDate." />
+<meta name="twitter:site" content="https://neapowers.com/" />
+<meta name="twitter:creator" content="" />
+<meta name="twitter:image"
+  content="https://neapowers.com/">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Writing Spark Native Functions (Catalyst Expressions) - neapowers">
+<meta property="og:description"
+  content="Writing Spark Native Functions (Catalyst Expressions) This post explains how Spark&amp;rsquo;s public interface is exposed via catalyst expressions and how you can write your own functions in this manner.
+Catalyst expressions are a great way to write performant code and learn about how Spark works under the hood.
+Walking backwards in the Spark codebase The org.apache.spark.sql.functions object contains the following add_months method:
+def add_months(startDate: Column, numMonths: Column): Column = withExpr { AddMonths(startDate." />
+<meta property="og:url" content="https://neapowers.com/apache-spark/native-functions-catalyst-expressions/" />
+<meta property="og:site_name" content="Writing Spark Native Functions (Catalyst Expressions)" />
+<meta property="og:image"
+  content="https://neapowers.com/">
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+<meta property="article:published_time" content="2021-02-10 08:38:38 -0500 -05" />
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body>
+  <div style="position: relative">
+  <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap open Details--on">
+    <div class="Header-item mobile-none" style="margin-top: -4px; margin-bottom: -4px;">
+      <a class="Header-link" href="https://neapowers.com/">
+        NeaPowers
+      </a>
+    </div>
+    
+      
+        
+          
+            
+          
+        
+      
+    
+    <div class="Header-item d-md-none">
+      <button class="Header-link btn-link js-details-target" type="button"
+        onclick="document.querySelector('#header-search').style.display = document.querySelector('#header-search').style.display == 'none'? 'block': 'none'">
+        <svg height="24" class="octicon octicon-three-bars" viewBox="0 0 16 16" version="1.1" width="24">
+          <path fill-rule="evenodd"
+            d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z">
+          </path>
+        </svg>
+      </button>
+    </div>
+    
+      
+      
+        
+        
+          
+            
+            
+              
+              
+                
+                
+              
+            
+          
+        
+      
+    
+
+    <div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
+      <a class="Header-link " href="https://neapowers.com/">
+        <svg class="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1"
+          width="32">
+          <path fill-rule="evenodd"
+            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+          </path>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-item" style="margin-right: 0;">
+      <a href="javascript:void(0)" class="Header-link no-select" onclick="switchTheme()">
+        <svg style="fill: var(--color-profile-color-modes-toggle-moon);" class="no-select" viewBox="0 0 16 16"
+          version="1.1" width="16" height="16">
+          <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M4.52208 7.71754C7.5782 7.71754 10.0557 5.24006 10.0557 2.18394C10.0557 1.93498 10.0392 1.68986 10.0074 1.44961C9.95801 1.07727 10.3495 0.771159 10.6474 0.99992C12.1153 2.12716 13.0615 3.89999 13.0615 5.89383C13.0615 9.29958 10.3006 12.0605 6.89485 12.0605C3.95334 12.0605 1.49286 10.001 0.876728 7.24527C0.794841 6.87902 1.23668 6.65289 1.55321 6.85451C2.41106 7.40095 3.4296 7.71754 4.52208 7.71754Z">
+          </path>
+        </svg>
+      </a>
+    </div>
+  </header>
+</div>
+
+  
+<div>
+  <main>
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                    
+              
+              
+                
+                  
+                    
+                    
+                      
+                
+                
+                  
+                    
+                    
+
+                  
+                
+              
+            
+          
+        
+      
+    
+
+    <div class="container-lg px-3 new-discussion-timeline">
+      <div class="repository-content gist-content">
+        <div>
+          <div class="js-gist-file-update-container js-task-list-container file-box">
+            <div id="file-pytest" class="file my-2">
+              <div class="file-header d-flex flex-md-items-center flex-items-start">
+                <div class="file-info d-flex flex-md-items-center flex-items-start flex-order-1 flex-auto">
+                  
+                    
+                  
+                  <div class="file-actions flex-order-2 pt-0">
+                    
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="Box-body px-5 pb-5">
+                <article class="markdown-body entry-content container-lg"><h1 id="writing-spark-native-functions-catalyst-expressions">Writing Spark Native Functions (Catalyst Expressions)</h1>
+<p>This post explains how Spark&rsquo;s public interface is exposed via catalyst expressions and how you can write your own functions in this manner.</p>
+<p>Catalyst expressions are a great way to write performant code and learn about how Spark works under the hood.</p>
+<h2 id="walking-backwards-in-the-spark-codebase">Walking backwards in the Spark codebase</h2>
+<p>The <code>org.apache.spark.sql.functions</code> object contains the following <code>add_months</code> method:</p>
+<div class="highlight"><pre class="chroma"><code class="language-scala" data-lang="scala"><span class="k">def</span> <span class="n">add_months</span><span class="o">(</span><span class="n">startDate</span><span class="k">:</span> <span class="kt">Column</span><span class="o">,</span> <span class="n">numMonths</span><span class="k">:</span> <span class="kt">Column</span><span class="o">)</span><span class="k">:</span> <span class="kt">Column</span> <span class="o">=</span> <span class="n">withExpr</span> <span class="o">{</span>
+  <span class="nc">AddMonths</span><span class="o">(</span><span class="n">startDate</span><span class="o">.</span><span class="n">expr</span><span class="o">,</span> <span class="n">numMonths</span><span class="o">.</span><span class="n">expr</span><span class="o">)</span>
+<span class="o">}</span>
+</code></pre></div><p>The IntelliJ text editor lets you easily navigate the source code with the Command + b shortcut.  Hover the mouse over the <code>AddMonths</code> class and press Command + b to see where it&rsquo;s defined in the source code.</p>
+<p>Here&rsquo;s the class from the <code>org.apache.spark.sql.catalyst.expressions.datetimeExpressions</code> file.</p>
+<div class="highlight"><pre class="chroma"><code class="language-scala" data-lang="scala"><span class="k">case</span> <span class="k">class</span> <span class="nc">AddMonths</span><span class="o">(</span><span class="n">startDate</span><span class="k">:</span> <span class="kt">Expression</span><span class="o">,</span> <span class="n">numMonths</span><span class="k">:</span> <span class="kt">Expression</span><span class="o">)</span>
+  <span class="k">extends</span> <span class="nc">BinaryExpression</span> <span class="k">with</span> <span class="nc">ImplicitCastInputTypes</span> <span class="o">{</span>
+
+  <span class="k">override</span> <span class="k">def</span> <span class="n">left</span><span class="k">:</span> <span class="kt">Expression</span> <span class="o">=</span> <span class="n">startDate</span>
+  <span class="k">override</span> <span class="k">def</span> <span class="n">right</span><span class="k">:</span> <span class="kt">Expression</span> <span class="o">=</span> <span class="n">numMonths</span>
+
+  <span class="k">override</span> <span class="k">def</span> <span class="n">inputTypes</span><span class="k">:</span> <span class="kt">Seq</span><span class="o">[</span><span class="kt">AbstractDataType</span><span class="o">]</span> <span class="k">=</span> <span class="nc">Seq</span><span class="o">(</span><span class="nc">DateType</span><span class="o">,</span> <span class="nc">IntegerType</span><span class="o">)</span>
+
+  <span class="k">override</span> <span class="k">def</span> <span class="n">dataType</span><span class="k">:</span> <span class="kt">DataType</span> <span class="o">=</span> <span class="nc">DateType</span>
+
+  <span class="k">override</span> <span class="k">def</span> <span class="n">nullSafeEval</span><span class="o">(</span><span class="n">start</span><span class="k">:</span> <span class="kt">Any</span><span class="o">,</span> <span class="n">months</span><span class="k">:</span> <span class="kt">Any</span><span class="o">)</span><span class="k">:</span> <span class="kt">Any</span> <span class="o">=</span> <span class="o">{</span>
+    <span class="nc">DateTimeUtils</span><span class="o">.</span><span class="n">dateAddMonths</span><span class="o">(</span><span class="n">start</span><span class="o">.</span><span class="n">asInstanceOf</span><span class="o">[</span><span class="kt">Int</span><span class="o">],</span> <span class="n">months</span><span class="o">.</span><span class="n">asInstanceOf</span><span class="o">[</span><span class="kt">Int</span><span class="o">])</span>
+  <span class="o">}</span>
+
+  <span class="k">override</span> <span class="k">def</span> <span class="n">doGenCode</span><span class="o">(</span><span class="n">ctx</span><span class="k">:</span> <span class="kt">CodegenContext</span><span class="o">,</span> <span class="n">ev</span><span class="k">:</span> <span class="kt">ExprCode</span><span class="o">)</span><span class="k">:</span> <span class="kt">ExprCode</span> <span class="o">=</span> <span class="o">{</span>
+    <span class="k">val</span> <span class="n">dtu</span> <span class="k">=</span> <span class="nc">DateTimeUtils</span><span class="o">.</span><span class="n">getClass</span><span class="o">.</span><span class="n">getName</span><span class="o">.</span><span class="n">stripSuffix</span><span class="o">(</span><span class="s">&#34;$&#34;</span><span class="o">)</span>
+    <span class="n">defineCodeGen</span><span class="o">(</span><span class="n">ctx</span><span class="o">,</span> <span class="n">ev</span><span class="o">,</span> <span class="o">(</span><span class="n">sd</span><span class="o">,</span> <span class="n">m</span><span class="o">)</span> <span class="k">=&gt;</span> <span class="o">{</span>
+      <span class="s">s&#34;&#34;&#34;</span><span class="si">$dtu</span><span class="s">.dateAddMonths(</span><span class="si">$sd</span><span class="s">, </span><span class="si">$m</span><span class="s">)&#34;&#34;&#34;</span>
+    <span class="o">})</span>
+  <span class="o">}</span>
+
+  <span class="k">override</span> <span class="k">def</span> <span class="n">prettyName</span><span class="k">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">&#34;add_months&#34;</span>
+<span class="o">}</span>
+</code></pre></div><p>Let&rsquo;s keep digging and see how <code>DateTimeUtils.dateAddMonths</code> is defined.</p>
+<p>Put your cursor over the <code>dateAddMonths</code> function invocation (in the <code>nullSafeEval</code> method) and press Command + b again.</p>
+<p>You&rsquo;ll navigate to this function in <code>org.apache.spark.sql.catalyst.util.DateTimeUtils</code>:</p>
+<div class="highlight"><pre class="chroma"><code class="language-scala" data-lang="scala"><span class="k">def</span> <span class="n">dateAddMonths</span><span class="o">(</span><span class="n">days</span><span class="k">:</span> <span class="kt">SQLDate</span><span class="o">,</span> <span class="n">months</span><span class="k">:</span> <span class="kt">Int</span><span class="o">)</span><span class="k">:</span> <span class="kt">SQLDate</span> <span class="o">=</span> <span class="o">{</span>
+  <span class="nc">LocalDate</span><span class="o">.</span><span class="n">ofEpochDay</span><span class="o">(</span><span class="n">days</span><span class="o">).</span><span class="n">plusMonths</span><span class="o">(</span><span class="n">months</span><span class="o">).</span><span class="n">toEpochDay</span><span class="o">.</span><span class="n">toInt</span>
+<span class="o">}</span>
+</code></pre></div></article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+
+
+    
+    
+      
+      
+        
+          
+            
+          
+        
+      
+      
+        
+        
+        
+      
+    
+    
+      
+    
+
+
+  
+
+</body>
+
+<script type="application/javascript" src="https://neapowers.com/js/github-style.js"></script>
+
+
+
+</html>
