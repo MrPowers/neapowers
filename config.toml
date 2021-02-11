@@ -1,4 +1,4 @@
-baseURL = "https://neapowers.com/"
+baseURL = ""
 languageCode = "en-us"
 title = "neapowers"
 theme = "github-style"
