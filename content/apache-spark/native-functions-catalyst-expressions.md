@@ -99,7 +99,7 @@ case class BeginningOfMonth(startDate: Expression) extends UnaryExpression with 
     defineCodeGen(ctx, ev, sd => s"$dtu.getFirstDayOfMonth($sd)")
   }
 
-  override def prettyName: String = "beginning_of_month"
+  override def prettyName: String = "bebe_beginning_of_month"
 }
 ```
 
@@ -186,7 +186,7 @@ There is also an [itachi](https://github.com/yaooqinn/itachi) project that bring
 
 Spark native functions often times need to be written in the `org.apache.spark.sql` namespace to bypass package privacy.
 
-It's best to defined Spark native functions in a separate repo, so you're not mixing the Spark namespace with your application code.
+It's best to define Spark native functions in a separate repo, so you're not mixing the Spark namespace with your application code.
 
 Spark native functions are especially appropriate to fill in functionality gaps in the Spark API.  The Spark maintainers have a clear preference to keep the Spark API surface area small, so separate projects that add additional functionality are the path forward.
 
