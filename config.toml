@@ -2,7 +2,7 @@ baseURL = ""
 languageCode = "en-us"
 title = "neapowers"
 theme = "github-style"
-googleAnalytics = "UA-123456-789"
+googleAnalytics = "UA-262074861"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
