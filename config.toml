@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://neapowers.com/"
 languageCode = "en-us"
 title = "neapowers"
 theme = "github-style"
@@ -13,3 +13,4 @@ pygmentsUseClasses = true
   github = "MrPowers"
   location = "Medellín"
   url = "https://neapowers.com"
+
