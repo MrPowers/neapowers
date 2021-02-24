@@ -1,4 +1,4 @@
-{{ $section := where .Site.RegularPages "Section" "in" (slice "nomad" "apache-spark" "investing", "pyspark") }}
+{{ $section := where .Site.RegularPages "Section" "in" (slice "nomad" "apache-spark" "investing" "pyspark") }}
 {{ $section_count := len $section }}
 
 <div class="mt-4 position-sticky top-0 d-none d-md-block bg-white width-full border-bottom color-border-secondary"
