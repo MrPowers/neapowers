@@ -1,6 +1,6 @@
 ---
 title: "Working Remotely in Medellin"
-date: 2021-02-09T22:24:05-05:00
+date: 2021-02-09T22:00:00-05:00
 draft: false
 ---
 
