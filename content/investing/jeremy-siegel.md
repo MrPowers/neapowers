@@ -1,0 +1,99 @@
+---
+title: "Jeremy Siegel"
+date: 2021-05-04T09:00:00-05:00
+draft: False
+---
+
+# Jeremy Siegel
+
+Siegel is a professor and famous author, best know for Stocks for the Long Run.  His background:
+
+* PhD from MIT with specialty in monetary theory
+* Worked in Chicago with Milton Freeman
+* Longtime professor at the University of Pennsylvania & WisdomTree advisor
+
+## Economy and Markets in the COVID 19 Crisis
+
+Date: March 25, 2021
+[Video link](https://www.youtube.com/watch?v=cmoFXPozU2U&ab_channel=FirstmarkCU)
+
+$1 invested in the stock market in 1802 is worth $1,929,736 as of December 2020.  6.8% annual real return for stocks.  1.068 ^ 220 for you math nerds ;)
+
+January 1802 - December 2020 real returns by asset class:
+
+* Stocks: 6.8%
+* Bonds: 3.6%
+* Bills: 2.6%
+* Gold: 0.7%
+* Dollar: -1.4%
+
+Siegel's forecast by asset class:
+
+* doesn't think stocks will be quite as high as 6.8% in the future
+* bonds & bills will be WAY lower
+* Gold will be lower, but not as low as bonds
+* Dollar will depreciate at a much more rapid rate
+
+The M1 money supply is up 40% during the pandemic.  This is what caused him to predict a boom in stocks and an increase in inflation.
+
+He's thinking of 3-5% inflation for a few years.  He's not predicting super high inflation, but inflation that's much higher than what we've seen for a long time.
+
+In the last financial crisis, most of the money created by the Fed ended up as excess reserves at financial institutions and was not lent to businesses/consumers.  Today's money is doing directly to the pockets of consumers and businesses (stimulus, grants, payroll protection).
+
+This powerful monetary stimulus will cause strong spending and higher inflation this year.
+
+The Fed wants to run this economy HOT.
+
+Stocks tend to do well in moderate inflation environment, especially those that are leveraged.
+
+Siegel thinks Powell knows that the latest stimulus is too much, but he's not criticizing cause he wants to get reappointed.
+
+The P/E ratio has been on an upwards trend since the 1950s.  He thinks a P/E of 20 is the "new normal".
+
+The earnings yield (E/P) predicts long-term real returns.
+
+A P/E of 15, corresponds to an earnings yield of 1/15, or 6.7% earnings yield, just what we saw earlier ;)
+
+P/E ratio is currently 22.5, which forecasts a 4.4% return.
+
+Real return forecasts by asset class:
+
+* stocks: 4.4%
+* bonds: -1%
+
+Equity risk premium is around 5.5% right now.  ERP is historically around 3 - 3.5%.
+
+Three historical peaks when growth stocks had very high values:
+
+* Nifty-Fifty bubble (1970s)
+* Dot-com (2000)
+* Quality-growth bubble (2020)
+
+He doesn't think tech will crash, he think it'll underperform.
+
+Bondholders are going to pay for the "war on COVID" - they'll pay with inflation eating away their purchasing power.
+
+Bond interest rates are too low right now to make the 60% stock / 40% bond portfolio viable anymore.
+
+He thinks value stock with outperform in 2021.
+
+Yields from stocks are basically protected from inflation.
+
+He thinks bond yields will rise substantially, ending the 40-year bull market in bonds.
+
+International investing has not been rewarding over the last 5 years.  History tells us that markets turn.
+
+Crypto thoughts:
+
+* Bitcoin cannot compete as a payments mechanism compared to what we have today.
+* if tax reporting and other regulations were enforced on Bitcoin (anti money laundering), Bitcoin would fall 90% from current levels (he's not saying this is what'll happen).  He's not talking about new laws, just enforcing existing laws.
+* He doesn't think is the medium of exchange of the future.
+
+Real estate will be good.  Real assets perform well in inflationary environments.
+
+The political reality is that we will have tax increases coming up soon.
+
+Book value is now a "stupid" measure of value because it doesn't factor in intellectual property.  Intangibles are a principle source of wealth in the market and they're not captured by book value.
+
+Siegel thinks the run up in tech stocks was much deserved, but now they're fully priced and value is where you want to be today.
+
