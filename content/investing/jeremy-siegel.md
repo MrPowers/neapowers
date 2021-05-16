@@ -12,6 +12,24 @@ Siegel is a professor and famous author, best know for Stocks for the Long Run. 
 * Worked in Chicago with Milton Freeman
 * Longtime professor at the University of Pennsylvania & WisdomTree advisor
 
+## Inflation could be 20% in the next three years (May 14, 2021)
+
+[Link](https://www.youtube.com/watch?v=t3ygJbJjocI&ab_channel=CNBCTelevisionCNBCTelevision).
+
+There has been unprescedented monetary action and fiscal support.
+
+Since last summer, Siegel has been saying that this loose policy would first flow into financial markets and then explode into inflataion.
+
+He thinks Jay Powell is the most dovish Fed chairperson he's ever seen.
+
+While the money keeps flowing, Siegel thinks the stock market will keep going up.
+
+The money supply is up 30% since the beginning of the pandemic.  This money will find it's way to more spending and inflation.
+
+Stocks are financial assets, but they are claims on real assets.
+
+We all know on Treasuries that you'll get negative real returns.  TIPS are paying -1%.
+
 ## Economy and Markets in the COVID 19 Crisis
 
 Date: March 25, 2021
