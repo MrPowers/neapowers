@@ -10,6 +10,54 @@ Jeffrey Gundlach, colloqualliy known as the "Bond King" is the founder of the Do
 
 He speaks frequently and this post summarizes his main points by talk.
 
+## Yahoo Finance Interview (May 13, 2021)
+
+When the Fed grows their balance sheet, the S&P 500 index goes up.
+
+The CPI came in at 4.2% YoY.
+
+About a third of last months personal disposible income was given by the government.
+
+Government has a deficit that's 30% of GDP.
+
+These have distorted the valuations of asset classes.
+
+Home prices are up very strongly over the last 12 months.  Some markets are up 30-40%.
+
+Businesses can't fill job openings.
+
+A certain fraction of people are making more money sitting at home, watching Netflix, than going to work.
+
+The stimulus checks are starting to feel like they're not going away.  Gavin Newsom announced $600 this week to people that are earning less than $75k a year.
+
+In NY and California, a lot of people are getting $57k a year, tax free, for not working.
+
+Gudlach bought a used truck with 8,000 miles on it, haha, dude is a billionaire.
+
+Feels to him that the market started worrying about inflation this week.  He thinks that inflation will still go up for the next few months.  It if keeps going up in the fall, then people will really get worried.
+
+The Fed is most content when the inflation rate is higher than all the interest rates, across the yield curve.
+
+He thinks we already have UBI at this point.
+
+Unemployment has been extended and extended and even increased.
+
+People's behavior is already factoring in ongoing government assistance.
+
+Bitcoin and the other cryptos have been objects of speculation.  Playing with funny money.  People feel like they're playing with the houses money.
+
+He was really bullish on Bitcoin in early 2020.
+
+NASDAQ has been underperforming the S&P for quite some time now.  This is a sign that some of the speculative fever is dissapating.
+
+He's been very bullish on commodities, but might be overextended in the short run.
+
+Thinks floating rate corporate debt is good, BKLN.
+
+Thanks to valuation and longer term dollar view, he's bullish European equities.  He's long term bearish on the dollar.
+
+He likes Emerging Market equities longer term.  He thinks they'll do well, but probably not this year.  They're slower rolling out the vaccine in Emerging Markets.
+
 ## AKG Fundraiser (April 22, 2021)
 
 [Video link](https://www.youtube.com/watch?v=gy65QvvsXPI&t=555s&ab_channel=DoubleLineCapital).
