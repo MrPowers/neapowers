@@ -1,3 +1,9 @@
+---
+title: "Stanley Druckenmiller"
+date: 2021-05-15T08:38:38-05:00
+draft: False
+---
+
 # Stanley Druckenmiller
 
 
