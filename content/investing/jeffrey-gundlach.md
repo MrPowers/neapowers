@@ -10,6 +10,94 @@ Jeffrey Gundlach, colloqualliy known as the "Bond King" is the founder of the Do
 
 He speaks frequently and this post summarizes his main points by talk.
 
+## Welcome and Fireside Chat (May 12, 2021)
+
+[Video link](https://www.youtube.com/watch?v=iIsmjCUwwfA&t=552s&ab_channel=DoubleLineCapitalDoubleLineCapital).
+
+Sam Garza is hosting the chat.  He's been at Doubleline since the beginning.
+
+Bond yields have come down pretty dramatically from the early 80s till now.
+
+Bond yields were really high when he entered the profession.  May 1984, the long bond yield was at 14% and the inflation rate was 4%.  There was a 1000bp real yield on bonds.  Nobody wanted them.  They called bonds "certificates of confiscation" at the time.
+
+They didn't think the 4% inflation rate was going to sustain.  They thought inflation was going to come back for sure.
+
+Back when Gundlach started in this business, people thought that bond yields in the single digits made no sense.
+
+Real bond yield is now negative 250bp.
+
+Fed & Treasury Secretary (Janet Yellen) say the inflation rate is transitory.
+
+He has great respect for Stanley Drukenmiller.
+
+We're in uncharted waters now in the same way we were in uncharted waters 1984.
+
+The long bond bottomed at 1.00%.
+
+The rate of change of society continues to accelerate.
+
+Gundlach is sad that society has devolved to where we are.  We'll need to find a new level place to stand and until then, there will be a lot of instability.
+
+He's confident we'll be in a great place several years from now.
+
+He doesn't really know if this inflation is transitory and he doesn't think anyone knows.
+
+In NY State, if you're not working, you're getting $57,000 tax free.
+
+56% of Federal spending is borrowed (lent to them from the Federal Reserve).
+
+Median household income is very close to the amound of money the government will give you for not working.
+
+If you want to believe that inflation is transitory, you have to believe that the government's policies are transitory, and it's getting hard to believe that.
+
+If the government stops with the distribution of free money, then the economy would collapse.
+
+The CPI uses "owners equivalent rent", but if they used home prices instead, then the CPI would have been 8%.
+
+He thinks Dogecoin & GameStop are obvious manias.
+
+There is incredible inconsistency in the movement of the main stock market averages recently.  The Dow it up and the Nasdaq is down.  Or the S&P 500 is down and the Nasdaq is flat.
+
+He is super bearish on the US dollar.  "The dollar is doomed with the policies that are currently being enacted".
+
+Trade deficit is expanding and the budget deficit is more than expanding - it's exploding.  Both factors are quite negative for the dollar.
+
+They have a more positive view on European stocks compared to American stocks since Doubleline was started 12 years ago.
+
+The dollar has benefited from being the reserve currency of the world.  It seems clear that China would like a seat at the table of being the world's reserve currency.
+
+China's GDP will eclipse the US GDP in the next several years.
+
+Saving is the national pasttime in China.  Borowing & spending is the national pasttime in the US.
+
+There has been $6 trillion dollars of stimulus in the past year and most of it has been used to buy Chinese goods.
+
+Gundlach has a good emotional memory.  He's "made every mistake you can make in the investment industry, twice".
+
+A good emotional & factual memory.  You want to be able to say "I've seen this movie before".
+
+The US will have to reset their economic system.
+
+The societal institutions that were created in the aftermath of World War 2 are not working anymore.
+
+Wealth inequality is the result of money printing.  We're trying to use money printing to give money to the poor, but that doesn't work because it doesn't increase the productive capacity of the economy.
+
+The good news is that these institutions will change.
+
+We're going to get there, but we need to go through the transformative period.
+
+He thinks commodity prices will go a lot higher, that's part of his negative dollar view.
+
+We've inflated the value of financial assets so much that it's time for a trend change.
+
+Gundlach's favorite investment right now is farmland.  Farmland is essential to human existence.
+
+Farmland has underperformed by a lot and has real value.
+
+Gundlach thinks the stock market is doomed if the Fed starts tapering its balance sheet.
+
+We are in the mirror image of where we were when Gundlach started in this business in 1984.
+
 ## Yahoo Finance Interview (May 13, 2021)
 
 When the Fed grows their balance sheet, the S&P 500 index goes up.
