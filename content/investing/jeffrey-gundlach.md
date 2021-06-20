@@ -10,6 +10,70 @@ Jeffrey Gundlach, colloqualliy known as the "Bond King" is the founder of the Do
 
 He speaks frequently and this post summarizes his main points by talk.
 
+## Total Return Webcast (June 8, 2021)
+
+[Video link](https://www.youtube.com/watch?v=1S1ZmBokzJ8).
+
+Companies are having a hard time finding employees.  There is clearly a shortage of workers.
+
+The job openings index came out as a record high.
+
+We'll see if the stimulus continues in September.
+
+Nominal GDP is forecasted to be 10% for the year.
+
+The current budget deficit is 16% which is the highest in the history of the United States.  This understates the deficit cause it omits ~5% of spending that's not included even though it's a recurring expense every year.
+
+If we didn't have deficit spending we would have no GDP growth in the United States.
+
+The Fed's balance sheet has gone from 4 trillion => 8 trillion.
+
+The unfunded liabilities are currently at $148 trillion (~6-7 times GDP).
+
+The strongest economy in the world right now is China.
+
+Consumer expectations for rising prices have grown significantly.
+
+Food prices are up 6% YoY.
+
+Used car prices have doubled over the last year.
+
+[Here](https://youtu.be/1S1ZmBokzJ8?t=1230) is where Gundlach starts talking about the dollar.
+
+Dollar index (DXY) is around 90.
+
+He's neutral on the dollar in the short run, but very negative on the dollar in the long term.
+
+The current account + budget balance is highly correlated with the direction of the dollar.  Right now, the twin deficits are projecting that the dollar index should fall to below 70.  This have meaningful ramifications for investment allocation and portfolio performance.
+
+Home inventory is at record low levels.  There are some areas of the country where there are multiple real estate agents per homes for sale.  Some markets have 10x more real estate agents per home for sale!
+
+The US equity market has outperformed the ROW very significatly since 2008.
+
+Non-US stocks have been performing the same or better than US stocks recently.
+
+He feels weird being positive on European stocks because he was negative on them for the last 12 years, since the founding of DoubleLine.
+
+The NY & SF office occupancy went down by 80% and still hasn't gone back up.
+
+They expect people to start going back to the office after the summer.
+
+Top 5 states losing people:
+
+* New Jersey
+* New York
+* Illinois
+* Connecticut
+* California
+
+The anti-business states that have a high cost of living are not surprisingly losing the most people.
+
+Huge downtrend in commodities from 2008 - 2020.  Recent upswing from the low has been significant, but nothing close to reversing the trend.
+
+The US dollar is highly commodity prices.  When the commodity index goes up, the dollar goes down.
+
+Ultimately thinks gold will go a lot higher as commodities rise.
+
 ## Welcome and Fireside Chat (May 12, 2021)
 
 [Video link](https://www.youtube.com/watch?v=iIsmjCUwwfA&t=552s&ab_channel=DoubleLineCapitalDoubleLineCapital).
