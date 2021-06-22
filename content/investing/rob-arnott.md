@@ -28,12 +28,15 @@ Value had a drubbing.  The biggest and longest value drawdown in history.
 
 Value was even cheaper relative to growth in 2020 compared to the peak of the tech bubble.
 
-Definition of bubble: if you're using a valuation model you need to make implausible assumptions and the none of the marginal buyers use valuation models.
+Definition of bubble:
 
-Assumptions for some current valuations:
+1. You need to make implausible assumptions in the valuation model
+2. none of the marginal buyers use valuation models
+
+"Bubbel assessment" for some current valuations:
 
 * Amazon is priced for aggressive assumptions
-* Tesla is priced for growth that would be remotely plausible and nobody buys Tesla on a valuation model
+* Tesla is priced for growth that wouldn't be remotely plausible and nobody buys Tesla on a valuation model
 
 They predict ~2% returns in the US for the next 10 years.  Yield is 1.6%.
 
@@ -62,13 +65,13 @@ EM CAPE was a 40% premium, now it's a 60% discount.  Same companies & same count
 
 A lot of emerging countries are catching up by imitating and stealing ideas.
 
-UK is almost the chepest developed market.
+UK is almost the chepest developed market (Spain is slightly cheaper).
 
-People send most of all their research thinking about buying.  They don't have any selling plan.
+People send most of their investment research time thinking about buying.  They don't have any selling plan.
 
-Rob Arnott has made a career of being curious.  Whenever there is conventional wisdom, he'll run a test to see if it's demonstrably correct with history.
+Rob Arnott has made a career of being curious.  Whenever there is conventional wisdom, he'll run a test to see if it's demonstrably correct with historical data.
 
-Arnott believes in holding beliefs lightly.
+Arnott holds his beliefs lightly.
 
 Since the top of the tech bubble, long bonds have outperformed stocks.  There have been 40 year periods where bonds have outperformed.
 
