@@ -31,5 +31,5 @@ Without the Fed buying ~60% of the bond market issuances, the market would be to
 
 We're right now in the crux of when the baby boomer retirement will accelerate.
 
-For 20 years, foreigners were buying Treasuries.  This was violated in Spring 2020.  We went from a $500 billion a year into Treasuries to an outflow from Treasuries.
+For 20 years, foreigners were buying Treasuries.  This trend was reversed in Spring 2020.  We went from a $500 billion a year into Treasuries to an outflow from Treasuries.
 

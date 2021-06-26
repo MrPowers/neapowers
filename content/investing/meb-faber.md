@@ -6,6 +6,40 @@ draft: False
 
 # Meb Faber
 
+## Episode #322: Radio Show (June 21, 2021)
+
+[Link](https://www.youtube.com/watch?v=nVfBTv1BdbY&t=214s&ab_channel=TheMebFaberShow).
+
+* March 2020: Pandemic bottom
+* Summer 2020: interest rates bottom
+* Fall 2020: Election
+
+Going back to the 1920s, worst year for value was 1999 and best year for value was 2000.  That was till 2020, which was actually a worse year for value than 1999.
+
+US CAPE is 38 right now.
+
+This is a high US valuation unless there is some explosion in innovation in earnings, the likes of which we've never seen before.
+
+Foreign developed has a CAPE of 23.
+
+Emerging has a CAPE of 15.
+
+Meb likes strategies that are not popular.
+
+In 2021, buy and hold investing is a commodity.
+
+Meb is forcasting zero real returns on US stocks & US bonds.
+
+ETFs have a better structural wrapper than mutual funds.
+
+Owning active mutual funds in a taxable account is a big no-no.  Active ETFs don't have nearly as much of a tax drag.  The active mutual fund tax drag can be up to 70bp per year!
+
+Companies are doing conversions to mutual funds to ETFs.
+
+Turns out the big catalyst for ETFs taking over is something as boring as taxes.
+
+Codifying rules helps with decision making and to build discipline in hard times.  Automatically investing a portion of your paycheck in a retirement plan is a great example.
+
 ## Episode #311: Radio Show
 
 [Link](https://mebfaber.com/2021/05/14/e311-radio-show/).
@@ -32,7 +66,7 @@ When CAPE has been so high historically:
 
 Japan had zero returns for 30 years.  Looks amazing now.
 
-You have to consider that the large cap US stocks will return zero.
+You have to consider that the large cap US stocks will offer zero returns.
 
 Value got to historic spreads.  2020 was the worst year for value.  1999 before was the best year for growth / worst year for value.
 
@@ -46,7 +80,7 @@ Meb thinks the story has finally changed in the last year.  He thinks there's be
 
 In the summer we were coming off 10-year yields of 0.5%.
 
-US bonds are some of the higher-yielding in the world, which is crazy.  Lots of countries have negative yields.
+US bonds are some of the highest-yielding in the world, which is crazy.  Lots of countries have negative yields.
 
 Meb has been blogging for 15 years.
 

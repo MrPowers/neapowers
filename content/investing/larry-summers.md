@@ -18,7 +18,7 @@ COVID recovery has accelerated, which is a great thing, but means more demand pr
 
 The Fed has stuck to its guns on no rate hikes for years and years (and continuing to grow its balance sheet).
 
-He's worried about more inflation or a dramatic fiscal/monetray collision.
+He's worried about more inflation or a dramatic fiscal/monetary collision.
 
 These are the least responsible macroeconomic policies we've had in the last 40 years.
 

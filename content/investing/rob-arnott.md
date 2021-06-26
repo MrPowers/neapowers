@@ -31,9 +31,9 @@ Value was even cheaper relative to growth in 2020 compared to the peak of the te
 Definition of bubble:
 
 1. You need to make implausible assumptions in the valuation model
-2. none of the marginal buyers use valuation models
+2. None of the marginal buyers use valuation models
 
-"Bubbel assessment" for some current valuations:
+"Bubble assessment" for some current valuations:
 
 * Amazon is priced for aggressive assumptions
 * Tesla is priced for growth that wouldn't be remotely plausible and nobody buys Tesla on a valuation model
@@ -63,7 +63,7 @@ End of 2007:
 
 EM CAPE was a 40% premium, now it's a 60% discount.  Same companies & same countries still facing the same headwinds.
 
-A lot of emerging countries are catching up by imitating and stealing ideas.
+A lot of emerging countries are catching up economically by imitating and stealing ideas.
 
 UK is almost the chepest developed market (Spain is slightly cheaper).
 

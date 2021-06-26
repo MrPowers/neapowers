@@ -16,7 +16,7 @@ He speaks frequently and this post summarizes his main points by talk.
 
 Companies are having a hard time finding employees.  There is clearly a shortage of workers.
 
-The job openings index came out as a record high.
+The job openings index came out at a record high.
 
 We'll see if the stimulus continues in September.
 
@@ -70,9 +70,9 @@ The anti-business states that have a high cost of living are not surprisingly lo
 
 Huge downtrend in commodities from 2008 - 2020.  Recent upswing from the low has been significant, but nothing close to reversing the trend.
 
-The US dollar is highly commodity prices.  When the commodity index goes up, the dollar goes down.
+The US dollar is highly correlated with commodity prices.  When the commodity index goes up, the dollar goes down.
 
-Ultimately thinks gold will go a lot higher as commodities rise.
+He ultimately thinks gold will go a lot higher as commodities rise.
 
 ## Welcome and Fireside Chat (May 12, 2021)
 
@@ -84,7 +84,7 @@ Bond yields have come down pretty dramatically from the early 80s till now.
 
 Bond yields were really high when he entered the profession.  May 1984, the long bond yield was at 14% and the inflation rate was 4%.  There was a 1000bp real yield on bonds.  Nobody wanted them.  They called bonds "certificates of confiscation" at the time.
 
-They didn't think the 4% inflation rate was going to sustain.  They thought inflation was going to come back for sure.
+Investors didn't think the 4% inflation rate was going to sustain in 1984.  They thought inflation was going to come back for sure.
 
 Back when Gundlach started in this business, people thought that bond yields in the single digits made no sense.
 
@@ -100,21 +100,21 @@ The long bond bottomed at 1.00%.
 
 The rate of change of society continues to accelerate.
 
-Gundlach is sad that society has devolved to where we are.  We'll need to find a new level place to stand and until then, there will be a lot of instability.
+Gundlach is sad that society has devolved to its current level.  We'll need to find a new level place to stand and until then, there will be a lot of instability.
 
-He's confident we'll be in a great place several years from now.
+He's confident America will be in a great place several years from now.
 
 He doesn't really know if this inflation is transitory and he doesn't think anyone knows.
 
-In NY State, if you're not working, you're getting $57,000 tax free.
+In NY State, if you're not working, you can get $57,000 tax free.
 
 56% of Federal spending is borrowed (lent to them from the Federal Reserve).
 
-Median household income is very close to the amound of money the government will give you for not working.
+Median household income is very close to the amount of money the government will give you for not working.
 
 If you want to believe that inflation is transitory, you have to believe that the government's policies are transitory, and it's getting hard to believe that.
 
-If the government stops with the distribution of free money, then the economy would collapse.
+If the government stops distributing free money, then the economy would collapse.
 
 The CPI uses "owners equivalent rent", but if they used home prices instead, then the CPI would have been 8%.
 
@@ -196,7 +196,7 @@ Unemployment has been extended and extended and even increased.
 
 People's behavior is already factoring in ongoing government assistance.
 
-Bitcoin and the other cryptos have been objects of speculation.  Playing with funny money.  People feel like they're playing with the houses money.
+Bitcoin and the other cryptos have been objects of speculation.  Playing with funny money.  People feel like they're playing with the house's money (e.g. the money the government direct deposited in their bank account).
 
 He was really bullish on Bitcoin in early 2020.
 
@@ -208,7 +208,7 @@ Thinks floating rate corporate debt is good, BKLN.
 
 Thanks to valuation and longer term dollar view, he's bullish European equities.  He's long term bearish on the dollar.
 
-He likes Emerging Market equities longer term.  He thinks they'll do well, but probably not this year.  They're slower rolling out the vaccine in Emerging Markets.
+He likes Emerging Market equities longer term.  He thinks they'll do well, but probably not this year.  Emerging Markets are slower in rolling out the vaccine.
 
 ## AKG Fundraiser (April 22, 2021)
 
@@ -228,9 +228,9 @@ A lot of the stimulus money that's being paid is going to China.  Americans are 
 
 The budget deficit is at 19% and that doesn't even count "one off items" that are really recurring expenses (like natural disasters and wars).  The government chooses to mislead the population on how big the bugdet deficit really is.  If you factor in these expenses, the deficit is really 23% of GDP.
 
-Gundlach doesn't agree that the economy was great in 2019 / early 2020 (pre COVID).  That economic growth was based on an increase in the deficit.  More deficits to buy products from other countries is not real economic growth.
+Gundlach doesn't agree that the economy was great in 2019 / early 2020 (pre COVID).  That economic growth was based on an increase in the deficit.  Increasing the deficit to buy products from other countries is not real economic growth.
 
-We can an explosion in the deficit.  California has many characteristics that are similar to a developing nation.  Lots of debt, terrible infrastructure, massive wealth inequality.
+California has many characteristics that are similar to a developing nation.  Lots of debt, terrible infrastructure, massive wealth inequality.
 
 We still have millions of people that want to immigrate to the US.  Part of this is because the US is giving so much away.
 

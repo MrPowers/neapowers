@@ -16,11 +16,11 @@ Siegel is a professor and famous author, best know for Stocks for the Long Run. 
 
 [Link](https://www.youtube.com/watch?v=t3ygJbJjocI&ab_channel=CNBCTelevisionCNBCTelevision).
 
-There has been unprescedented monetary action and fiscal support.
+There has been unprecedented monetary action and fiscal support.
 
-Since last summer, Siegel has been saying that this loose policy would first flow into financial markets and then explode into inflataion.
+Since last summer, Siegel has been saying that this loose policy would first flow into financial markets and then explode into inflation.
 
-He thinks Jay Powell is the most dovish Fed chairperson he's ever seen.
+Jay Powell is the most dovish Fed chairperson he's ever seen.
 
 While the money keeps flowing, Siegel thinks the stock market will keep going up.
 
@@ -56,11 +56,11 @@ The M1 money supply is up 40% during the pandemic.  This is what caused him to p
 
 He's thinking of 3-5% inflation for a few years.  He's not predicting super high inflation, but inflation that's much higher than what we've seen for a long time.
 
-In the last financial crisis, most of the money created by the Fed ended up as excess reserves at financial institutions and was not lent to businesses/consumers.  Today's money is doing directly to the pockets of consumers and businesses (stimulus, grants, payroll protection).
+In the last financial crisis, most of the money created by the Fed ended up as excess reserves at financial institutions and was not lent to businesses/consumers.  Today's money is going directly to the pockets of consumers and businesses (stimulus, grants, payroll protection).
 
 This powerful monetary stimulus will cause strong spending and higher inflation this year.
 
-The Fed wants to run this economy HOT.
+The Fed wants to run this economy hot.
 
 Stocks tend to do well in moderate inflation environment, especially those that are leveraged.
 
