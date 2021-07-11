@@ -8,17 +8,17 @@ draft: False
 
 This post summarizes the current investing landscape and will be continuously updated at different snapshots in time.
 
-The focus is on broad asset class valutaions and how investors should rebalance given market conditions.
+The focus is on broad asset class valuations and how investors should rebalance given market conditions.
 
 Humans are semi-rational economic actors and history is replete with examples of assets that are overpriced / underpriced relative to economic fundamentals.  There are entire books that recount the most memorable financial manias and crashes over the last few hundred years.
 
 Humans have not become more rational economic actors over the years.  The same psychological factors that caused financial manias and panics in the past still persist today.
 
-It's arguable that the tighter feedback loops, instantenous information flows, and frictionless app trading platforms are empowering investors to act even less rationally.  The meme-stock and cryptocurrency investing manias of 2021 are clearly based on "hot investment tips", not rational economic analysis.
+It's arguable that the tighter feedback loops, instantaneous information flows, and frictionless app trading platforms are empowering investors to act even less rationally.  The meme-stock and cryptocurrency investing manias of 2021 are clearly based on "hot investment tips", not rational economic analysis.
 
 Some investors are good at getting into hot trades and jumping ship before the crash.  Most don't have the ability to identify the top and are left holding the bag.
 
-Other investors gravitate to value investing, the opposite of the meme-stock game.  These investors overallocate to the investments with poor returns that nobody else is talking about.
+Other investors gravitate to value investing, the opposite of the meme-stock game.  These investors over allocate to the investments with poor returns that nobody else is talking about.
 
 Value investors are especially motivated to avoid financial bubbles, which, like overpriced assets, can be spotted in realtime and avoided.
 
@@ -48,9 +48,9 @@ Your asset allocation should be a function of the following factors:
 
 * willingness and ability to take risk (risk tolerance)
 * time horizon
-* asset class valutions
+* asset class valuations
 
-You should formalize your asset allocation plan with an Investor Policy Statement (IPS) that outlines your target asset allocation.  Investor Policy Statements are especially important now because technological innovations are making it harder for investors to stay diciplined.
+You should formalize your asset allocation plan with an Investor Policy Statement (IPS) that outlines your target asset allocation.  Investor Policy Statements are especially important now because technological innovations are making it harder for investors to stay disciplined.
 
 News cycles, information flows, and feedback loops are accelerating, but core human psychology is unchanged.  Well know behavioral economics biases, like home country bias, have been observable for decades and are still omnipresent.  Australians overallocate to Australian equities, Italians overallocate to Italian equities, and Americans overallocate to US equities.  Modern investors haven't read the behavioral economics research from the 1970s and adjusted their allocations accordingly.
 
@@ -83,7 +83,7 @@ Any deviation from the world market cap allocation is traditionally characterize
 
 ### US Equities
 
-The US equity market has outperformed the rest of the world significatly since 2008.
+The US equity market has outperformed the rest of the world significantly since 2008.
 
 US equity outperformance coupled with home country bias has many American investors overallocated to US equities.
 
@@ -95,7 +95,7 @@ Value stocks have gone through the biggest and longest drawdown in history.  The
 
 The P/E ratio is currently 22.5, and Siegel thinks the earnings yield is the best predictor of future returns.  The earnings yield (E/P) is 1 / 22.5 = 4.4% (real).  Siegel is predicting a 4.4% real return for stocks going forward, which is lower than the 6.8% long term historical average return.
 
-Arnott has a more pessimistic forecast for US equities.  His asset allocation interative tool is predicting 10-year annualized real returns of -0.8% for US equities.
+Arnott has a more pessimistic forecast for US equities.  His asset allocation interactive tool is predicting 10-year annualized real returns of -0.8% for US equities.
 
 The market cap weighted global index suggests a 60% allocation to North American equities at this time.  A high allocation to an asset class that's valued so highly seems risky.  Perhaps a 30% allocation to US value stocks is more appropriate at this time.
 
@@ -103,7 +103,7 @@ The market cap weighted global index suggests a 60% allocation to North American
 
 Emerging markets outperformed US equities significantly from 2000-2007 and then underperformed US equities from 2007-2020.  At the end of 2007, the EM CAPE was 38 and the US CAPE was 28.  The June 2021 EM CAPE is now 15 and the US CAPE is 37.  Oh how times have changed.
 
-Investors were optimistic about the Brazil / Russia / India / China (BRIC) stocks from 2000-2007 and bid them up to high valutaions.  BRIC currencies also strengthened from 2000-2007.  BRIC stock markets crashed during the Global Financial Crisis and again around 2011 when their currencies collapsed as well (Chinese currency has been much more stable than Brazilian / Russian currencies, which crashed).
+Investors were optimistic about the Brazil / Russia / India / China (BRIC) stocks from 2000-2007 and bid them up to high valuations.  BRIC currencies also strengthened from 2000-2007.  BRIC stock markets crashed during the Global Financial Crisis and again around 2011 when their currencies collapsed as well (Chinese currency has been much more stable than Brazilian / Russian currencies, which crashed).
 
 Why were investors irrationally optimistic about BRIC countries in 2007 and why are investors irrationally pessimistic about BRICs currently?  No good reason from what I can tell.
 
@@ -111,7 +111,7 @@ The Brazilian stock index had the same major components in April 2011 and Januar
 
 Superficial explanations don't tell the true story:
 
-* Zika virus, a mosquito bourne illness, isn't surprising in a country with the largest rainforest in the world
+* Zika virus, a mosquito borne illness, isn't surprising in a country with the largest rainforest in the world
 * A "corruption scandal" isn't surprising in a country that's one of the most corrupt in the world, as measured by the [Corruption Perceptions Index](https://en.wikipedia.org/wiki/Corruption_Perceptions_Index)
 
 Investors were just irrationally optimistic about Brasil in April 2011 and irrationally pessimistic about Brasil in January 2016.  These irrational though patterns extended to emerging markets in general.
@@ -126,7 +126,7 @@ Given current valuations, seems like a 30-50% allocation could be justified.
 
 ### European Equities
 
-Gundlach is buillish on European equities for the first time since he started Doubleline capital 12 years ago.
+Gundlach is bullish on European equities for the first time since he started Doubleline capital 12 years ago.
 
 EAFE is at a CAPE of 18, which is much lower than the US CAPE.  Dollar weakening also bodes well for European equities.
 

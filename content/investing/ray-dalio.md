@@ -6,6 +6,27 @@ draft: False
 
 # Ray Dalio
 
+## Is the stock market in a bubble? (June 23, 2021)
+
+[Link](https://www.youtube.com/watch?v=X2ag_mfUgBU&ab_channel=PrinciplesbyRayDalio).
+
+6 things that make a bubble:
+
+1. Prices relative to traditional measure: are P/Es high, yields low, etc.
+2. Prices are discounting unsustainable conditions: the nature of the buying cannot be sustained
+3. New buyers have entered the market: one aspect of the speculative element
+4. There is broad bullish sentiment: not having the asset makes you feel silly
+5. Purchases are being financed by high leverage
+6. Buyers / businesses have made extended forward purchases: businesses that used commodities getting lots of forward coverage
+
+![Bubble temperature](/static/images/dalio/bubble_metrics.png)
+
+![Aggregate bubble gauge](/static/images/dalio/bubble_gauge.png)
+
+In 2000, about 13% of the top thousand companies were in a bubble.  Now 5% of companies are in a bubble.
+
+There are a lot of stocks that are not in a bubble.
+
 ## Dalio & Summers on Inflation, Restructuring and the Global Economy (June 21, 2021)
 
 [Video link](https://www.youtube.com/watch?v=rckBn9yfXyU).

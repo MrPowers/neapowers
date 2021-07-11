@@ -12,6 +12,36 @@ Siegel is a professor and famous author, best know for Stocks for the Long Run. 
 * Worked in Chicago with Milton Freeman
 * Longtime professor at the University of Pennsylvania & WisdomTree advisor
 
+## What yield pullback means for stocks (July 8, 2021)
+
+[Link](https://www.youtube.com/watch?v=-IEjLh4j4Xo&ab_channel=CNBCTelevision).
+
+10 year Treasury yield pulled back to 1.3% and the 30 year Treasury yield pulled back to 1.9%.  This surprised Siegel, but makes sense cause everyone was short bonds and it was a crowded trade.
+
+The next CPI report is the economic metric that Siegel is most looking forward to.  If the CPI surprises on the upside, then it could be a market moving event.  That'd force the Fed to be more aggressive at tightening.
+
+He thinks the Fed should be more aggressive with tightening in any case.  These open market purchases of mortgage backed securities don't make sense given the economy.
+
+The economy is very strong.
+
+## Fiscal stimulus, Fed (June 25, 2021)
+
+[Link](https://www.youtube.com/watch?v=W-GmV_gudpQ&ab_channel=CNBCTelevision).
+
+The trend of the market is decidedly upward.
+
+Inflation isn't that bad for stocks, it is bad for bonds.  Stocks are real assets.
+
+Powell may announce tapering at Jackson Hole in August or perhaps even sooner (CPI release on July 13th).  PPI is released on July 14th.
+
+Tapering back on 120 billion monthly asset purchases and keeping interest rates at 0% is still extrodinarily stimulating in a strong economy.  Any interest rate under 2% is stimulating.
+
+Relative to history, this is still a very, very loose Fed.
+
+Siegel thinks the money will keep flowing into the stock market.
+
+Dividend yields that are protected from inflation look really good compared to a 1.5% long bond yield that's not protected by inflation.
+
 ## Inflation could be 20% in the next three years (May 14, 2021)
 
 [Link](https://www.youtube.com/watch?v=t3ygJbJjocI&ab_channel=CNBCTelevisionCNBCTelevision).
