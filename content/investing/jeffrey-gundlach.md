@@ -10,6 +10,62 @@ Jeffrey Gundlach, colloqualliy known as the "Bond King" is the founder of the Do
 
 He speaks frequently and this post summarizes his main points by talk.
 
+## CNBC Fast Money Halftime Report (July 15, 2021)
+
+[Video link](https://www.youtube.com/watch?v=VvoDkfRj-jY&t=508s&ab_channel=DoubleLineCapital).
+
+We're at extremely high stock market valuations.
+
+Stocks are still cheap to bonds because the bong yield is so incredibly low.
+
+It's getting hard for the Fed to talk about the inflation situation as transitory.
+
+Seems like the Fed wants the 30 year to be capped at 2%.
+
+All the stimulus / free money should be coming to an end in the next few weeks and Gundlach just doesn't think that'll happen.  He doesn't believe they can go cold turkey.
+
+If stimulus continues at the current level, inflation won't go away, it might actually get worse in fact.
+
+The strongest economy in the world is China.  Stimulus helps China because we buy so many Chinese goods.
+
+Some Fed officials are starting to admit that inflation will hang around longer than they origianlly expected.
+
+The dollar has been reasonably strong.
+
+Ultimately the size of our deficits (trade and budget) suggest that in the intermediate term, the dollar will fall pretty substantially.
+
+In the near term, the dollar seems firm.
+
+Commodities are way up this year, but gold is actually down this year.
+
+Many pension plans have reached their best funding status since prior to the Global Financial Crisis.
+
+CPI at 5.4% and the 10 year Treasury is at 1.3% - that's a -4% real interest rate.
+
+Businesses will have to pay people more to get workers.
+
+Wage inflation is hard to slow down once it starts.
+
+Businesses might need to start compete with governments at the low-end level of wages for workers.  This could lead to wage inflation.
+
+It was only 3 months ago they were predicting a transitory inflation high of 3%.
+
+Inflation is still accelerating.  It's not decelerating yet.  He still thinks the CPI will continue surprising on the upside.  "The trend is your friend".
+
+SPACs and meme stocks are fueled by governement stimulus.  Government stimulus causes spending and speculation.
+
+The corporate bond market is the most overvalued that it's been for the last 20 years.
+
+He's building a museum in Buffalo - the AKG art museum.
+
+Buffalo is a booming city and it's unappreciated.
+
+Bitcoin is a proxy for speculative fervor.  He was buillish at the end of 2020.
+
+He has a feeling you'll be able to buy it below $23,000 again.
+
+He's never been long or short Bitcoin.  It's just not for his risk tolerance.  He'd be too worried to see it down or up 20% in a day.
+
 ## Total Return Webcast (June 8, 2021)
 
 [Video link](https://www.youtube.com/watch?v=1S1ZmBokzJ8).

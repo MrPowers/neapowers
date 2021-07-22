@@ -12,6 +12,34 @@ Siegel is a professor and famous author, best know for Stocks for the Long Run. 
 * Worked in Chicago with Milton Freeman
 * Longtime professor at the University of Pennsylvania & WisdomTree advisor
 
+## GWS Interviews Professor Jeremy Siegel (July 16, 2021)
+
+[Link](https://www.youtube.com/watch?v=BzhnVpbWJaI&ab_channel=GatewoodWealthSolutions).
+
+Powell is the most dovish central banker that Siegel has ever seen.
+
+Siegel thinks we'll see persistent inflation for quite a few months and well into the next year.
+
+Siegel tracks the M2 money supply.  M2 is 30% over the pre-pandemic levels.  He thinks there will be 20% cumulative inflation over the next several years.  He doesn't know how it'll be divided.  Could be 5-5-5-4.  Or 10-5-2, or whatever.
+
+The M2 money supply is a great predictor of inflation over several years.
+
+He's not predicting double digit inflation, but he thinks the recent money creation has been "clearly excessive".
+
+You've got to be prepared for a 50% drawdown.  Weather the storm and enjoy the bounce-back.
+
+The equity gains are always long term.
+
+Meme stocks have a market value compared to the entire market cap of the market that's trivial.  Gamblers might find them interesting, but Siegel doesn't find them interesting.
+
+He thinks the Fed should start tapering right now.  There is zero need for the Fed to be buying $120 billion in bonds every month given market conditions.
+
+He wouldn't be surprised if the Fed announces a taper in the next three months and then start raising rates later this year / early 2022.
+
+Stocks are real assets.  The better companies in inflationary times are leveraged, especially if they've locked in low interest rates.
+
+Biden's infrastructure bill is in trouble.
+
 ## What yield pullback means for stocks (July 8, 2021)
 
 [Link](https://www.youtube.com/watch?v=-IEjLh4j4Xo&ab_channel=CNBCTelevision).
