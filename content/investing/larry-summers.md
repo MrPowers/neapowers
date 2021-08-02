@@ -6,6 +6,53 @@ draft: False
 
 # Larry Summers
 
+## House Prices are Scary (July 3, 2021)
+
+Labor force participation did not increase in the latest job return.  The long awaited return of workers still hasn't materialized.
+
+The CBO report says the deficit will be $3 trillion in 2021 and then go down to $1.2 trillion in the out years of the 10 year forecast.
+
+The CBO report makes the following assumptions:
+
+* no passage of the Biden plan
+* no passage of a range of tax cuts
+* no "emergencies"
+
+Probably a substantial underestimation of where the deficit will actually turn out.
+
+It's saying that we'll be a country for a decade where the real interest rate is negative, the budget deficit will be 5% of GDP, and where the debt ratio will be above 100%.  The implication is that this is sustainable.  Summers thinks this might be sustainable, but maybe not.
+
+He thinks the conventional wisdom is behind the curve on inflation.
+
+The most dangerous times in markets are when people think they're too high.
+
+Summers "throw in the towel" theory:
+
+* Markets go up, some investors short, it keeps going up, those investors throw in the towel
+* Markets keep going up, more investors short, they also lose money, they throw in the towel
+* Eventually a lot of pessimism gets beaten out of the market and this is when they're most vulnerable
+
+Biggest bubble of all time was Japan in the 1980s:
+
+* Some people threw in the towel at 25,000
+* Others threw in the towel at 30,000
+* Eventual collapse came at 39,000
+
+He's worried that people have learned exactly the wrong lessons from the US equity markets over the last 12 years, from the phenomenal 6 fold increase in the S&P 500 index since 2009.
+
+* Most investors have learned the lesson that trees grow to the sky
+* Summers learned the lesson that trees have grown too tall to be stable
+
+Many failures for pessimism can ironically be a basis for even bigger pessimism.
+
+He thinks the housing market is scary.  For most people, rising house prices means inflation.
+
+He guesses there will be continued increases in house prices given shortages.
+
+House price increases are a significant indicator of inflation psychology.
+
+He cannot understand why the Federal Reserve is a major buyer of mortgage backed securities every month.  This is the ultimate in procyclical behavior.
+
 ## Worried about inflation (March 19, 2021)
 
 [Link](https://www.youtube.com/watch?v=PBnaahSe7JU&ab_channel=BloombergMarketsandFinanceBloombergMarketsandFinanceVerified)
