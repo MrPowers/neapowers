@@ -6,6 +6,85 @@ draft: False
 
 # Rob Arnott
 
+## US stocks won't even beat inflation over next 10 years
+
+[Link](https://www.youtube.com/watch?v=BNWZTo0UOUI&ab_channel=KitcoNEWS).
+
+Yellen is trying to rally folks around the Biden infrastructure bill.
+
+The notion that America's greatness in the world economy hinges on government spending is patently absurd.
+
+Here's why Arnott thinks America has been a world leader economically:
+
+* self-reliance
+* entrepreneurialism
+* invention & innovation
+
+Almost none of this comes from the government sector.
+
+The likelihood of the government investing money better than entrepreneurs is slim to none.
+
+Fiscal stimulus actually stimulates corporate profits.
+
+Owners equivalent rent is the metric used to compute CPI.  Owners equivalent rent is how much your home would rent if you put it on the market today.  It's a lagging indicator because it's based on polls.
+
+Housing has soared 17% in the last 12 months and owners equivalent rent is only up 2.6%.  Owners equivalent rent will be playing catch up the next few years.
+
+We've had a robust recovery since the summer of 2020 and we don't need the Fed creating free money.  Free money has other consequences:
+
+* it doesn't go to everyone, it goes to the highest rated corporations
+* interest rates are a speed bump for excessive spending for individuals and corporations.  Corporations will start empire building.  This props up zombie companies and encourages bad investments.
+
+US equities are very overvalued.
+
+TINA - there is no alternative.
+
+We're halfway through the process of getting the baby boomers retired.  Tens of millions are underprepared / underfunded for retirement.  They're worried about Social Security falling apart.  They're putting money in the market - valuation indifferent buyers.
+
+In 15 years, all the baby boomers will be retired, and they'll be valuation indifferent sellers.  The will have to sell to buy goods and services.
+
+Arnott is pessimistic on US stocks on a 15 year basis.
+
+Top markets:
+
+* emerging markets bonds - yield are similar to US junk bonds, but much lower risk of default
+* emerging market stocks - priced 60% cheaper than the US.  In 2008 it was priced 40% above the US.
+* emerging market value stocks - really cheap, trading at less than 10x earnings.
+
+Arnott thinks the emerging markets deep value are incredible.
+
+Yellen is urging for a massive ramp up in government spending when we already have a fast growing economy.
+
+Emerging markets don't have the ability to engage in massive stimulus funded by massive borrowing of money they don't have.  They also can't engage in lots of money printing.  They're constrained to not make our mistakes.
+
+He's invested in the Freedom Fund: FRDM.  They invest in the 10 most free emerging market economies (least government control / most respect for human liberty).  10 largest stocks in each country, equally weighting the 10 stocks.
+
+He's also allocated to Pimco's RAE Emerging Markets Fund (PEIFX).
+
+His biggest allocation is Pimco all asset.  This is a worldwide asset allocation away from US stocks & bonds.
+
+They wrote a paper that shows unintended consequences of the COVID panic.  Suicides, homicides, accidents, and overdoses (unnatural deaths) are up about 70,000 above the normal run rate.
+
+600,000 people died with COVID, most of whom were in the last 1-2 years of their life.
+
+The unnatural deaths were spread across the life spectrum.  The years of life analysis is more robust than the number of death figures.
+
+In 5-10 years, COVID will just be a bad memory.  The economy has shown great resilience.
+
+Arnott has shown it's better to buy stocks that are deleted from indices instead of stocks that are added to indices.
+
+Arnott prefers buying assets that are unloved and out of favor.
+
+Value has underperformed for 13.5 years.
+
+Value has underperformed if you use price / book to select value stocks (which is a terrible measure).  The spread between growth:value went from 4:1 (in 2007) to 13:1 (summer 2020).
+
+Value snapback has been nice, but only one tenth of the way back to historic norms.
+
+Value is the cheapest it's ever been to growth stocks.  Value has underperformed because multiples, not because the underlying fundamentals have gotten worse.
+
+Value could massively outperform growth in the coming 5 years if multiples mean revert.
+
 ## Inflation, bubbles, and the future of value investing (June 24, 2021)
 
 [Link](https://www.youtube.com/watch?v=sPwBeok5DTM&ab_channel=ExcessReturns)
