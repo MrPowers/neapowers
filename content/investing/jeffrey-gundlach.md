@@ -10,6 +10,104 @@ Jeffrey Gundlach, colloquially known as the "Bond King" is the founder of the Do
 
 He speaks frequently and this post summarizes his main points by talk.
 
+## Down the Middle with DiMartino Booth - September 17, 2021
+
+[Link](https://www.youtube.com/watch?v=8RkzgGdXng4&ab_channel=DanielleDiMartinoBooth).
+
+Gundlach started reading 1984 by George Orwell and it's very difficult because it's too close to the bone.  Just too predictive.  He also re-read Looking Backward which was also predictive.
+
+Seems like Operation Warp Speed was a big success.  The vaccine rollout seems like a great action by the government, assuming there aren't unexpected long term effects of the vaccine.
+
+COVID responses the governemnt didn't do well:
+
+* plexiglass barriers: it was clear that this virus was being spread through the air, not surfaces
+* banning outdoor stuff
+* government blindly spending, a large fraction of which was obviously corruption.  California admits to having tens of billions unaccounted for.
+
+Gundlach thinks we'll see a lot of evictions when the moritorium ends.  A lot of people won't pay their back rent.
+
+Home prices are a leading indicator of rent and home prices are up 23% YoY.
+
+He's buillish on places that aren't currently hot.
+
+Hot places: Austin, Nashville, Boise
+
+Places Gundlach looked for property (cheaper cause they don't have herding mentality): New Mexico, Arizona, Wyoming, Colorado, Idaho.  Ultimately ended up buying in Alabama.
+
+Money give aways temporarily help the poorest, but help the uber-rich.  The middle class gets poorer from money printing.
+
+We had momentous shifts getting into these fiscal stimulus policies and transitioing out of them will not be smooth.
+
+If you used housing prices in the CPI, then headline inflation would be 11%.
+
+Cambells Soup index is up to $1.00 from 0.85 a year ago.
+
+Nobody can find workers anymore.  In-and-out burger is paying $18 an hour.
+
+Every time we have a recession for the last 25 years, we add a new weapon to the arsenal.
+
+In the global financial crisis, the $85 billion for AIG was a lot.  Now that's nothing.
+
+The total government give aways are around $7 trillion, around 30% of GDP.  We got around 2% real growth for all this stimulus.
+
+The Fed was buying $100 billion of bonds some days, it was insane.
+
+The Fed also had to bail out the corporate bond market cause it was completely disfunctional.  The amount of sellers was overwhelming the amount of buyers.
+
+The bailouts are good in the short term, but maybe not in the long term.  Credit cycles kill zombie companies.  Getting rid of the inefficient companies is important for capitalism.
+
+Gundlach is disgusted that the Fed is operating in shameless violation of the Fed Reserve Act of 1938.
+
+You have negative real rates of returns right now in the junk bond market, which is probably a first.
+
+Gundlach predicts a huge loss of democratic seats in the House of Representatives in 2022.
+
+First stimulus was largely used to pay down debt and save.  Second one was the same.  Third one was spent.
+
+Getting out of Afghanistan wasn't as easy as it seemed.  Getting out of this monetary policy won't be easy either.
+
+In April 2021, it was the peak of the housing market, and nothing was for sale.  There were regions with three real estate agents per listing.
+
+In April, he didn't see a single For Sale sign in Buffalo.  In July, he saw a lot of For Sale signs.
+
+Gundlach thinks the Fed is steathily doing yield curve control.
+
+Seems like they're trying to cap the long Treasury yield at 2%.
+
+Inflation hasn't been transitory and it doesn't appear that it's going to be.
+
+Without "forever stimulus", we will have a decrease in economic activity.
+
+Homelessness is up and so is crime.
+
+The spots that were supported by office crowds are done and that's part of the hollowing out of the middle.
+
+The middle is going down the economic ladder.
+
+Spontaneous collaboration and creativity is valuable.  That's something we lose with work from home.
+
+Business travel budgets will never go back to what they were.
+
+A lot of jobs got automated as well.
+
+Yellen publicly endorsed Jay Powell for renomination.
+
+GDP has a lot to do with buying Chinese goods through Amazon, which isn't really US GDP.
+
+Gundlach expects a big fall off in military enlistments.
+
+70% of all casualties in the middle east were white middle class.  If you're going to discorage them from enlisting in the military, then they won't enlist.
+
+The US dollar has been the world's reserve currency cause the US is the world's biggest economy, reliable rule of law, and biggest military.
+
+China's economy will outpace the US economy before 2030.
+
+The Chinese GDP is real GDP, real production,  They usually have a surplus.  They have massive savings.
+
+Given the twin deficit situation and the rise of China, it seems like the dollar is doomed.
+
+Gundlach recently sold US stocks and bought European stocks.
+
 ## August 23, 2021
 
 [Link](https://www.youtube.com/watch?v=cNhSJZGpo2E&ab_channel=YahooFinance)

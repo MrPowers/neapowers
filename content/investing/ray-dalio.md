@@ -6,6 +6,34 @@ draft: False
 
 # Ray Dalio
 
+## Ray Dalio on Evergrande, China, Bitcoin and the Fed (September 21, 2021)
+
+[Link](https://www.youtube.com/watch?v=MPNTRJxbq_w&ab_channel=BloombergMarketsandFinance).
+
+He was a caddy in the 1960s and he invested in the markets when he was 12.
+
+When you hit a zero interest rate and you have too much debt and everyone needs money, here's how it works:
+
+* government borrows money from the Fed
+* Fed prints money for the governemnt
+* government sends checks to citizens
+* value of cash and bonds have negative real returns
+* money goes into other assets
+
+Themes in China:
+
+* common prosperity
+* data control
+* micromanagement
+
+America is a bottom-up, individualist economy.
+
+China is a top down economy.
+
+Bitcoin is worth a trillion.  Gold is worth around 5 trillion.
+
+If it's successful, it shouldn't be much more than $5 trillion.
+
 ## Is the stock market in a bubble? (June 23, 2021)
 
 [Link](https://www.youtube.com/watch?v=X2ag_mfUgBU&ab_channel=PrinciplesbyRayDalio).

@@ -6,6 +6,59 @@ draft: False
 
 # Nouriel Roubini
 
+## Nouriel Roubini Sees Global Debt Trap Driving Inflation
+
+[Link](https://www.youtube.com/watch?v=suIXG4Iw1sY&ab_channel=BloombergMarketsandFinance).
+
+Roubini predicted the 2008 housing bubble.
+
+Debt levels, both private and public, are much higher than they were before.
+
+Roubini's concern is that we're in a debt trap.
+
+The Fed won't be able to unravel unconventional monetary policy.
+
+In normal times, we don't reduce debts or deficits.  Then a crisis hits and deficits grow even more.  Debt grows in good times and in bad.
+
+We'll wipe out the value of fixed rate debt with higher inflation.
+
+Inflation will wipe out the real debt.
+
+* Governments are pressured to increase spending around the world
+* There are constraints on taxing the rich more
+
+Roubini sees inflation and debt crises forthcoming.  Cause interest rates will be rising and indebted companies will suffer.
+
+What he predicts:
+
+* Deglobalization & protectionism
+* balkanization of global supply chains
+* aging of economies
+* restriction of migration from south to north
+* decoupling between US and China
+* global climate change
+* pandemics
+* cyber warfare
+* rising inequality implies government policy that'll help workersaging of economies
+* restriction of migration from south to north
+* decoupling between US and China
+* global climate change
+* pandemics
+* cyber warfare
+* rising inequality implies government policy that'll help workers.  This puts upward pressure on wages.
+
+He's worried about stagflation.
+
+For the last 30 years, there have been global forces keeping inflation low.  He thinks these forces are reversing.
+
+He expects a huge amount of technological innovation in America.  AI, machine learning, robotics, automation.
+
+Over time, this will increase productivity, but it'll also increase inequality.
+
+He worries that central banks are on a mission creep.  From inflation => growth => financial stability => income inequality => global climate change, etc.
+
+Highly unconventional Fed policy will cause inflation over time.
+
 ## A stagflationary debt crisis is on the way (July 28, 2021)
 
 [Link](https://www.youtube.com/watch?v=xXv6UaEFeHw&ab_channel=BloombergMarketsandFinance).
