@@ -6,6 +6,22 @@ draft: False
 
 # Larry Summers
 
+## Larry Summers Says the Fed Should Taper Faster (September 24, 2021)
+
+The task of growing the Chinese economy has been very real estate dependent.
+
+He was happy the Fed said they would taper later this year.
+
+He wishes the Fed would taper faster.  He thinks it's going to look a bit more stagflationary now.  Continuing inflation pressure and less growth, given bottlenecks and labor shortages.
+
+In the Michigan survey, people are saying they don't think it's a good time to buy a car or a house.  That's a negative demand side indicator.
+
+Crypto suggests the desire for secrecy for large financial sums.
+
+We wouldn't have a viable airline industry if we didn't regulate airline safety.  Ultimately, blockchain based business will do better being regulated in a sound way.
+
+The idea where Bitcoin will be some sort of libertarian paradise, then it'll be resting on a flimsy foundation.
+
 ## House Prices are Scary (July 3, 2021)
 
 Labor force participation did not increase in the latest job return.  The long awaited return of workers still hasn't materialized.

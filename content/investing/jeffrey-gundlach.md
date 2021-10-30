@@ -10,6 +10,50 @@ Jeffrey Gundlach, colloquially known as the "Bond King" is the founder of the Do
 
 He speaks frequently and this post summarizes his main points by talk.
 
+## CNBC Fast Money Halftime Report - October 21, 2022
+
+[Link](https://www.youtube.com/watch?v=xarsmqleR4w&ab_channel=DoubleLineCapital).
+
+The Fed is starting to look seriously at tapering.
+
+The market cap of the S&P 500 divided by the size of the Fed's balance sheet results in an almost constant value.  It's a remarkably stable relationship.  This makes the Fed tapering cautionary for stocks.
+
+With the quantitative easing, America effectively has a -200bp Fed Funds rate.
+
+Jay Powell is talking about taking away the quantitative easing in the middle of 2022.  That's equivalent to a 200bp tightening of the Fed Funds rate.
+
+During the corona crash, nominal GDP dropped by 3.5 trillion.  It's since rebounded.
+
+The national debt has increased by 6 trillion.  Trade deficit has also increased.
+
+We really haven't had any economic growth.
+
+Doubleline thinks we will end the year with 5%+ inflation and doesn't think inflation will go below 4% any time in 2022.
+
+Wages have exploded at the low end for workers from 16-24.  They haven't risen for other workers.
+
+Shelter, which is 1/3 of the CPI, is going to go up for sure.
+
+Case-Shiller median home price is up 20% year-over-year in the United States.
+
+Stocks are still not overvalued vs government bonds.
+
+He recomends 12.5% cash and 25% stocks.
+
+Likes European stocks because the dollar is going to go down and European stocks are really cheap compared to US stocks.
+
+Dollar index is currently at 94.  When it dips below 90, then it'll be a good time to buy emerging market equities.
+
+When the dollar starts to go down, then dollar based investors will have outsized performance in emerging market equities.
+
+Emerging market CAPE is half the US CAPE.
+
+There are lots of time in history when the emerging market CAPE was higher than the US CAPE.
+
+Commodities are really strong.  Commodities could outperform significantly.  30-35% in commodities.
+
+You should have 25% in long term bonds because there is a chance for long term debt deflation.
+
 ## Down the Middle with DiMartino Booth - September 17, 2021
 
 [Link](https://www.youtube.com/watch?v=8RkzgGdXng4&ab_channel=DanielleDiMartinoBooth).

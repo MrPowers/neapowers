@@ -6,6 +6,53 @@ draft: False
 
 # Rob Arnott
 
+## [i3] Podcast Episode 48: Research Affiliate’s Rob Arnott (September 9, 2021)
+
+[Link](https://www.youtube.com/watch?v=qIQ7l-s8zaE&ab_channel=InvestmentInnovationInstitute%5Bi3%5D)
+
+History doesn't repeat, but it sure rhymes.
+
+Arnott doesn't think COVID will have a long term impact on the way markets and the economy function.  He doesn't see this as a step towards a future that's unrecognizable.
+
+We have more money chasing fewer goods and services (because people aren't producing), which causes inflation.
+
+Falling interest rates are good for growth, rising rates are good for value.
+
+Book value is a terrible measure of value.  It misses a huge set of assets like brand, intangibles, team, etc.
+
+Price / book is a weak measure of the valuation of a stock.
+
+Fundamental index relies on:
+
+* sales to price
+* cash flow to price
+* dividends to price
+* book to price
+
+Blend of these 4 defines fundamental index weight vs cap weight.  This introduces a value tilt towards companies trading at deep discounts.
+
+Fundamental indexing works way better than ordinary value indexes.
+
+Book value only accounts for around 40% of the total assets of a company.
+
+The rules imposed on a publicly traded stock are more onerous than ever before.  The companies that do go public are past their early invest growth years.
+
+Multifactor investing is built on factors that worked historically.  Arnott isn't sure they'll work in the future or that they have a structural reason to work.
+
+He likes value because it has a behavioral underpinning: things that are uncomfortable to buy ought to have a risk premium.
+
+He's not a believer in the momentum factor and says it hasn't worked since 1999.  It's been working for a few years and then crashing.  It had great alpha in the 20th century and no alpha in the 21st century.
+
+Value is the cheap factor right now.  He likes the vanilla fundamental index right now.
+
+Arnott expects several bouts of "peak fear" in the coming weeks and months.
+
+Emerging markets, UK, and Australia are super cheap.  Australia is yielding 5%.
+
+Arnott things emerging market value are great buys right now.
+
+The Fed put rescues the stock market.  It doesn't rescue the economy.
+
 ## US stocks won't even beat inflation over next 10 years
 
 [Link](https://www.youtube.com/watch?v=BNWZTo0UOUI&ab_channel=KitcoNEWS).

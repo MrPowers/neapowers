@@ -6,6 +6,31 @@ draft: False
 
 # Nouriel Roubini
 
+# Roubini: See Persistent, Mild Stagflation (October 12, 2021)
+
+[Link](https://www.youtube.com/watch?v=PINKomK2aBw&ab_channel=BloombergMarketsandFinance).
+
+There have been supply issues that have caused a significant increase in headline inflation.
+
+He believes that inflation will persist for several quarters.
+
+Central banks will have a difficult position because they'll have slower growth and inflation well above target.
+
+If the Fed is behind the curve and inflation expectations rise, then nominal interest rates will rise.
+
+Lots more growth / tech stocks in the US that are "long duration" stocks and much more sensitive to long term interest rates.
+
+Noriel's asset recommendations:
+
+* short duration bonds
+* TIPS
+* commodities
+* high quality infrastructure investment
+
+Supply of fossil fuel should be in a relative fall over the next few years cause we're trying to decarbonize.
+
+He sees a risk of oil over $100 in the next few months, depending on if Europe has a cold winter.
+
 ## Nouriel Roubini Sees Global Debt Trap Driving Inflation
 
 [Link](https://www.youtube.com/watch?v=suIXG4Iw1sY&ab_channel=BloombergMarketsandFinance).
