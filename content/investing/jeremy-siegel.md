@@ -12,6 +12,16 @@ Siegel is a professor and famous author, best know for Stocks for the Long Run. 
 * Worked in Chicago with Milton Freeman
 * Longtime professor at the University of Pennsylvania & WisdomTree advisor
 
+## Fed Taper Should've Ended Months Ago (November 18, 2021)
+
+[Link](https://www.youtube.com/watch?v=fwB6VqZ5GDk&ab_channel=BloombergMarketsandFinance).
+
+Siegel thinks the taper should have ended 6 months ago.
+
+Siegel thinks we should be raising rates now to get a handle on inflationary pressures.
+
+Inflation is why consumer sentiment is going down.
+
 ## GWS Interviews Professor Jeremy Siegel (July 16, 2021)
 
 [Link](https://www.youtube.com/watch?v=BzhnVpbWJaI&ab_channel=GatewoodWealthSolutions).

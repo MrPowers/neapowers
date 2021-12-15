@@ -6,6 +6,32 @@ draft: False
 
 # Rob Arnott
 
+## Value stocks could return 5% or more over the market: Rob Arnott Research Affiliates founder (September 30, 2021)
+
+[Link](https://www.youtube.com/watch?v=6UCBqB6KLi0&ab_channel=YahooFinance).
+
+Value stocks could return 5%+ over the market over the next 10 years.
+
+Value to growth ratio over time:
+
+* 2007: Value was 1/4
+* August 2020: 1/13
+* Now: 1/11 (still really cheap)
+
+Could you imagine if the ratio went back to 1/4.
+
+Price to book is the classic academic approach for defining value stocks, but that's very flawed given today's current economy.
+
+Services, IP, brand, etc are assets of a company that aren't reflected in the book value.
+
+Valutaion rations work a lot better when book is adjusted for IP.
+
+Value has had some recent outperformance.
+
+Cisco was the most value company in the world for a period of time in 2000.  It has grown sales as 12% a year, its profits at 13% a year, and yet the share price is still below where it was in 2000.
+
+The relationship with interest rates and the growth / value cycle is weak.
+
 ## [i3] Podcast Episode 48: Research Affiliate’s Rob Arnott (September 9, 2021)
 
 [Link](https://www.youtube.com/watch?v=qIQ7l-s8zaE&ab_channel=InvestmentInnovationInstitute%5Bi3%5D)
