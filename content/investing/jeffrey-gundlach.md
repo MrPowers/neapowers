@@ -10,6 +10,44 @@ Jeffrey Gundlach, colloquially known as the "Bond King" is the founder of the Do
 
 He speaks frequently and this post summarizes his main points by talk.
 
+## Jeffrey Gundlach, Andrew Hsu Webcast for DoubleLine Total Return: “In Our Time” - December 7, 2021
+
+[Link](https://www.youtube.com/watch?v=RvdkY47RKls&ab_channel=DoubleLineCapital).
+
+Stock market rises during quantitative easing.
+
+We're now moving towards tapering and eventually increasing interest rates.  The market now thinks Jay Powell is more hawkish and will raise interest rates in 2022.
+
+They expect inflation to remain elevated until the middle of next year at least.
+
+Real interest rate on the Fed Funds is -614 basis points!
+
+We're going to have to deal with the debt and the unfunded liabilities in our time.
+
+What if we didn't do quantitative easing and just went negative on Fed Funds rate.  What's the equivalent Fed Funds rate?  Accoring to the Atlanta Fed, the Fed Funds in this cases is -800 basis points.
+
+Consumer sentiment is falling.  Consumers think it's a terrible time to buy a car (worst reading of all time).  Consumers also think it's a bad time to buy a house, even though interest rates are really low.
+
+The owners equivalent rent computation of the CPI leads to a lag effect.  Gundlack expects that the rise in housing prices in 2021 will be reflected in the CPI in 2022.
+
+Gundlach expects economic problems by the second half of 2022.
+
+Consumers think now is a great time to find a quality job.
+
+US equity market has really outperformed emerging market equities for the last 10 years.  Massive S&P outperformance compared to certain emerging markets in 2021.
+
+The dollar has strengthened, particularily against emerging market currencies.
+
+Gundlach's long term view is strongly dollar bearish.  He thinks the dollar will start going down in the second half of 2022, maybe 2023.  The twin deficit problem of the US will cause it to do down.
+
+When the dollar goes down, you will see tremendous outperformance by non-US stocks.
+
+Once the dollar starts to slip, Gundlach thinks it'll take out the 2009 low.
+
+The S&P / emerging markets comparative valuation hasn't looked like this till the run up to the dot com bubble.  Emerging market CAPE ratio is less than half the US market & there have been times in the past when the emerging market CAPE ratio has been higher.
+
+Shelter is a third of CPI.  Shelter inflation has gone up (3.5%), but far below home price inflation by a lot of course.
+
 ## CNBC Fast Money Halftime Report - October 21, 2022
 
 [Link](https://www.youtube.com/watch?v=xarsmqleR4w&ab_channel=DoubleLineCapital).
