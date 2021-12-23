@@ -12,6 +12,30 @@ Siegel is a professor and famous author, best know for Stocks for the Long Run. 
 * Worked in Chicago with Milton Freeman
 * Longtime professor at the University of Pennsylvania & WisdomTree advisor
 
+## I think stocks are the place to be next year, even with a more aggressive Fed: Wharton's Siegel
+
+[Link](https://www.youtube.com/watch?v=pdSGWxMve0c&ab_channel=CNBCTelevision).
+
+We have inflation and where are you going to go?
+
+* bonds look terrible
+* cash looks terrible
+
+You want to be in real assets.  Corporate profits are doing very
+well.
+
+Siegel thinks the Fed will have to be much more aggressive than what the market is expecting thus far.
+
+He expects a 10% gain in the S&P in 2022.
+
+Siegel thinks we may have to get to 2% on Fed Funds next year.  If you measure them in quarter points, that's 8 rake hikes!!
+
+Think you'll need lots of hikes to battle a 5-6% inflation rate.
+
+He also thinks the long bond will stay at 2%.
+
+Money supply is up 35% compared to where it was pre-COVID.
+
 ## Fed Taper Should've Ended Months Ago (November 18, 2021)
 
 [Link](https://www.youtube.com/watch?v=fwB6VqZ5GDk&ab_channel=BloombergMarketsandFinance).

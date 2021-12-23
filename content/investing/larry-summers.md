@@ -6,6 +6,54 @@ draft: False
 
 # Larry Summers
 
+## Is a Recession Coming? Fmr. Treasury Sec. Lawrence Summers Weighs In (December 17, 2021)
+
+Fed recently announced that they'll make 3 rate hikes in 2022.
+
+It's a delicate process once you have excessive inflation.  History shows it's hard to tame inflation and make a soft landing for the economy.
+
+We're seeing a lot of froth in financial markets.
+
+The government gave 2.8 trillion to households and state & local governments.  Summers thinks the size of this was a big mistake.
+
+We sent households a ton of cash when they were already flush (cause they're not going on vacation or eating out).
+
+On top of this, Fed is buying bonds at a massive scale and keeping interest rates at zero.
+
+Summers supports the Build Back America bill.  Spending is financed with tax increases.  This is investing in the future of the country.
+
+Worker shortage => product shortages => product price increases.
+
+Turning economies into inflationary economies hasn't worked well in many countries.  Inflation is not a friend of the middle class.
+
+He thinks there's a 40% chance of a recession in the next 2 years.
+
+Fed is walking on a narrow ledge.  They need to thread the needle.
+
+We need to be careful of our situations in financial markets, look at meme stocks, crypto, etc.
+
+People don't make bad loans in bad times.  People make bad loans in good times.
+
+We are underresouced, underorganized, and underexecuting to be able to handle pandemics properly.
+
+Omicron shows us there is a much wider range of mutation possiblities than we originally imagined.  This could be with us for quite a long time.
+
+There's been a populist backlash against globalism.  The broad direction has helped a lot of humans.
+
+Populist, nationalist, Luddite policies have a pretty dismal historical record.  Populist anti-globalization is a dangerous mistake.
+
+## Larry Summers Clashes with Yellen Over Inflation Fears (November 2, 2021)
+
+[Link](https://www.youtube.com/watch?v=mrNzzEXt5h4&ab_channel=BloombergMarketsandFinance).
+
+Employers are having trouble finding workers.  There are other shortages.  It seems like we have significant risks for inflation.
+
+Summers thinks inflation may accelerate due to the labor shortage.
+
+Concerned that we're ratcheting up to new level of wage expectation.
+
+We're not on a credible trajectory to a 1.5 degree climate change target.
+
 ## Larry Summers Says the Fed Should Taper Faster (September 24, 2021)
 
 The task of growing the Chinese economy has been very real estate dependent.
