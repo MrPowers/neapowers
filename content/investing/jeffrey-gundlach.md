@@ -10,6 +10,62 @@ Jeffrey Gundlach, colloquially known as the "Bond King" is the founder of the Do
 
 He speaks frequently and this post summarizes his main points by talk.
 
+## Jeffrey Gundlach interview - Yahoo Finance 1-4-22
+
+[Link](https://www.youtube.com/watch?v=jkZNZah0Z4k&ab_channel=DoubleLineCapital).
+
+When Fed buy bonds (quantitative easing), then yields go up.
+
+Fed is talking about getting out of the quantitative easing business as early as March.
+
+The yield curve is giving a recession signal.  Yields are going up at the short end and down at the long end.
+
+Gundlachs law of financial physics: the relationship between the Fed's balance sheet and the market cap of the S&P 500 index.
+
+The valuation of stocks is also worrisome.  The CAPE ratio is high.  ROW CAPE is around half of the US CAPE.
+
+Fed raising interest rates this year will lead to an economic slowdown.
+
+Ever since the 1980s, every single economic slowdown has started with the Fed funds rate ever lower.  2.5% broke the economy back in 2018.
+
+He thinks we'll see a CPI of more than 7% soon.
+
+Our CPI would be 7.8% with the European CPI computation methodology.
+
+Houses are surprisingly affordable right now because mortgage rates are so low.
+
+By 2023, it seems pretty likely that we'll have a recession.
+
+In 2018, the Fed stopped QE, started quantitative tightening, and started raising interest rates which cause an instantaneous bear market.  This was "double barreled" tightening.
+
+We might be getting to the end game.  We're having to reverse at such low rates and the impacts of policy reversal are so powerful.
+
+Michigan consumer confidence survey has really deteriorated.  People were flush with government money and now they're not.
+
+In the last 2 years, S&P is up 30% (from 2020 till end of 2021).  If you take out the 5 FAANG stocks, the return is 0% (the S&P 495 if you will).
+
+At some point in 2022, you should buy emerging markets because they are so cheap, but this recommendation isn't for the faint of heart.  EM stocks are so cheap compared to US stocked by historical standards.
+
+Gundlach thinks Social Security will go bust before 2030.
+
+When it comes to productive capacity, Gundlach already thinks the Chinese economy is bigger than the US economy (that's not reflected in the way GDP is computed).
+
+When you have the largest economy and the largest military, you have a seat at the table of being the world's reserve currency.
+
+Gundlach thinks the US dollar reserve currency of the world is getting near an end game.
+
+In the next recession, he expects the dollar to go down.
+
+The dollar peaked out in 2017 and managed a double top.
+
+He bought European stocks for the first time of 13 years in early 2021.
+
+The next big move is to enter emerging markets.
+
+He said maybe Bitcoin is a buy at $25,000.  He doesn't own Bitcoin cause it's not in his DNA.  He's not a momentum investor.
+
+When it comes to art and real estate, you should really buy the highest quality.  You want an asset that will appreciate steadily.
+
 ## Jeffrey Gundlach, Andrew Hsu Webcast for DoubleLine Total Return: “In Our Time” - December 7, 2021
 
 [Link](https://www.youtube.com/watch?v=RvdkY47RKls&ab_channel=DoubleLineCapital).
