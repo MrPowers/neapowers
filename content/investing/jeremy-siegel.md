@@ -12,6 +12,66 @@ Siegel is a professor and famous author, best know for Stocks for the Long Run. 
 * Worked in Chicago with Milton Freeman
 * Longtime professor at the University of Pennsylvania & WisdomTree advisor
 
+## There will be more than four rate hikes in the months ahead: Wharton's Siegel (January 5, 2022)
+
+[Link](https://www.youtube.com/watch?v=jf5tBFDrkzE&ab_channel=CNBCTelevision).
+
+He's been sayind the Fed had to be far more aggressive for over a year.
+
+He thinks inflation was never temporary and will get worse.
+
+He thinks there will be many more than 4 rate hikes in 2022.
+
+We have 4 trillion dollars more reserves now than we did in 2018.  Back in 2018, we didn't have an inflation problem.
+
+We are at full employment, actually above full employment by some measures.
+
+## Siegel: Nothing in the Bond Market Is Attractive (January 3, 2022)
+
+Markets will encounter some bumps going forward because there are going to be a lot of rate hikes.  Siegel would not be surprised to see the short term interest rate go to 2% by the end of 2022.
+
+TINA - there is no alternative.
+
+He sees the stock market going up in the first half of 2022, some bumps in the middle, but still an overall up year.
+
+High flying tech stocks are most impacted by changes in discount rates.
+
+Growth beat value in 2021.  Siegel thinks the tables will be turned in 2022.  He thinks investors will be searching for dividend paying stocks in 2022.
+
+Don't forget that dividends on stocks are basically real yields.  They're inflation protected becuase they're based on real assets.
+
+"You can't find anything in the bond market that I see attractive".
+
+If you take out FAANG, then the P/E is 18x, which isn't that unreasonable.
+
+He expects dollar to strengthen as yields increase (said investors look at nominal yield differentials in the short term).
+
+He's not sure we'll see that strong of a dollar by the end of the year.
+
+Emerging markets have not performed well.  Valuation differential between the US and Europe / emerging markets is nearly at an all time high.
+
+## Finance Prof. Jeremy Siegel on Markets & the Fed in 2021 & 2022 | Wharton Business Daily Interview (December 29, 2021)
+
+Early on in 2021, Siegel saw the burst of money supply from the Fed and that clued him on as to what was going to happen.
+
+He knew this money would first go into the market and then cause substantial inflation.
+
+He expects 20-25% cumulative inflation over the next 3-4 years.  We could have 7-7-7 or 5-5-5-5.
+
+He thinks the Fed is way behind the curve.  They should have stopped the tapering and should have started raising interest rates by now.
+
+We may see rate increases of 50 basis points.  Baby steps of 25 basis might not do it.
+
+The interest rate is far below the rate of inflation, which encourages people to borrow and buy goods.
+
+Powell is the most dovish Fed chariman that Siegel knows.
+
+He thinks the stock market will have some headwinds from the Fed but he's still optimistic.  You want to hold real assets when there is inflation (and stocks are real assets).
+
+He doesn't regard the stock market as cheap, but not wildly expensive either.  He thinks the bulk of the market is reasonbly priced.
+
+Siegel expects big labor bumps in the coming months.  Workers will want raises to keep up with inflation.
+
 ## I think stocks are the place to be next year, even with a more aggressive Fed: Wharton's Siegel
 
 [Link](https://www.youtube.com/watch?v=pdSGWxMve0c&ab_channel=CNBCTelevision).
