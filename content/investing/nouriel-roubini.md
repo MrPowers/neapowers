@@ -6,6 +6,53 @@ draft: False
 
 # Nouriel Roubini
 
+## Nouriel Roubini: Outlook for the Global Economy (November 19, 2021)
+
+[Link](https://www.youtube.com/watch?v=h7hWBXaQSXo&ab_channel=GreenwichEconomicForum).
+
+Economic trifecta:
+
+* extremely loose monetary/fiscal policy
+* high debt
+* supply shocks
+
+The outcome is what Nouriel calls the "stagflationary debt crisis".
+
+Public + private debt to GDP ratio was 220% in 1999, 360% today, 420% and rising in advanced economies and 330% and rising in China.
+
+Government spending as a share of GDP will likely rise.
+
+Willingness and ability to raise taxes on the rich is constrained.
+
+So you'll want to reduce the real value of debts with inflation.
+
+Central banks now care about financial stability.  That means in good times we don't tighten and we backstop everyone in bad times.
+
+There has been a massive mission creep in the Fed.  They used to just care about inflation.  Now they care about financial stabilty, climate change, income inequality, etc.
+
+20 years ago, the only policy tool was short term rates.  Now there are tons of different tools that the Fed is using.
+
+We will need significant, unexpected inflation to wipe out a significant chunk of accumulated debts.
+
+For the last 30 years there were factors that were keeping inflation low and those factors are now reversing:
+
+* we're in the process of deglobalization and protectionism
+* we have Balkanization of global supply chains
+* aginig populations in developed and emerging markets
+* we're restricting migration from the poor south to the rich north
+* US / China cold war
+
+Global climate change impacts:
+
+* not enough water (even in California)
+* financing for fossil fule investing is reduced (which will eventually lead to an oil shock)
+
+The is a massive backlash against income and wealth inequality.
+
+In the 1970s we had stagflation, but debt ratios were one third of what they are right now.
+
+He sees this as a slow motion train wreck.  These factors won't hit in the next 2-6 months, but we will start seeing the impacts in the next couple years.
+
 # Roubini: See Persistent, Mild Stagflation (October 12, 2021)
 
 [Link](https://www.youtube.com/watch?v=PINKomK2aBw&ab_channel=BloombergMarketsandFinance).
