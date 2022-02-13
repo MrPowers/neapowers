@@ -6,6 +6,28 @@ draft: False
 
 # Rob Arnott
 
+## Investing: The Difference Between Growth and Value (January 11, 2022)
+
+[Link](https://www.youtube.com/watch?v=lZcxihvwrZc&ab_channel=RealVisionFinance).
+
+Value has underperformed growth over the last 12 years by most measure of all time.
+
+Why has value underperformed so much?
+
+* Fed accomodation
+* Narrative - marketplace embraces the notion that tech is the new nirvana and they'll dominate the world
+
+Value relative to growth has gotten cheaper and cheaper by a wider margin than it's underperformance.
+
+Book value is a terrible measure of the resources of a company in a services economy.
+
+They use a blend of metrics:
+
+* price to book adjusted for intangibles
+* price to sales adjusted for debt / equity
+* price to cash flow
+* price to dividends + buybacks
+
 ## Value stocks could return 5% or more over the market: Rob Arnott Research Affiliates founder (September 30, 2021)
 
 [Link](https://www.youtube.com/watch?v=6UCBqB6KLi0&ab_channel=YahooFinance).

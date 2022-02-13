@@ -6,6 +6,30 @@ draft: False
 
 # Larry Summers
 
+## Larry Summers Says the Economy Is Overheated (January 14, 2022)
+
+[Link](https://www.youtube.com/watch?v=5uxbbFiiqxE&ab_channel=BloombergMarketsandFinance).
+
+CPI is 7%.
+
+Nixon imposed wage price controls when inflation was 2/3 of what it is right now.  This is above the inflation of any time during the Vietnam guns-and-butter inflation.
+
+There are transitory elements in inflation that will recede, but we are moving towards higher, entrenched inflation.  It's there in a pervasive pattern in expectations, wages, labor shortages.
+
+We've got an overheated economy.  The Fed has a real challenge of cooling the economy off.
+
+This isn't just a supply-side problem.  We have a massive overheated labor market.  We have the highest ratio of vacancies to unemployment in the country's history by a large margin.  We have shortaged of labor in tons of sectors.
+
+If we don't bring these things into balance, we could have higher or accelerating inflation.
+
+This inflation is fundamentally about an overheating economy.
+
+Summers supports the reconfirmation of Powell.
+
+A feeling that Biden is trying to "politicize" the Fed could be problematic for the Fed's credibility.
+
+We are underinvesting on a global basis on the effort to contain COVID.
+
 ## Is a Recession Coming? Fmr. Treasury Sec. Lawrence Summers Weighs In (December 17, 2021)
 
 Fed recently announced that they'll make 3 rate hikes in 2022.

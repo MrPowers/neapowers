@@ -6,6 +6,46 @@ draft: False
 
 # Nouriel Roubini
 
+## Dr. Nouriel Roubini, Professor of Economics, New York University’s Stern School of Business (February 8, 2022)
+
+Is crypto a currency?  For Noriel, the answer is no.
+
+It's not a unit of account or a scalable way to make payments.
+
+Bitcoin allows for 5-7 transaction per second.  Visa allows for 50,000 transactions per second.
+
+Bitcoin is so volatile that nobody is using is as store of value because it is so volatile.
+
+There is no way to tell relative prices when multiple different tokes are used.  If you have to buy Pepsi with a Pepsi-token and buy Coke with a Coke-token then it's impossible to tell the relative value (unless you convert the values to fiat, haha).
+
+Most money for the past few decades has been digital.  There is nothing special about digital currencies.
+
+Billions of people make bilions of transactions every day in China using Alipay and WeChatpay.  In India and Pakistan then have digital payment systems.
+
+In the US, there is Venmo, PayPal, and Square.
+
+Assets generally provide income or utility.  Stocks provide dividends.  Housing gives you a place to live.
+
+Gold has been used as jewlery for thousands of years and is used in industry.  It's also been a store of value.
+
+Bitcoin doesn't have any income, doesn't have services or use (no means of payment), and isn't a stable store of value.
+
+Every time the stock market falls, crypto fall even more.  They're correlated with other risk assets.  They're not a hedge against inflation.
+
+Impossible trinity, you can't have a currency with all three of these characteristics:
+
+* scalable
+* secure
+* decentralized
+
+If your credit card gets hacked, you can call the fraud department and get refunded.  You are secure.
+
+Crypto isn't scalable.  Crypto isn't secure (you can lose your money forever).  It's not decentralized because the mining industry is dominated by an oligopoly.
+
+Massive wealth inequality in crypto.  Studies show the gini coefficient for crypto is 0.86, higher than North Korea.
+
+Crypto is centralized with a relatively small group of insiders.
+
 ## Nouriel Roubini: Outlook for the Global Economy (November 19, 2021)
 
 [Link](https://www.youtube.com/watch?v=h7hWBXaQSXo&ab_channel=GreenwichEconomicForum).

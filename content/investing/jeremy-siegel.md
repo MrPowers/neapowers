@@ -12,6 +12,22 @@ Siegel is a professor and famous author, best know for Stocks for the Long Run. 
 * Worked in Chicago with Milton Freeman
 * Longtime professor at the University of Pennsylvania & WisdomTree advisor
 
+## Fed needs to hike rates 50 basis points in March if high inflation persists: Jeremy Siegel (February 11, 2022)
+
+[Link](https://www.youtube.com/watch?v=xbKVVq0mBEc&ab_channel=CNBCTelevision).
+
+He expected a worse than expected inflation report & that's what we got.  He doesn't expect the next month to be good either.
+
+If the March number is above expectations, then the Fed will need to hike rates at least 50 basis points in March.
+
+He's been saying the Fed has been way behind the curve for over a year.  It makes no sense to have rates below 1% when inflation is between 7 and 8%.
+
+He expects hawkish surprises.
+
+On the other hand, you want to be in real assets like stocks in an inflationary environment.  Firms are having no trouble passing on higher prices.  This is different from the 1970s when firms couldn't pass on inflation to end consumers.
+
+He thinks the NASDAQ will go into bear market territory, but doesn't think the S&P will.
+
 ## There will be more than four rate hikes in the months ahead: Wharton's Siegel (January 5, 2022)
 
 [Link](https://www.youtube.com/watch?v=jf5tBFDrkzE&ab_channel=CNBCTelevision).

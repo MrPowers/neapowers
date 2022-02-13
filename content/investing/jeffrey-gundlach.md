@@ -10,6 +10,24 @@ Jeffrey Gundlach, colloquially known as the "Bond King" is the founder of the Do
 
 He speaks frequently and this post summarizes his main points by talk.
 
+## The widening credit spread will hurt the stock market, says DoubleLine Capital CEO (February 11, 2022)
+
+[Link](https://www.youtube.com/watch?v=z6t1b_q6kzs&t=4s&ab_channel=CNBCTelevision).
+
+Credit spreads are quietly widening.
+
+Emerging market debt is down pretty sharply.  Down around 5-6% since the start of the year.  Only 5 weeks.
+
+We're at the prelude to panic for credit spreads right now.  Credit markets first deteriorate very slowly, then all at once.  We're in the slow deterioration part right now.
+
+We all know that when credit spreads widen, you start having problems in equities.
+
+He hasn't bought emerging market equities yet, but he's getting close.  It's OK to start averaging in.  The relative valuations of things are so out of whack.
+
+US value is really cheap now vs US growth.  You also see this in developed markets.
+
+The relentless trend of US outperformance is alreading showing signs of reversing momentum.
+
 ## Jeffrey Gundlach interview - Yahoo Finance 1-4-22
 
 [Link](https://www.youtube.com/watch?v=jkZNZah0Z4k&ab_channel=DoubleLineCapital).

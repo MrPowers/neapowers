@@ -6,6 +6,58 @@ draft: False
 
 # Jeremy Grantham
 
+## Calling a Super Bubble: Front Row With Jeremy Grantham (January 26, 2022)
+
+[Link](https://www.youtube.com/watch?v=JlEGU2ypr1Q&ab_channel=BloombergMarketsandFinance).
+
+He predicted an epic stock market crash a year ago, which hasn't happened yet.  2021 was a great year for stocks.
+
+This is consistent with bubbles of the past.  The blue chips have kept strong right up till the last second.
+
+In 2021, the Russell 2000 (companies 1001-3000) was down whereas the S&P 500 was up 23%.  The Russell 2000 normally outperforms the S&P 500 index in bull markets.
+
+S&P 500 peaked at 4,800.  Trend line is 2,500.  Most great super-bubbles go below trend, and stay there for a while.
+
+In 2000, stocks only declined to trend because the Fed came to the rescue.
+
+Grantham expects a decline around 50% from peak.
+
+There are less overpriced areas of the equity market around the world.  The US will decline a lot more than the rest.
+
+Value stocks in emerging markets, Japan, and the UK should do alright.
+
+There is a large chunk of companies in the NASDAQ and Russell 2000 that are not making any money.
+
+A standard bubble is a 2 sigma statistical event.  This should happen every 44 years statistically, but actually happens every 35 years cause we're humans.
+
+A 3 sigma should happen every 100 years.  These occur 2 or 3 times more often then they should - we're a crazy species.  Super bubbles can really wipe you out, like 1929 did.
+
+The 2000 bubble was highly concentrated on US growth.
+
+Stocks are overpriced and bonds are overpriced so the traditional 60/40 portfolio is useless.
+
+The Fed has fewer tools than before.  The "Fed put" is lower than it was before.
+
+Grantham expects inflation to be a pest that'll keep on rearing it's ugly head going forward.  It won't be like the last 30 years where you didn't even need to think about inflation.
+
+We're in the early stages of running out of raw materials.  Growing food is not getting easier.  We're going to live in a world of bottlenecks and price spikes.
+
+It's pretty clear that we're running out of labor.  Fertility rates have dropped significantly.  China is reeling from the fact it only had 10.8 million babies last year.  It was only 7 years ago when it has 20 million babies.
+
+The cohorts of 20-year olds entering the workforce will be smaller-and-smaller.
+
+He doesn't think the Fed understands the pain involved with a bubble breaking.
+
+He didn't like Greenspan, Bernanke, Yellen or Powell.  He thinks low rates have caused assets prices to rise, which has exacerbated the problem of equality.
+
+Asset ownership of the bottom half is basically zero.  They haven't benefited from the rise in asset prices.
+
+The 0.1% has doubled it's wealth during COVID.  That certainly hasn't happened for the bottom 50%.
+
+The US is the least equaly society in the developed world.  We have the least fluid economic mobility.  This is quite unamerican to be honest.
+
+"Green" is going to become living within our means.  Planet is becoming toxic.  Human fertility is going to hell.  Our sperm count is plummeting.
+
 ## ESG Investing: The Race of Our Lives
 
 [Link](https://www.youtube.com/watch?v=RltFGhE9X8s&ab_channel=WealthTrack).
