@@ -10,6 +10,62 @@ Jeffrey Gundlach, colloquially known as the "Bond King" is the founder of the Do
 
 He speaks frequently and this post summarizes his main points by talk.
 
+## Jeffrey Gundlach - CNBC Fast Money Halftime Report (February 11, 2022)
+
+[Link](https://www.youtube.com/watch?v=GaS8g_iviOk&ab_channel=DoubleLineCapital).
+
+Probability of 50bp rate hike is low per the yield curve.
+
+The Fed just follows the bond market.  The Fed just follows the 2 year Treasury market.
+
+Gundlach would bet on a 25bp raise.  He's expecting 5 rate hikes this year, taking the Fed Funds rate to 1.25%.
+
+It's remarkable that the Fed is still doing quantitative easing as we're discussing rate hikes.
+
+Gundlach thinks the Fed should have stopped QE a year ago.  What we're seeing right now is a result of all the excessive stimulus.
+
+We're at 7.5% inflation.  Kind of feels like we might be going to double digits.
+
+He's never seen the Fed engineer a soft landing before.
+
+Gundlach thinks the Fed will have to raise rate more than the market thinks.  They'll probably keep rising rates till something breaks.
+
+We're starting to see some recessionary indicators.
+
+Emerging markets are starting to outperform.
+
+Inflation keeps surprising on the upside.  The Fed is obviously behind the curve.
+
+It's a tough environment.  Nobody is making any money.
+
+Median home price is up 30% over the last 2 years in the United States.  Mortgage rates are now 4%.
+
+Gundlach expects inflation to come down in the future, but not back to 2-3%.
+
+They expect inflation of 5% in 2022.
+
+Best performing sector this year is emerging market equities.  Emerging market debt is doing poorly.  European equities are also outperforming.
+
+They also turned bullish on the UK a few weeks ago.
+
+Credit spreads are quietly widening, more than people are aware of.  Emerging market debt is down 5-6% in the first 5 weeks of the year.
+
+When we take away the massively negative interest rates, there will be problems, cause that's what's priced in.
+
+He hasn't bought emerging market equities yet, but he's getting close.  It's OK to start averaging in.
+
+US value is way cheap compared to US growth.  Value right now is as cheap as it was in 1976 vs growth.
+
+US was outperforming massively.  Not it's slightly underperforming.  Momentum has reversed.  The relentless trend has shows signs of reversing.
+
+The dollar is holding up and might push up a little higher, but once it reverses, and it will, you will really see the foreign outperformance.
+
+Dollar trends tend to go for 8 years.  Got 3-6 years of having a weak dollar.  There will probably be a 4-5 year period of foreign outperformance.
+
+There are going to be big moves when the outsized valuation discrepencies normalize.
+
+He expects stability in the near term for US equities.
+
 ## The widening credit spread will hurt the stock market, says DoubleLine Capital CEO (February 11, 2022)
 
 [Link](https://www.youtube.com/watch?v=z6t1b_q6kzs&t=4s&ab_channel=CNBCTelevision).
