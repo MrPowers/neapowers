@@ -12,6 +12,24 @@ Siegel is a professor and famous author, best know for Stocks for the Long Run. 
 * Worked in Chicago with Milton Freeman
 * Longtime professor at the University of Pennsylvania & WisdomTree advisor
 
+## The Fed shouldn't use Ukraine as an excuse to not raise rates, says Jeremy Siegel (March 8, 2022)
+
+[Link](https://www.youtube.com/watch?v=FukPuJSSkUY&ab_channel=CNBCTelevision).
+
+Siegel is worried that the Fed will use the Ukraine invasion as an
+excuse to not raise interest rates.
+
+We have a fundamental inflation problem that goes way beyond just
+oil prices.
+
+He could see headline inflation going to 10%.
+
+It seems silly to debate if we'll go from 0 => 25bp or 0 => 50bp when
+we could have 10% inflation.
+
+The market is fragile, but rising rates is the medicine we need to
+take to slow inflation.
+
 ## Fed needs to hike rates 50 basis points in March if high inflation persists: Jeremy Siegel (February 11, 2022)
 
 [Link](https://www.youtube.com/watch?v=xbKVVq0mBEc&ab_channel=CNBCTelevision).

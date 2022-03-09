@@ -10,6 +10,67 @@ Jeffrey Gundlach, colloquially known as the "Bond King" is the founder of the Do
 
 He speaks frequently and this post summarizes his main points by talk.
 
+## The Fed, Interest Rates and Stagflation with Jeffrey Gundlach
+
+[magnifi link](https://magnifi.com/media/episode/f5132285-0b5f-499e-b198-c8da13ddc657).
+
+We need to start admitting that we're running into a stagflation situation.
+
+The Fed is in a really difficult situation.  Price spikes require the Fed to be aggressive if they're serious at all about inflation.
+
+We have a 1.7% 10-year yield and 7.5% inflation, really negative real interest rates.
+
+Crude oil prices are skyrocketing.
+
+Bloomberg commodity index is up over 100% over the last 18 months.
+
+He thinks we'll be constantly underestimating inflation because we have all this stimulus that takes time to go through the system.
+
+He thinks the recession risk is going up very significantly.
+
+For the Fed to have any credibility, they need to raise interest rates.
+
+This Ukrainian war situation means the Fed has to be more aggressive.
+
+Fed is in a difficult situation.  Stock market is down, inflation is up, and the economy is slowing down.
+
+Gundlach is worried that we'll have another round of quantitative easing (money printing) if we have another recession.
+
+We're doing it every time we run into an economic problem for a long time.
+
+Another round of money printing would lead to a negative dollar trend.
+
+The dollar index is up at a local high.
+
+Gundlach does not think that the Fed will back off.
+
+25bp rate high is a guarantee in March (could be 50bp) and thinks there will be at least 4 rate hikes in 2022.
+
+Everything is balanced on zero interest rates and quantitative easing of 120 billion per month.
+
+The Fed just follows the 2 year Treasury.
+
+There is going to be a recession at low interest rates so the only option the government will have is more deficit spending.  Gundlach doesn't like dollar-based investments anymore.
+
+Gundlach expects the Biden administration to respond with a huge stimulus package for the next recession.  They always need to be bigger.  It's going to be huge and it'll cause inflation.
+
+We have $165 trillion dollars of unfunded liabilities in the United States.  We have a $24 trillion dollar nominal GDP.
+
+Two ways to deal with these huge unfunded liabilities:
+
+* restructure them
+* devalue them
+
+The inflation numbers at the gas pump, on heating bills, and at the grocery store is going to be much larger than people are expecting.
+
+Gundlach doesn't think neither Biden or Trump will win the election.  There may be three candidates and no electoral college winner.
+
+He thinks emerging markets will outperform US equities for some time in the future.  He recommends dollar cost averaging from US stocks into emerging markets.  Looking forward around 5 years for now.
+
+US dollar reserve currency status is waning.
+
+He thinks oil will top out at $200 a barrel.
+
 ## Jeffrey Gundlach - CNBC Fast Money Halftime Report (February 11, 2022)
 
 [Link](https://www.youtube.com/watch?v=GaS8g_iviOk&ab_channel=DoubleLineCapital).
