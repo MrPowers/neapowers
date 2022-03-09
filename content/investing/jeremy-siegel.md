@@ -46,6 +46,37 @@ On the other hand, you want to be in real assets like stocks in an inflationary 
 
 He thinks the NASDAQ will go into bear market territory, but doesn't think the S&P will.
 
+## Ultra long-term investing with Jeremy Siegel (February 7, 2022)
+
+[Link](https://www.investopedia.com/the-express-podcast-episode-72-5218309).
+
+The pandemic was highly unusual and the loose monetary / fiscal
+response was not normal either.
+
+Siegel has been calling for inflation since 2020.
+
+We have one of the strongest labor markets in history.  They're talking about raising rates to 1% which just doesn't make sense to Siegel.
+
+He thinks the conditions are favorable for a value rotation in 2022.
+
+Technology has delivered (the companies in the S&P 500 index).  They have delivered earnings growth that is remarkable.
+
+We still have a pretty extreme valuation difference between growth and value, something that seems to happen every 25 years.  Mid 1970s with the Nifty-Fifty, dot com boom, current boom.  This isn't as extreme as the dot com boom, but valuations are still a stretch.
+
+The 60/40 portfolio isn't sufficient anymore.
+
+Almost no money managers beat the S&P 500 index in 2021.
+
+Siegel prefers value tilting (towards earnings or dividends).
+
+The US is 50% of the world's equity.
+
+Siegel also thinks international stocks will outperfom US stocks in 2022.
+
+Siegel doesn't think Bitcoin will be the currency of the future.
+
+Siegel is writing a new version of the book Stocks for the Long Run.
+
 ## There will be more than four rate hikes in the months ahead: Wharton's Siegel (January 5, 2022)
 
 [Link](https://www.youtube.com/watch?v=jf5tBFDrkzE&ab_channel=CNBCTelevision).
