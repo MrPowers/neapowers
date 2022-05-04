@@ -8,7 +8,69 @@ draft: False
 
 Jeffrey Gundlach, colloquially known as the "Bond King" is the founder of the DoubleLine Capital investment firm.
 
-He speaks frequently and this post summarizes his main points by talk.
+He speaks frequently and this post summarizes his talking points.
+
+## Jeffrey Gundlach Gives Macro Overview (April 26, 2022)
+
+[Link](https://youtu.be/DsLpWu4Z81I).
+
+There was a tremendous amount of spending of durables during the pandemic lockdown.  Gundlach thinks spending on durables will revert back to trend.
+
+Labor force participation rate has not fully recovered.
+
+Wage growth is accelerating across the different age groups.
+
+Wage growth has closely mirrored the Fed Funds rate historically, but not this time.  Wage growth has accelerated and the Fed has been slow to react.
+
+Everyone expects a 50bp rate hike next week.
+
+For the past 25 years, the Fed Funds rate was guided by the 2 year Treasury, until now.  Fed is well behind the curve right now.
+
+Yield curve in inverted, which is usually followed with a recession 12-18 months later.  Gundlach expects a recession in 2023.
+
+Gundlach thinks inflation will come down.  Inflation is currently at 8.5%.
+
+NASDAQ outperformed the S&P for a long time, hit a double top in 2020 and 2021.  He thinks value is a much better investment than growth.
+
+NASDAQ is currently in a bear market.  It's down more than 20% from its top.
+
+MSCI Europe is outperforming the S&P 500 this year.
+
+## Jeffrey Gundlach - Closing Bell Overtime (March 16, 2022)
+
+[Link](https://www.youtube.com/watch?v=ChOSDH-gr1o&ab_channel=DoubleLineCapital).
+
+The Fed follows the 2 year Treasury.
+
+The Fed is way behind.  Gundlach though Powell did an alright job this time.
+
+For now, rates are still really accomodating and the Fed isn't shrinking the balance sheet.
+
+The market will roll over once the Fed raises rates a few more times.
+
+Median Fed official sees 6 more hikes, 7 overall in 2022.
+
+The 2 year Treasury went to 175 basis points so no surprise, the Fed is going to 175 basis points as well.
+
+We're starting this Fed hike cycle with a flat yield curve.  Normally the yield curve is a lot more upward sloping when rates are being raised.
+
+When the VIX gets above 35, you're supposed to get more bullish, not more bearish.  The market was very oversold and commodities were very overbought.
+
+He's guessing around high 5% inflation in 2022.
+
+He doesn't see the Fed engineering a soft landing.  The balance sheet tapering will be met with a significant headwind for the S&P 500.
+
+He doesn't think the NASDAQ is the place to be.  He thinks avoiding momentum / growth equities.
+
+He also thinks investors should gradually start investing in emerging markets.  He thinks they'll be a strong performer for a multi-year horizon.
+
+He still hasn't bought emerging market equities.  You need the dollar to go down for the emerging market trade to work.  You want to buy the emerging market trade for your "grandkid's college education".
+
+Long term we're still were in a debt disaster sitution and the only way out is to monetize or to default and this will always be the case, the mathematics just don't work.
+
+We're paying of 168 trillion in unfunded liabilites with a $24 trillion nominal GDP.  Numbers just don't add up.
+
+This is coming in the next recession and that's when the dollar will go down.
 
 ## The Fed, Interest Rates and Stagflation with Jeffrey Gundlach
 
