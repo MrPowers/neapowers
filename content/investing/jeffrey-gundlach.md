@@ -10,6 +10,34 @@ Jeffrey Gundlach, colloquially known as the "Bond King" is the founder of the Do
 
 He speaks frequently and this post summarizes his talking points.
 
+## Jeffrey Gundlach joins Scott Wapner on CNBC Overtime (May 6, 2022)
+
+[Link](https://www.youtube.com/watch?v=ECe4xLSkvZo&ab_channel=DoubleLineCapital).
+
+Everyone knows that the tools of the Fed are very blunt.
+
+Gundlach thinks we might be seeing the high in the dollar right now.
+
+The Fed isn't going to raise rates 75bp.  That was worrying the stock market, but Jay Powell made it clear that won't happen.
+
+Foreign / European stock markets continue to be good performers.
+
+Dollar has has a triple top - 2017, 2020, 2022.
+
+It's amazing the emerging markets equities are doing as well as they're doing given the carnage in the emerging markets bonds.  If the dollar index falls below 102, he think that's the signal to buy emerging markets.
+
+He still hasn't bought emerging market equities.
+
+He likes non-US stocks, like Europe, and long term US bonds.
+
+2 year Treasury is up 200bp year-to-date!  It's incredible.  It moved up 120bp over a 5 week time.  This is what got the Fed messaging to change.
+
+CPI is at 8.5%.  Gundlach thinks that maybe we'll end the year with inflation lower than 6%.  That's still a lot higher than today's interest rates.
+
+The real question is if inflation will fall back to anywhere near 3%.  This is what you need to believe that the Fed can pull off a soft landing.
+
+Gundlach is opening a big museum in Buffalo.
+
 ## Jeffrey Gundlach Gives Macro Overview (April 26, 2022)
 
 [Link](https://youtu.be/DsLpWu4Z81I).

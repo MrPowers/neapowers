@@ -12,23 +12,40 @@ Siegel is a professor and famous author, best know for Stocks for the Long Run. 
 * Worked in Chicago with Milton Freeman
 * Longtime professor at the University of Pennsylvania & WisdomTree advisor
 
+## There is still a lot of inflation in the pipeline, says Wharton's Jeremy Siegel (May 3, 2022)
+
+[Link](https://youtu.be/alQXI-HJ6Jo).
+
+Investors can't pick peaks and troughs.  Long-term investors should not even try.
+
+He's been warning about inflation for the last 2 years.
+
+He's seen a slowdown in the monetary growth over the last 2 years.
+
+He thinks there is still a lot of inflation in the pipeline.
+
+We had negative GDP in Q1 2022, but earnings came in pretty good.
+
+A recession usually means:
+
+* earning dip (suppose 20%)
+* maybe for a year
+
+Then the earnings usually continue to go up after that.  A recession is no reason to sell a long-term asset if you're a long-term investor.
+
 ## The Fed shouldn't use Ukraine as an excuse to not raise rates, says Jeremy Siegel (March 8, 2022)
 
 [Link](https://www.youtube.com/watch?v=FukPuJSSkUY&ab_channel=CNBCTelevision).
 
-Siegel is worried that the Fed will use the Ukraine invasion as an
-excuse to not raise interest rates.
+Siegel is worried that the Fed will use the Ukraine invasion as an excuse to not raise interest rates.
 
-We have a fundamental inflation problem that goes way beyond just
-oil prices.
+We have a fundamental inflation problem that goes way beyond just oil prices.
 
 He could see headline inflation going to 10%.
 
-It seems silly to debate if we'll go from 0 => 25bp or 0 => 50bp when
-we could have 10% inflation.
+It seems silly to debate if we'll go from 0 => 25bp or 0 => 50bp when we could have 10% inflation.
 
-The market is fragile, but rising rates is the medicine we need to
-take to slow inflation.
+The market is fragile, but rising rates is the medicine we need to take to slow inflation.
 
 ## Fed needs to hike rates 50 basis points in March if high inflation persists: Jeremy Siegel (February 11, 2022)
 
