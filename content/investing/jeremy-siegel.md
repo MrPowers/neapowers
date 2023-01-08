@@ -12,6 +12,60 @@ Siegel is a professor and famous author, best know for Stocks for the Long Run. 
 * Worked in Chicago with Milton Freeman
 * Longtime professor at the University of Pennsylvania & WisdomTree advisor
 
+## Wharton's Jeremy Siegel still against the Fed, bullish on stocks in 2023 (January 1, 2023)
+
+[Link](https://www.youtube.com/watch?v=b99CeXQRyF4&ab_channel=CNBCTelevision).
+
+There has never been a time when 60% of economists forecast a recession.
+
+2022 was marked by good job growth, poor GDP growth, and poor productivity growth.  We might see the opposite next year:
+
+* job losses
+* faster than expected GDP growth
+* good year for profits if the Fed pivots
+
+In September 2021, the Fed said that they weren't going to raise rates in 2022.  They obviously raised rates a ton in 2022.  Now they're saying they will have rates high for a long time, but Siegel questions if that'll actually happen.
+
+Siegel thinks more people will be talking about inflation being under control.  Fed should have a different tone if there are job losses.
+
+Fed started tightening way too late and now they're starting to loosen to them way too late.  Most of their inflation fighting battle is behind them and Siegel thinks they'll eventually get this message.
+
+## Jeremy Siegel: How Federal Reserve's Response to Inflation Impacts Wall Street (May 11, 2022)
+
+[Link](https://youtu.be/pWyzyq4-qW8).
+
+Jeremy Siegel has been predicting this inflation for a long time.  The Fed totally missed it and now they're playing catchup.  They're still moving too slow - they should be moving 75bp at a time.
+
+We've had moderation in the money supply over the last couple months.
+
+In the long run, stock markets are good hedges against inflation.
+
+We've had much more inflation than the official statistics say.  The BLS is extremely lagged in how it collects housing data.  We've already had the inflation & it'll be reflected in the statistics in the coming months.
+
+The short rate will need to raise above 2-3% to get inflation under control.
+
+The initial response to COVID was good, but the Federal Reserve and Federal government went way overboard.
+
+He thinks the Fed is going to keep saying they're targeting 2% inflation, but they'll really start targeting 3% inflation.
+
+It wouldn't surprise him if inflation falls, but not to 2% anytime soon.  It might fall to 6-7%.
+
+He thinks there is a 50% probability of a recession in 2023.
+
+## I would like Fed to go 100bps, says Wharton's Jeremy Siegel (May 11, 2022)
+
+[Link](https://youtu.be/3VP_Pxj00K8).
+
+The housing sector is very lagged in the way that it gets incorporated in the CPI.  Housing will lift the index for the next 6-9 months.
+
+He'd like to see the Fed go to 100bp.  He thinks this would create a rally after the initial sell-off cause it'd indicate that the Fed was protecting our currency.
+
+Promising slowdown in the growth of the money supply, but it's just the beginning.
+
+They started tightening way too late and we're suffering the consequences.
+
+Monetary policy has a big lag, probably 12-18 months.
+
 ## There is still a lot of inflation in the pipeline, says Wharton's Jeremy Siegel (May 3, 2022)
 
 [Link](https://youtu.be/alQXI-HJ6Jo).
