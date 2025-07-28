@@ -1,0 +1,35 @@
+site_name: NeaPowers
+site_url: https://neapowers.com
+theme:
+  name: material
+  features:
+    - content.action.edit
+    - content.code.copy
+    - navigation.footer
+    - navigation.expand
+    - navigation.indexes
+
+nav:
+  - Home: index.md
+  - Investing:
+    - Jerome Powell: investing/jerome-powell.md
+    - Jeremy Grantham: investing/jeremy-grantham.md
+    - Nouriel Roubini: investing/nouriel-roubini.md
+    - Landscape: investing/landscape.md
+    - Ray Dalio: investing/ray-dalio.md
+    - Rob Arnott: investing/rob-arnott.md
+    - Larry Summers: investing/larry-summers.md
+    - Meb Faber: investing/meb-faber.md
+    - Stanley Drukenmiller: investing/stanley-druckenmiller.md
+    - Jeffrey Gundlach: investing/jeffrey-gundlach.md
+    - Jeremy Siegel: investing/jeremy-siegel.md
+    - Expensive countries: investing/inexpensive-country-etfs-value-investors.md
+  - Marketing:
+    - Viral Reddit: marketing/creating-viral-reddit-posts.md
+  - PySpark:
+    - Create DataFrame: pyspark/createdataframe-todf.md
+  - Apache Spark:
+    - Native Functions: apache-spark/native-functions-catalyst-expressions.md
+  - Business:
+    - Content creator: business/content-creator-business-model.md
+    - Monetize YouTube: business/monetize-youtube-content.md
