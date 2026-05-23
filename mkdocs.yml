@@ -16,6 +16,8 @@ plugins:
       post_url_format: "{slug}"
 nav:
   - Home: index.md
+  - Brasil:
+    - Sao Paulo Activities: brasil/sao-paulo-activities.md
   - Investing:
     - Jerome Powell: investing/jerome-powell.md
     - Jeremy Grantham: investing/jeremy-grantham.md
