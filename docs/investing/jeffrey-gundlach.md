@@ -10,6 +10,28 @@ Jeffrey Gundlach, colloquially known as the "Bond King" is the founder of the Do
 
 He speaks frequently and this post summarizes his talking points.
 
+## Gundlach Unlocked: Positioning for Higher Rates and Persistent Inflation (June 12, 2026)
+
+[Link](https://www.youtube.com/watch?v=6WvR43ju-jw).
+
+Focuses on a DoubleLine asset allocation that's based on the current macro environment.
+
+COVID money printing lead to the surge in inflation as we came out of the pandemic.
+
+Long term interest rates of developed countries have risen a lot since 2020.  True in the UK, Australia, the US, Italy, etc.
+
+Gundlach still believe investors should continue to avoid long term bonds.
+
+2020 will be remembered as the secular bottom for interest rates.  Short rates were at 0% and the long bond was at 1%.
+
+The US personal savings rate is very low.  It was up during COVID and now we are at one of the lowest savings rates of all time.
+
+S&P CAPE is at an all time high.
+
+Market concentration is almost at an all time high as well.  Top biggest stocks are 41% of the market.  This is a bad time to double down on a concentrated portfolio.
+
+He thinks there will be an overbuild of data centers and that will be part of the downfall of the stock market.
+
 ## Jeffrey Gundlach joins Scott Wapner on CNBC Overtime (May 6, 2022)
 
 [Link](https://www.youtube.com/watch?v=ECe4xLSkvZo&ab_channel=DoubleLineCapital).
