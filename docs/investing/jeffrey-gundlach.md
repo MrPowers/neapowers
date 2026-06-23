@@ -10,6 +10,67 @@ Jeffrey Gundlach, colloquially known as the "Bond King" is the founder of the Do
 
 He speaks frequently and this post summarizes his talking points.
 
+## Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift
+
+[Link](https://www.youtube.com/watch?v=yeodaCXCG5w).
+
+**Felix Zulauf**
+
+Two main factors:
+* change in geopolitical order (unipolar to multipolar order)
+* economic changes
+
+Wars and sanctions are inflationary.
+
+Europe is in major decline.  China is in a secular rise, but in a long deflationary cycle and trapped in it.  US is doing very well, encouraged by easy money.  Now dominated by the CAPEX cycle.
+
+He thinks the US cycle will pop in the next 12 months.
+
+The next downcycle will create lots of systemic problems.  He thinks equities will top in Q3 2026 and early 2027.
+
+It will be a bear market based on recession and valuation contraction.
+
+He's bearish on the dollar for next year.  Not this yea (2026).
+
+The quick fixes are accelerating.  Eventually a lot of the debt will end up on the balance sheet of the central bank to keep the system functioning.  We are far beyond the point where policy makers can do what they want to do.
+
+CAPEX has expanded significantly from the hyperscalers.  It's gone from 10% => 30% of sales.  Semiconductor prices are rising rapidly.
+
+Free cash flow is already going down - Oracle free cash flow is now negative.
+
+
+
+**Jeffrey Gundlach**
+
+He comes to the same conclusions as Felix more often than not.
+
+We've had secularly declining interest rates for the last 40 years.
+
+It's almost impossible for long term interest rates to decline given the debt of the US.
+
+The interest expense on the debt is rising quickly.  It's around $1.4 trillion now.  Debt and interest rates are rising.  Average interest rate was 2% and now it's around 4%.  The interest expense problem during the next recession will get a lot worse.
+
+During the tariff tantrum in 2025, the dollar went down, which is unusual.  The dollar usually rises when the stock market goes down.
+
+He expects something of a crisis in the long-term bond market.  Couple options:
+
+* One option is yield curve control.  
+* Restructure the debt (this is effectively a default).  This would be extending the maturity and dropping the coupon.  This would force us to stop running ridiculous budget deficits during times of so-called prosperity.
+
+The cycle will be hard for lower credit worthy companies because existing bonds will roll off and they will need to issue higher yielding bonds.
+
+He recommends a zero allocation to momentum or cap weighted stocks.  He recommends emerging markets and local currencies.  He also recommends this for equities.
+
+The US investor needs to get away from all US.  You can make money on foreign securities and currency translation.
+
+He thinks gold will continue to be embraced as real money going forward.  Central banks have clearly already started this.
+
+The problem with the entitlement programs is on the doorstep.  It used to be 2060, now it's 2032, and he is targeting 2028/2029.  Just a couple of years.  It will have to be addressed.  The Social Security Administration is talking about cutting benefits now.  This system used to work, but doesn't work anymore.
+
+In the US, the reaction is more government programs.  Look at Mamdani - he is rolling out more government.
+
+The pushback against the AI data centers is large.  They use massive amounts of energy and water.
+
 ## Gundlach Unlocked: Positioning for Higher Rates and Persistent Inflation (June 12, 2026)
 
 [Link](https://www.youtube.com/watch?v=6WvR43ju-jw).
