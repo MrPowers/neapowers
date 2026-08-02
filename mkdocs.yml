@@ -19,7 +19,14 @@ nav:
   - Brasil:
     - Sao Paulo Activities: brasil/sao-paulo-activities.md
     - Coastal trips: brasil/coastal-trips.md
+    - Inland trips: brasil/inland-trips.md
+    - Festivals trips: brasil/festivals.md
+  - Lifting:
+    - Intermediate strength: lifting/intermediate-strength.md
+  - Hobbies:
+    - All hobbies: hobbies/all-hobbies.md
   - Investing:
+    - Ken Griffin: investing/ken-griffin.md
     - Jerome Powell: investing/jerome-powell.md
     - Jeremy Grantham: investing/jeremy-grantham.md
     - Nouriel Roubini: investing/nouriel-roubini.md
