@@ -56,3 +56,41 @@ They believe the hedge fund cost of capital is the risk free rate + 4%.
 
 The biggest investors in Citadel are Ken and his partners.  He thinks investors should always look for this.
 
+## Ken Griffin on the State of the U.S. Economy | WSJ (February 2026)
+
+[Link](https://youtu.be/86Sz35g0yS4?si=iPhyIM7FdlHeTSGF)
+
+If you're in your early 20s then your investment objectives are different than if you're in your 70s.
+
+Always invest your money consistent with what you need to achieve with your portfolio.
+
+If you're in your 20s, you will invest the majority of your money in equity markets around the world, even if valuations are frothy right now.
+
+The US dollar has lost some of its luster over the last 12 months.
+
+The US is asserting its strength from a geopolitical perspective.
+
+If you are the strongest nation in the world, then you are predisposed to having a strong currency.  The reserve currency status reduces your cost of capital, brings down interest rates, increases the quality of living of citizens, and allows us to engage in the global economy on a stronger footing.  It does make exports more complicated tho.
+
+There are very few companies in Europe with a market cap more than 10 billion.  Anthropic raised that in just a few days to fuel their growth.  US capital markets are so much stronger.
+
+We need to increase fiscal discipline in the US.  We are late in the economic cycle and running a big deficit.  At this point in the economic cycle, we should be close to break even.  Maybe even paying down the debt at this point.
+
+Too much of the economy is supported by the sugar high of fiscal spending.
+
+The US spent out of control during the pandemic.
+
+Politicians delaying these decisions means that policies down the road will be all the more painful for American citizens.  We don't know if Social Security payments can be made in the future given the current level of deficit spending.
+
+Kevin Warsh is a great candidate for being the Fed Chairman.  The decision means that the Fed will maintain independence.
+
+For the American people, prices are much higher than they were 5 years ago.
+
+The Obama and Biden administrations invested in green energy and a lot of those investments went belly up.  We have a great venture capital community in the US.  We don't need the US government to make venture investments.
+
+Companies hoarded labor during the pandemic because nobody knew what work from home would be in terms of productivity.
+
+Ken left Chicago and went to Florida originally because COVID was less transmissible in the hot/humid environment.  The Florida government collaborated with Citadel to help him run his operations during the pandemic.
+
+Ken said that Palm Beach will be his home for the rest of his life.
+
