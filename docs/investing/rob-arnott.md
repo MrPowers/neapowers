@@ -6,6 +6,41 @@ draft: False
 
 # Rob Arnott
 
+## Can A.I. Improve Investment Results? With Rob Arnott, Founder & Chair, Research Affiliates.
+
+[Link](https://www.youtube.com/watch?v=N0A7RVSk__Y)
+
+AI is nothing new in the investing world.
+
+AI needs billions of samples to be used.  It doesn't work well with monthly, quarterly, or annual data.
+
+They use AI extensively, but not for product innovation or asset management.  They are focused on a time horizon measured in years.
+
+He finds AI really useful for editing papers.
+
+He views AI as a very powerful tool.  They aren't very creative.
+
+You will embrace AI if you love life.  Less so if you are fearful.
+
+Organizations that embrace change will benefit from AI.
+
+He doesn't think that AI is good for long term investment decisions.  They are obsessed with avoiding data mining.  AI is a massively powerful data miner.
+
+Data mining leads to better backtests and worse live results.  Anchoring on what worked well in the past will often anchor you to what recently performed well and is due for reversion to the mean.
+
+The scientific method involves starting with a premise and then using data to evaluate the hypothesis.
+
+Non-US is still a bargain.  Value is still very cheap compared to growth around the world.  Small-cap is now the cheapest ever in history in the US relative to large-cap.  This is a function of indexation.
+
+Buckets of extraordinary value:
+
+* small cap US value
+* value outside the US
+
+He thinks the dollar has reverted back to roughly fair value.
+
+Technological innovation always destroys and creates millions of jobs.
+
 ## Investing: The Difference Between Growth and Value (January 11, 2022)
 
 [Link](https://www.youtube.com/watch?v=lZcxihvwrZc&ab_channel=RealVisionFinance).
