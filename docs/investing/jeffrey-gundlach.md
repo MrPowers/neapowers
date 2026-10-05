@@ -10,6 +10,163 @@ Jeffrey Gundlach, colloquially known as the "Bond King" is the founder of the Do
 
 He speaks frequently and this post summarizes his talking points.
 
+## An Afternoon with David Rosenberg & Jeffrey Gundlach (October 1, 2026)
+
+[Link](https://www.youtube.com/watch?v=JvNEH9W3QZA&t=379s).
+
+Barron's titled him the bond king in 2011, 15 years ago.
+
+75% of the S&P 1500 stocks are in a correction right now.
+
+440 of the stocks in the S&P 500 are down more than 21% from their high.
+
+He thinks there is a lot of rot in private equity and private credit.
+
+He follows social mood a lot.  He has a good emotional memory about how things feel.  In June/July 2026, he felt like we hit the peak of AI mania enthusiasm.
+
+It seems like we've hit peak lunacy for AI stuff.  Anthropic and OpenAI don't have any moat.  And they want the government to provide some moats.
+
+Something will have to happen with the US interest expense problem.  Every bond is rolling off and getting refinanced at a higher interest rate.  Debt has been growing faster than GDP for decades.  Something will have to happen cause we can't grow our way out of the situation. There are two options.
+
+1. print it which would be inflationary
+2. restructure the debt.  One way is to buy the long term securities and issue short term notes.  The Fed can then artificially lower rates and bring down yields at the long end.  This would also be inflationary.
+
+He's been talking about the need for a balanced budget for the last 25 years.
+
+There are some reasons the yields are relentlessly rising:
+
+1. the war and diesel
+2. monumental amount of bond issuance.  All over the developed world and now with AI issuances.
+
+Rates will continue to rise till something is done about it.  One option is operation twist.  Another is restructuring the debt.
+
+Rosenberg:
+* This is the most unhinged the bond market has been in his 40-year career.
+* He thinks he will see the US dollar stop being the reserve currency in his lifetime (that's why he likes gold)
+
+Warsh reminds Gundlach of Al Gore at the different presidential debates:
+* first one was the "sighing Al Gore" when he was making noises when Bush said things he didn't like
+* second one was the pumpkin makeup because he wore so much makeup
+* third one was Mr. Nice Guy
+
+Nobody knew who Al Gore actually was and that's why he lost the election.
+
+Warsh is doing the same thing:
+* at one press conference he sounds really hawkish
+* then he sounds really dovish
+* then he thinks it's funny to talk about "hiking", but the physical activity.  But he's the guy who previously didn't want to talk about forward guidance.
+* at the last press conference, he just dodged all the questions and didn't answer them
+
+Inflation started getting picked up in the media a lot when national gas prices rose to more than $4.
+
+He thinks the debt will hit $50 trillion before 2030, especially if there is a recession.
+
+Interest rates, if left to market forces, will rise when the economy gets weaker because tax receipts will decrease and the deficit will get worse.
+
+From 1980 to 2020, there were secularly declining interest rates.  This isn't happening anymore.
+
+He expects the hyperscalers to go from massive borrowing to zero overnight.
+
+Gundlach thinks gold is going up.  Gold has become a legitimate asset.  You were laughed at for 20 years for recommending gold.  He's quite bullish on gold at any level below $3,800.
+
+He thinks the real inflation rate is 3-3.5%.
+
+Index funds are completely price insensitive.  They buy at the market cap percentage, regardless of price.  We're using the retail index fund money (60% of all money in the US stock market) and they are using it as a dumping ground to create an exit for money losing companies.  This is a very dangerous time period to be in an index fund.
+
+He likes equal weighted stock indexes.  He wants to get far away from the blast radius of the AI portion of the stock market.
+
+Rosie: Warsh wants 2% inflation during an energy shock.  This would destroy the economy.
+
+Possible measures of the true risk free rate:
+* 10 year Treasury
+* MBS that originated 5-6 years ago.  These won't default.  These homeowners have a large unrealized capital gain.  This yield is 7%.
+* Well managed funds of the top-tier bank loan market.  These give SOFR + 130 bp.  SOFR is currently 4%, so you get 5.3%, which is the same as the 10-year Treasury, but it's a floating rate instrument during a hiking cycle.
+
+He thinks you can get a "risk free" yield of 6% on a 2-year duration portfolio.  He thinks this is a good allocation for 20% of your portfolio to wait for the stock/bond market to offer better opportunities.
+
+He recommends 30% in bonds.  He likes to barbell it.
+* Safe: Total return bond fund that he runs.  This owns no corporate or foreign bonds.  Just US based and heavily in US government and MBSs.
+* Risky: emerging market local bond funds.  You want this actively managed.  Don't put these in an index fund.  He expects the currency translation to work in your favor.  You want to avoid the serial defaulters.
+
+Rosie thinks that shelter is quite deflationary.  He thinks this will show over time.  He thinks the labor market is cooling, but not cracking.  Labor has no bargaining power.
+
+## Jeffrey Gundlach: We've Crossed to the Hard Side of the Street (September 18, 2026)
+
+[Link](https://www.youtube.com/watch?v=Li4qjXRQ6So&t=3149s).
+
+Valuations of the markets are high.  Shiller P/E ratio is 42.  Every time it has been 35+, the forward 10 year earnings are negative.
+
+AI was rolling along and everyone was believing in it and then the narrative changed dramatically to "AI will kill us all".
+
+Gundlach Unlocked is to give the Doubleline funds that he recommends to buy.  Recommendations:
+
+* 30% equities: equal weighted US index.  This way you don't have 40% of your portfolio in AI.
+* 30% Fixed income: half in total return fund and half in local currency emerging market debt.  He thinks you'll make money on the currency for the local currency emerging market debt.
+* 20% in real assets.  10% gold & 10% in commodities.
+* 20% dry powder
+
+He's recommending to get everything in your portfolio away from AI.
+
+We have a deficit that's heading towards 50 trillion and we may be running deficits of 10-12% in the next recession.
+
+There will be fallout and losers in the search of the AI holy grail.  He thinks we're close enough to get away right now.
+
+He'd be surprised if there isn't some sort of a shock in the next year.
+
+Diesel nationwide is $8.  In some parts of California, diesel is $9.99 cause they don't have enough digits on the pump.
+
+He doesn't see the energy price shock going away at all.  Costco is rationing Kirkland motor oil because they didn't want people to start hoarding.
+
+Gundlach thinks the CPI is heading to 4%.
+
+They want to stay at the short end of the curve.
+
+Gundlach feels like the ethos of optimism wore out in June 2026.  It's when the hyperscalers issued bonds and they were rejected by the market.
+
+A lot of people would be livid if the private credit funds end up getting bailed out.
+
+## Gundlach Unlocked: The Fed’s Next Move (September 11, 2026)
+
+[Link](https://www.youtube.com/watch?v=HVwbX7dcQWc).
+
+Local currency emerging markets have a yield of about 7%.  This is pretty good competition for the stock market and current valuations.
+
+Investment grade bonds haven't seen spread widening, but the AI sector has seen large spread widening.  The AI high yield spread has also widened vs the non-AI high-yield spread.
+
+We all know that the US Treasury is borrowing way too much money.
+
+Corporations also have a huge demand to issue debt.
+
+They like short term TIPS cause they think the implied inflation rate is way too low compared to what will actually happen.
+
+The US debt has been growing rapidly since the Great Financial Crisis and there is no end in sight.
+
+We will probably be at $50 trillion of debt by 2032.
+
+The Social Security system administrators will be out of money by 2032 (they are always overly optimistic and they will probably run out by 2029/2030).  Social Security will have to be reformed.
+
+Looks like we will set a new deficit record in 2026.
+
+We are heading towards 7%/8% deficits in the coming years.
+
+He thinks gold should be part of every portfolio.  Central banks and other investors are preferring gold to fiat.
+
+The Shiller P/E ratio is at the all-time dotcom bubble high.  Stocks are not cheap.
+
+The Shiller CAPE for the S&P has never predicted a 10-year positive return at this current level of 42.
+
+He does not recommend any market cap weighted stock indexes.
+
+This is an extremely concentrated stock market in the AI big 10 which means an extremely dangerous market.
+
+The equal weighted S&P 500 has been outperforming for 1.25 years.
+
+US stocks have stopped outperforming.  They outperformed by a lot from 2010 till 2025 and have been going sideways since.
+
+He has been investing in foreign equities, but now he's coming "close to home because he doesn't like the risk setup for markets".
+
+The Dollar index (DXY) has been falling since 2024.
+
 ## Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift
 
 [Link](https://www.youtube.com/watch?v=yeodaCXCG5w).
@@ -30,15 +187,13 @@ The next downcycle will create lots of systemic problems.  He thinks equities wi
 
 It will be a bear market based on recession and valuation contraction.
 
-He's bearish on the dollar for next year.  Not this yea (2026).
+He's bearish on the dollar for next year.  Not this year (2026).
 
 The quick fixes are accelerating.  Eventually a lot of the debt will end up on the balance sheet of the central bank to keep the system functioning.  We are far beyond the point where policy makers can do what they want to do.
 
 CAPEX has expanded significantly from the hyperscalers.  It's gone from 10% => 30% of sales.  Semiconductor prices are rising rapidly.
 
 Free cash flow is already going down - Oracle free cash flow is now negative.
-
-
 
 **Jeffrey Gundlach**
 
@@ -77,7 +232,7 @@ The pushback against the AI data centers is large.  They use massive amounts of 
 
 Focuses on a DoubleLine asset allocation that's based on the current macro environment.
 
-COVID money printing lead to the surge in inflation as we came out of the pandemic.
+COVID money printing led to the surge in inflation as we came out of the pandemic.
 
 Long term interest rates of developed countries have risen a lot since 2020.  True in the UK, Australia, the US, Italy, etc.
 
@@ -105,7 +260,7 @@ The Fed isn't going to raise rates 75bp.  That was worrying the stock market, bu
 
 Foreign / European stock markets continue to be good performers.
 
-Dollar has has a triple top - 2017, 2020, 2022.
+Dollar has a triple top - 2017, 2020, 2022.
 
 It's amazing the emerging markets equities are doing as well as they're doing given the carnage in the emerging markets bonds.  If the dollar index falls below 102, he think that's the signal to buy emerging markets.
 
@@ -137,7 +292,7 @@ Everyone expects a 50bp rate hike next week.
 
 For the past 25 years, the Fed Funds rate was guided by the 2 year Treasury, until now.  Fed is well behind the curve right now.
 
-Yield curve in inverted, which is usually followed with a recession 12-18 months later.  Gundlach expects a recession in 2023.
+Yield curve is inverted, which is usually followed with a recession 12-18 months later.  Gundlach expects a recession in 2023.
 
 Gundlach thinks inflation will come down.  Inflation is currently at 8.5%.
 
@@ -153,9 +308,9 @@ MSCI Europe is outperforming the S&P 500 this year.
 
 The Fed follows the 2 year Treasury.
 
-The Fed is way behind.  Gundlach though Powell did an alright job this time.
+The Fed is way behind.  Gundlach thought Powell did an alright job this time.
 
-For now, rates are still really accomodating and the Fed isn't shrinking the balance sheet.
+For now, rates are still really accommodating and the Fed isn't shrinking the balance sheet.
 
 The market will roll over once the Fed raises rates a few more times.
 
@@ -177,9 +332,9 @@ He also thinks investors should gradually start investing in emerging markets.  
 
 He still hasn't bought emerging market equities.  You need the dollar to go down for the emerging market trade to work.  You want to buy the emerging market trade for your "grandkid's college education".
 
-Long term we're still were in a debt disaster sitution and the only way out is to monetize or to default and this will always be the case, the mathematics just don't work.
+Long term we're still in a debt disaster situation and the only way out is to monetize or to default and this will always be the case, the mathematics just don't work.
 
-We're paying of 168 trillion in unfunded liabilites with a $24 trillion nominal GDP.  Numbers just don't add up.
+We're paying of 168 trillion in unfunded liabilities with a $24 trillion nominal GDP.  Numbers just don't add up.
 
 This is coming in the next recession and that's when the dollar will go down.
 
@@ -217,7 +372,7 @@ The dollar index is up at a local high.
 
 Gundlach does not think that the Fed will back off.
 
-25bp rate high is a guarantee in March (could be 50bp) and thinks there will be at least 4 rate hikes in 2022.
+25bp rate hike is a guarantee in March (could be 50bp) and thinks there will be at least 4 rate hikes in 2022.
 
 Everything is balanced on zero interest rates and quantitative easing of 120 billion per month.
 
@@ -290,13 +445,13 @@ He hasn't bought emerging market equities yet, but he's getting close.  It's OK 
 
 US value is way cheap compared to US growth.  Value right now is as cheap as it was in 1976 vs growth.
 
-US was outperforming massively.  Not it's slightly underperforming.  Momentum has reversed.  The relentless trend has shows signs of reversing.
+US was outperforming massively.  Now it's slightly underperforming.  Momentum has reversed.  The relentless trend has shows signs of reversing.
 
 The dollar is holding up and might push up a little higher, but once it reverses, and it will, you will really see the foreign outperformance.
 
 Dollar trends tend to go for 8 years.  Got 3-6 years of having a weak dollar.  There will probably be a 4-5 year period of foreign outperformance.
 
-There are going to be big moves when the outsized valuation discrepencies normalize.
+There are going to be big moves when the outsized valuation discrepancies normalize.
 
 He expects stability in the near term for US equities.
 
@@ -316,7 +471,7 @@ He hasn't bought emerging market equities yet, but he's getting close.  It's OK 
 
 US value is really cheap now vs US growth.  You also see this in developed markets.
 
-The relentless trend of US outperformance is alreading showing signs of reversing momentum.
+The relentless trend of US outperformance is already showing signs of reversing momentum.
 
 ## Jeffrey Gundlach interview - Yahoo Finance 1-4-22
 
@@ -328,7 +483,7 @@ Fed is talking about getting out of the quantitative easing business as early as
 
 The yield curve is giving a recession signal.  Yields are going up at the short end and down at the long end.
 
-Gundlachs law of financial physics: the relationship between the Fed's balance sheet and the market cap of the S&P 500 index.
+Gundlach's law of financial physics: the relationship between the Fed's balance sheet and the market cap of the S&P 500 index.
 
 The valuation of stocks is also worrisome.  The CAPE ratio is high.  ROW CAPE is around half of the US CAPE.
 
@@ -352,7 +507,7 @@ Michigan consumer confidence survey has really deteriorated.  People were flush 
 
 In the last 2 years, S&P is up 30% (from 2020 till end of 2021).  If you take out the 5 FAANG stocks, the return is 0% (the S&P 495 if you will).
 
-At some point in 2022, you should buy emerging markets because they are so cheap, but this recommendation isn't for the faint of heart.  EM stocks are so cheap compared to US stocked by historical standards.
+At some point in 2022, you should buy emerging markets because they are so cheap, but this recommendation isn't for the faint of heart.  EM stocks are so cheap compared to US stocks by historical standards.
 
 Gundlach thinks Social Security will go bust before 2030.
 
@@ -388,11 +543,11 @@ Real interest rate on the Fed Funds is -614 basis points!
 
 We're going to have to deal with the debt and the unfunded liabilities in our time.
 
-What if we didn't do quantitative easing and just went negative on Fed Funds rate.  What's the equivalent Fed Funds rate?  Accoring to the Atlanta Fed, the Fed Funds in this cases is -800 basis points.
+What if we didn't do quantitative easing and just went negative on Fed Funds rate.  What's the equivalent Fed Funds rate?  According to the Atlanta Fed, the Fed Funds in this case is -800 basis points.
 
 Consumer sentiment is falling.  Consumers think it's a terrible time to buy a car (worst reading of all time).  Consumers also think it's a bad time to buy a house, even though interest rates are really low.
 
-The owners equivalent rent computation of the CPI leads to a lag effect.  Gundlack expects that the rise in housing prices in 2021 will be reflected in the CPI in 2022.
+The owners equivalent rent computation of the CPI leads to a lag effect.  Gundlach expects that the rise in housing prices in 2021 will be reflected in the CPI in 2022.
 
 Gundlach expects economic problems by the second half of 2022.
 
@@ -400,9 +555,9 @@ Consumers think now is a great time to find a quality job.
 
 US equity market has really outperformed emerging market equities for the last 10 years.  Massive S&P outperformance compared to certain emerging markets in 2021.
 
-The dollar has strengthened, particularily against emerging market currencies.
+The dollar has strengthened, particularly against emerging market currencies.
 
-Gundlach's long term view is strongly dollar bearish.  He thinks the dollar will start going down in the second half of 2022, maybe 2023.  The twin deficit problem of the US will cause it to do down.
+Gundlach's long term view is strongly dollar bearish.  He thinks the dollar will start going down in the second half of 2022, maybe 2023.  The twin deficit problem of the US will cause it to go down.
 
 When the dollar goes down, you will see tremendous outperformance by non-US stocks.
 
@@ -440,7 +595,7 @@ Case-Shiller median home price is up 20% year-over-year in the United States.
 
 Stocks are still not overvalued vs government bonds.
 
-He recomends 12.5% cash and 25% stocks.
+He recommends 12.5% cash and 25% stocks.
 
 Likes European stocks because the dollar is going to go down and European stocks are really cheap compared to US stocks.
 
@@ -464,17 +619,17 @@ Gundlach started reading 1984 by George Orwell and it's very difficult because i
 
 Seems like Operation Warp Speed was a big success.  The vaccine rollout seems like a great action by the government, assuming there aren't unexpected long term effects of the vaccine.
 
-COVID responses the governemnt didn't do well:
+COVID responses the government didn't do well:
 
 * plexiglass barriers: it was clear that this virus was being spread through the air, not surfaces
 * banning outdoor stuff
 * government blindly spending, a large fraction of which was obviously corruption.  California admits to having tens of billions unaccounted for.
 
-Gundlach thinks we'll see a lot of evictions when the moritorium ends.  A lot of people won't pay their back rent.
+Gundlach thinks we'll see a lot of evictions when the moratorium ends.  A lot of people won't pay their back rent.
 
 Home prices are a leading indicator of rent and home prices are up 23% YoY.
 
-He's buillish on places that aren't currently hot.
+He's bullish on places that aren't currently hot.
 
 Hot places: Austin, Nashville, Boise
 
@@ -482,13 +637,13 @@ Places Gundlach looked for property (cheaper cause they don't have herding menta
 
 Money give aways temporarily help the poorest, but help the uber-rich.  The middle class gets poorer from money printing.
 
-We had momentous shifts getting into these fiscal stimulus policies and transitioing out of them will not be smooth.
+We had momentous shifts getting into these fiscal stimulus policies and transitioning out of them will not be smooth.
 
 If you used housing prices in the CPI, then headline inflation would be 11%.
 
-Cambells Soup index is up to $1.00 from 0.85 a year ago.
+Campbell's Soup index is up to $1.00 from 0.85 a year ago.
 
-Nobody can find workers anymore.  In-and-out burger is paying $18 an hour.
+Nobody can find workers anymore.  In-N-Out Burger is paying $18 an hour.
 
 Every time we have a recession for the last 25 years, we add a new weapon to the arsenal.
 
@@ -498,7 +653,7 @@ The total government give aways are around $7 trillion, around 30% of GDP.  We g
 
 The Fed was buying $100 billion of bonds some days, it was insane.
 
-The Fed also had to bail out the corporate bond market cause it was completely disfunctional.  The amount of sellers was overwhelming the amount of buyers.
+The Fed also had to bail out the corporate bond market cause it was completely dysfunctional.  The amount of sellers was overwhelming the amount of buyers.
 
 The bailouts are good in the short term, but maybe not in the long term.  Credit cycles kill zombie companies.  Getting rid of the inefficient companies is important for capitalism.
 
@@ -516,7 +671,7 @@ In April 2021, it was the peak of the housing market, and nothing was for sale. 
 
 In April, he didn't see a single For Sale sign in Buffalo.  In July, he saw a lot of For Sale signs.
 
-Gundlach thinks the Fed is steathily doing yield curve control.
+Gundlach thinks the Fed is stealthily doing yield curve control.
 
 Seems like they're trying to cap the long Treasury yield at 2%.
 
@@ -542,7 +697,7 @@ GDP has a lot to do with buying Chinese goods through Amazon, which isn't really
 
 Gundlach expects a big fall off in military enlistments.
 
-70% of all casualties in the middle east were white middle class.  If you're going to discorage them from enlisting in the military, then they won't enlist.
+70% of all casualties in the middle east were white middle class.  If you're going to discourage them from enlisting in the military, then they won't enlist.
 
 The US dollar has been the world's reserve currency cause the US is the world's biggest economy, reliable rule of law, and biggest military.
 
@@ -584,7 +739,7 @@ Gundlach prefers stocks denominated in the Euro right now, maybe emerging market
 
 Gundlach doesn't think the Fed is serious about raising short term interest rates as long as they're doing quantitative easing.
 
-The Fed is clinging to the transitory inflation theory even though they've already been wrong.  They initially though 2-3 months, now they're thinking 6-9 months.
+The Fed is clinging to the transitory inflation theory even though they've already been wrong.  They initially thought 2-3 months, now they're thinking 6-9 months.
 
 The Fed's tapering will certainly be damaging for the stock market.
 
@@ -636,7 +791,7 @@ Emerging market equities are really cheap, but that's because COVID problem is m
 
 Gundlach's #1 conviction over the next several years is that the dollar will go down.
 
-He's already rotated into European equities and will aggressively rotate into emerging market equities, he just thinks its too early for that right now.
+He's already rotated into European equities and will aggressively rotate into emerging market equities, he just thinks it's too early for that right now.
 
 Ultimately, he thinks gold will go a lot higher too, but it's in hibernation right now.
 
@@ -646,7 +801,7 @@ Ultimately, he thinks gold will go a lot higher too, but it's in hibernation rig
 
 We're at extremely high stock market valuations.
 
-Stocks are still cheap to bonds because the bong yield is so incredibly low.
+Stocks are still cheap to bonds because the bond yield is so incredibly low.
 
 It's getting hard for the Fed to talk about the inflation situation as transitory.
 
@@ -778,7 +933,7 @@ Real bond yield is now negative 250bp.
 
 Fed & Treasury Secretary (Janet Yellen) say the inflation rate is transitory.
 
-He has great respect for Stanley Drukenmiller.
+He has great respect for Stanley Druckenmiller.
 
 We're in uncharted waters now in the same way we were in uncharted waters 1984.
 
@@ -806,7 +961,7 @@ The CPI uses "owners equivalent rent", but if they used home prices instead, the
 
 He thinks Dogecoin & GameStop are obvious manias.
 
-There is incredible inconsistency in the movement of the main stock market averages recently.  The Dow it up and the Nasdaq is down.  Or the S&P 500 is down and the Nasdaq is flat.
+There is incredible inconsistency in the movement of the main stock market averages recently.  The Dow is up and the Nasdaq is down.  Or the S&P 500 is down and the Nasdaq is flat.
 
 He is super bearish on the US dollar.  "The dollar is doomed with the policies that are currently being enacted".
 
@@ -870,9 +1025,9 @@ The stimulus checks are starting to feel like they're not going away.  Gavin New
 
 In NY and California, a lot of people are getting $57k a year, tax free, for not working.
 
-Gudlach bought a used truck with 8,000 miles on it, haha, dude is a billionaire.
+Gundlach bought a used truck with 8,000 miles on it, haha, dude is a billionaire.
 
-Feels to him that the market started worrying about inflation this week.  He thinks that inflation will still go up for the next few months.  It if keeps going up in the fall, then people will really get worried.
+Feels to him that the market started worrying about inflation this week.  He thinks that inflation will still go up for the next few months.  If it keeps going up in the fall, then people will really get worried.
 
 The Fed is most content when the inflation rate is higher than all the interest rates, across the yield curve.
 

@@ -6,11 +6,25 @@ draft: False
 
 # Jeremy Siegel
 
-Siegel is a professor and famous author, best know for Stocks for the Long Run.  His background:
+Siegel is a professor and famous author, best known for Stocks for the Long Run.  His background:
 
 * PhD from MIT with specialty in monetary theory
-* Worked in Chicago with Milton Freeman
+* Worked in Chicago with Milton Friedman
 * Longtime professor at the University of Pennsylvania & WisdomTree advisor
+
+## Wharton's Jeremy Siegel: September jobs report was 'a wonderful report' for Fed Chairman Warsh (October 5, 2026)
+
+[Link](https://www.youtube.com/watch?v=pBtim4-uCYM).
+
+The jobs report that just came out was great for Warsh.  Increase in the participation rate and the work week.  These give Warsh cover to hold in the next meeting.
+
+He thinks interest rates have been rising because of increased growth expectations.  This is why stocks are holding up.
+
+He thinks the rally will continue in Q4 if oil stays below $90 because earnings are certainly good.
+
+Every single developed major market has had dramatic rises in interest rates.  They've all been increases in real interest rates.  Inflation expectations aren't driving this.
+
+He likes the broad indexes.  Europe indexes have a 14-15 P/E, so they don't have to grow fast to give a good return.  Japan has done very well this year and has a 16 P/E.  In the long run, he thinks diversification will pay the investor.
 
 ## Wharton's Jeremy Siegel still against the Fed, bullish on stocks in 2023 (January 1, 2023)
 
@@ -142,7 +156,7 @@ Siegel prefers value tilting (towards earnings or dividends).
 
 The US is 50% of the world's equity.
 
-Siegel also thinks international stocks will outperfom US stocks in 2022.
+Siegel also thinks international stocks will outperform US stocks in 2022.
 
 Siegel doesn't think Bitcoin will be the currency of the future.
 
@@ -152,7 +166,7 @@ Siegel is writing a new version of the book Stocks for the Long Run.
 
 [Link](https://www.youtube.com/watch?v=jf5tBFDrkzE&ab_channel=CNBCTelevision).
 
-He's been sayind the Fed had to be far more aggressive for over a year.
+He's been saying the Fed had to be far more aggressive for over a year.
 
 He thinks inflation was never temporary and will get worse.
 
@@ -174,7 +188,7 @@ High flying tech stocks are most impacted by changes in discount rates.
 
 Growth beat value in 2021.  Siegel thinks the tables will be turned in 2022.  He thinks investors will be searching for dividend paying stocks in 2022.
 
-Don't forget that dividends on stocks are basically real yields.  They're inflation protected becuase they're based on real assets.
+Don't forget that dividends on stocks are basically real yields.  They're inflation protected because they're based on real assets.
 
 "You can't find anything in the bond market that I see attractive".
 
@@ -200,11 +214,11 @@ We may see rate increases of 50 basis points.  Baby steps of 25 basis might not 
 
 The interest rate is far below the rate of inflation, which encourages people to borrow and buy goods.
 
-Powell is the most dovish Fed chariman that Siegel knows.
+Powell is the most dovish Fed chairman that Siegel knows.
 
 He thinks the stock market will have some headwinds from the Fed but he's still optimistic.  You want to hold real assets when there is inflation (and stocks are real assets).
 
-He doesn't regard the stock market as cheap, but not wildly expensive either.  He thinks the bulk of the market is reasonbly priced.
+He doesn't regard the stock market as cheap, but not wildly expensive either.  He thinks the bulk of the market is reasonably priced.
 
 Siegel expects big labor bumps in the coming months.  Workers will want raises to keep up with inflation.
 
@@ -224,7 +238,7 @@ Siegel thinks the Fed will have to be much more aggressive than what the market 
 
 He expects a 10% gain in the S&P in 2022.
 
-Siegel thinks we may have to get to 2% on Fed Funds next year.  If you measure them in quarter points, that's 8 rake hikes!!
+Siegel thinks we may have to get to 2% on Fed Funds next year.  If you measure them in quarter points, that's 8 rate hikes!!
 
 Think you'll need lots of hikes to battle a 5-6% inflation rate.
 
@@ -292,7 +306,7 @@ Inflation isn't that bad for stocks, it is bad for bonds.  Stocks are real asset
 
 Powell may announce tapering at Jackson Hole in August or perhaps even sooner (CPI release on July 13th).  PPI is released on July 14th.
 
-Tapering back on 120 billion monthly asset purchases and keeping interest rates at 0% is still extrodinarily stimulating in a strong economy.  Any interest rate under 2% is stimulating.
+Tapering back on 120 billion monthly asset purchases and keeping interest rates at 0% is still extraordinarily stimulating in a strong economy.  Any interest rate under 2% is stimulating.
 
 Relative to history, this is still a very, very loose Fed.
 
@@ -312,7 +326,7 @@ Jay Powell is the most dovish Fed chairperson he's ever seen.
 
 While the money keeps flowing, Siegel thinks the stock market will keep going up.
 
-The money supply is up 30% since the beginning of the pandemic.  This money will find it's way to more spending and inflation.
+The money supply is up 30% since the beginning of the pandemic.  This money will find its way to more spending and inflation.
 
 Stocks are financial assets, but they are claims on real assets.
 
@@ -381,7 +395,7 @@ Bondholders are going to pay for the "war on COVID" - they'll pay with inflation
 
 Bond interest rates are too low right now to make the 60% stock / 40% bond portfolio viable anymore.
 
-He thinks value stock with outperform in 2021.
+He thinks value stocks will outperform in 2021.
 
 Yields from stocks are basically protected from inflation.
 
@@ -399,7 +413,7 @@ Real estate will be good.  Real assets perform well in inflationary environments
 
 The political reality is that we will have tax increases coming up soon.
 
-Book value is now a "stupid" measure of value because it doesn't factor in intellectual property.  Intangibles are a principle source of wealth in the market and they're not captured by book value.
+Book value is now a "stupid" measure of value because it doesn't factor in intellectual property.  Intangibles are a principal source of wealth in the market and they're not captured by book value.
 
 Siegel thinks the run up in tech stocks was much deserved, but now they're fully priced and value is where you want to be today.
 
