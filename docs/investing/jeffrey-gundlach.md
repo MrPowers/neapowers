@@ -10,6 +10,163 @@ Jeffrey Gundlach, colloquially known as the "Bond King" is the founder of the Do
 
 He speaks frequently and this post summarizes his talking points.
 
+## An Afternoon with David Rosenberg & Jeffrey Gundlach (October 1, 2026)
+
+[Link](https://www.youtube.com/watch?v=JvNEH9W3QZA&t=379s).
+
+Barrons titled him the bond king in 2011, 15 years ago.
+
+75% of the S&P 1500 stocks are in a correction right now.
+
+440 of the stocks in the S&P 500 are down more than 21% from their high.
+
+He thinks there is a lot of rot in private equity and private credit.
+
+He follows social mood a lot.  He is a good emotional memory about how things feel.  In June/July 2026, he felt like we hit the peak of AI mania enthusiasm.
+
+It seems like we've hit peak lunacy for AI stuff.  Anthropic and OpenAI don't have any moat.  And they want the government to provide some moats.
+
+Something will have to happen with the US intereest expense problem.  Every bond is rolling off and getting refinanced at a higher interest rate.  Debt has been growing faster than GDP for decades.  Something will have to happen cause we can't grow our way out of the situation. There are two options.
+
+1. print it which whould be inflationary
+2. restructure the debt.  One way is to buy the long term securities and issue short term notes.  The Fed can then artificially lower rates and bring down yields at the long end.  This would also be inflationary.
+
+He's been talking about the need for a balanced budget for the last 25 years.
+
+There are some reasons the yields are relentlessly rising:
+
+1. the war and diesel
+2. monumental amount of bond issuance.  All over the developed world and now with AI issuances.
+
+Rates will continue to rise till something is done about it.  One option is operation twist.  Another is restructuring the debt.
+
+Rosenberg:
+* This is the most unhinged the bond market has been in his 40-year career.
+* He thinks he will see the US dollar stop being the reserve currency in his lifetime (that's why he likes gold)
+
+Warsh reminds Gundlach of Al Gore at the different presidential debates:
+* first one was the "sighing Al Gore" when he was making noises when Bush said things he didn't like
+* second one was the pumpkin makeup because he wore so much makeup
+* third one was Mr. Nice Guy
+
+Nobody knew who Al Gore actually was and that's why he lost the election.
+
+Warsh is doing the same thing:
+* at one press conference he sounds really hawkish
+* then he sounds really dovish
+* then he thinks it's funning to talk about "hiking", but the physical activity.  But he's the guy who previously didn't want to talk about forward guidance.
+* at the last press conference, he just dodged all the questions and didn't answer them
+
+Inflation started getting picked up in the media a lot when national gas prices rose to more than $4.
+
+He thinks the debt will hit $50 trillion before 2030, especially if there is a recession.
+
+Interest rates, if left to market forces, will rise when the economy gets weaker because tax recepts will decrease and the deficit will get worse.
+
+From 1980 to 2020, there were secularly declining interest rates.  This isn't happening anymore.
+
+He expects the hyperscalers to go from massive borrowing to zero overnight.
+
+Gundlach thinks gold is going up.  Gold has become a legitimate asset.  You were laughed at for 20 years for recommending gold.  He's quite bullish on gold at any level below $3,800.
+
+He thinks the real inflation rate is 3-3.5%.
+
+Index funds are completely price insensitive.  They buy at the market cap percentage, regardless of price.  We're using the retail index fund money (60% of all money in the US stock market) and they are using it as a dumping ground to create an exit for money losing companies.  This is a very dangerous time period to be in an index fund.
+
+He like equal weighted stock indexes.  He wants to get far away from the blast radius of the AI portion of the stock market.
+
+Rosie: Warsh wants 2% inflation during an energy shock.  This would destroy the economy.
+
+Possible measures of the true risk free rate:
+* 10 year Treasury
+* MBS that originated 5-6 years ago.  These won't default.  These homeowners have a large unrealized capital gain.  This yield is 7%.
+* Well managed funds of the top-tier bank loan market.  These give SOFR + 130 bp.  SOFR is currently 4%, so you get 5.3%, which is the same as the 10-year Treasury, but it's a floating rate instrument during a hiking cycle.
+
+He thinks you can get a "risk free" yield of 6% on a 2-year duration portfolio.  He thinks this is a good allocation for 20% of your portfolio to wait for the stock/bond market to offer better opportunities.
+
+He recommends 30% in bonds.  He likes to barbell it.
+* Safe: Total return bond fund that he runs.  This owns no corpororate or foreign bonds.  Just US based and heavily in US government and MBSs.
+* Risky: emerging market local bond funds.  You want this actively managed.  Don't put these in an index fund.  He expects the currency translation to work in your favor.  You want to avoid the serial defaulters.
+
+Rosie thinks that shelter is quite deflationary.  He thinks this will show over time.  He thinks the labor market is cooling, but not cracking.  Labor has no bargaining power.
+
+## Jeffrey Gundlach: We've Crossed to the Hard Side of the Street (September 18, 2026)
+
+[Link](https://www.youtube.com/watch?v=Li4qjXRQ6So&t=3149s).
+
+Valuations of the markets are high.  Shiller P/E ratio is 42.  Every time it has been 35+, the forward 10 year earnings are negative.
+
+AI was rolling along and everyone was believing in it and then the narrative changed dramatically to "AI will kill us all".
+
+Gundlach Unlocked is to give the Doubleline funds that he recommends to buy.  Recommendations:
+
+* 30% equities: equal weighted US index.  This way you don't have 40% of your portfolio in AI.
+* 30% Fixed income: half in total return fund and half in local currency emerging market debt.  He thinks you'll make money on the currency for the local currency emerging market debt.
+* 20% in real assets.  10% gold & 10% in commodities.
+* 20% dry powder
+
+He's recommending to get everything in your portfolio away from AI.
+
+We have a deficit that's heading towards 50 trillion and we may be running deficits of 10-12% in the next recession.
+
+There will be fallout and losers in the search of the AI holy grail.  He thinks we're close enough to get away right now.
+
+He'd be surprised if there isn't some sort of a shock in the next year.
+
+Disel nationwide is $8.  In some parts of California, disel is $9.99 cause they don't have enough digits on the pump.
+
+He doesn't see the energy price shock going away at all.  Costco is rationing Kirkland motor oil because they didn't want people to start hoarding.
+
+Gundlach thinks the CPI is heading to 4%.
+
+They want to stay at the short end of the curve.
+
+Gundlach feels like the ethos of optimism wore out in June 2026.  It's when the hyperscalers issued bonds and they were rejected by the market.
+
+A lot of people would be livid if the private credit funds end up getting bailed out.
+
+## Gundlach Unlocked: The Fed’s Next Move (September 11, 2026)
+
+[Link](https://www.youtube.com/watch?v=HVwbX7dcQWc).
+
+Local currency emerging markets have a yield of about 7%.  This is pretty good competition for the stock market and current valuations.
+
+Investment grade bonds haven't seen spread widening, but the AI sector has seen large spread widening.  The AI high yield spread has also widened vs the non-AI high-yield spread.
+
+We all know that the US Treasury is borrowing way too much money.
+
+Corporations also have a huge demand to issue debt.
+
+They like short term TIPS cause they think the implied inflation rate is way too low compared to what will actually happen.
+
+The US debt has been growing rapidly since the Great Financial Crisis and there is no end in sight.
+
+We will probably be at $50 trillion of debt by 2032.
+
+The Social Security system administrators will be out of money by 2032 (they are always overly optimistic and they will probably run out by 2029/2030).  Social Security will have to be reformed.
+
+Looks like we will set a new deficit record in 2026.
+
+We are heading towards 7%/8% deficits in the coming years.
+
+He thinks gold should be part of every portfolio.  Central banks and other investors are preferring gold to fiat.
+
+The Shiller P/E ratio is at the all-time dotcom bubble high.  Stocks are not cheap.
+
+The Shiller CAPE for the S&P has never predicted a 10-year positive return at this current level of 42.
+
+He does not recommend any market cap weighted stock indexes.
+
+This is an extremely concentrated stock market in the AI big 10 which means an extremely dangerous market.
+
+The equal weighted S&P 500 has been outperforming for 1.25 years.
+
+US stocks has stopped outperforming.  It outperformed by a lot from 2010 till 2025 and has been going sideways since.
+
+He has been investing in foreign equities, but now he's coming "close to home because he doesn't like the risk setup for markets".
+
+The Dollar index (DXY) has been falling since 2024.
+
 ## Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift
 
 [Link](https://www.youtube.com/watch?v=yeodaCXCG5w).
@@ -37,8 +194,6 @@ The quick fixes are accelerating.  Eventually a lot of the debt will end up on t
 CAPEX has expanded significantly from the hyperscalers.  It's gone from 10% => 30% of sales.  Semiconductor prices are rising rapidly.
 
 Free cash flow is already going down - Oracle free cash flow is now negative.
-
-
 
 **Jeffrey Gundlach**
 

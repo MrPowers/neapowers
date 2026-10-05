@@ -12,6 +12,20 @@ Siegel is a professor and famous author, best know for Stocks for the Long Run. 
 * Worked in Chicago with Milton Freeman
 * Longtime professor at the University of Pennsylvania & WisdomTree advisor
 
+## Wharton's Jeremy Siegel: September jobs report was 'a wonderful report' for Fed Chairman Warsh (October 5, 2026)
+
+[Link](https://www.youtube.com/watch?v=pBtim4-uCYM).
+
+The jobs report that just came out was great for Warsh.  Increase in the participation rate and the work week.  These give Warsh cover to hold in the next meeting.
+
+He thinks interest rates have been rising because of increased growth expectations.  This is why stocks are holding up.
+
+He thinks the rally will continue in Q4 if oil stays below $90 because earnings are certainly good.
+
+Every single developed major market has had dramatic rises in interest rates.  They've all been increases in real interest rates.  Inflation expectations aren't driving this.
+
+He likes the broad indexes.  Europe indexes have a 14-15 P/E, so they don't have to grow fast to give a good return.  Japan has done very well this year and has a 16 P/E.  In the long run, he thinks diversification will pay the investor.
+
 ## Wharton's Jeremy Siegel still against the Fed, bullish on stocks in 2023 (January 1, 2023)
 
 [Link](https://www.youtube.com/watch?v=b99CeXQRyF4&ab_channel=CNBCTelevision).
