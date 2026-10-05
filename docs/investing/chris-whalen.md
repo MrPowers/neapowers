@@ -20,7 +20,7 @@ The Fed hiked 25 basis points to maintain credibility.  They aren't really doing
 
 The Fed has lost the ability to control the 10-year and 30-year yields unless they come in and start directly purchasing securities.
 
-We will go back to the period before World War 1 where countries would have to compete in terms of the value of their money and gold will be the foundation of the entire system.  This is the signifigance of China embracing gold.
+We will go back to the period before World War 1 where countries would have to compete in terms of the value of their money and gold will be the foundation of the entire system.  This is the significance of China embracing gold.
 
 When people sell Treasuries, they are buying gold.  Countries will start holding their reserves in gold instead of dollars.
 
@@ -30,7 +30,7 @@ He just published a book called Inflated.
 
 He thinks we're going back to a multi-lateral currency world instead of just the dollar.  They won't use the dollar as a store of value because of the budget deficit.  They know that long term the dollar will lose value.
 
-Oil is a very diverse commodity and there are lot of different types of refined products.
+Oil is a very diverse commodity and there are a lot of different types of refined products.
 
 California shut down all their refineries and are now buying refined product from the Chinese and Koreans.  They might stop selling.
 
@@ -38,7 +38,7 @@ Fertilizer prices have gone up 8x.  That means farmers won't use fertilizer and 
 
 He expects double digit inflation.  It will have huge political repercussions in the US and Europe.  They don't have enough heating oil in Europe and it will be a hard winter if it's cold in Europe.
 
-When prices get to a certin point, then truckers and farmers will park their equipment and stop working.
+When prices get to a certain point, then truckers and farmers will park their equipment and stop working.
 
 There could be significant demand destruction and we could even see the Fed cutting interest rates in 2027.
 
@@ -50,17 +50,17 @@ He thinks we will eventually be means testing Social Security.  The Social Secur
 
 Americans want to take more out of the system than they put in and that does not work.
 
-Our saftey net is really unreasonable.  In countries like Germany, saftey nets are for end of life.  It's unreasonable for the government to support people at the end of their life if they have substantial wealth.
+Our safety net is really unreasonable.  In countries like Germany, safety nets are for end of life.  It's unreasonable for the government to support people at the end of their life if they have substantial wealth.
 
 Congress has totally abdicated their responsibility to the American public by letting deficits run this way.
 
-Housing prices will continue going up in parts of the country where there is limited supply.  Housing prices will go down where lots of new supply has added.  Places like Orlando have had a significant correction.
+Housing prices will continue going up in parts of the country where there is limited supply.  Housing prices will go down where lots of new supply has been added.  Places like Orlando have had a significant correction.
 
 ## Chris Whalen: Age of Uncertainty — Falling Home Prices, Cracks in Private Credit & a Sidelined Fed (September 19, 2026)
 
 [Link](https://www.youtube.com/watch?v=741FBFc2vh0&t=695s).
 
-The FOMC hiked 25 basis points.  The Fed had to do something or they would be totally irrelavant.  But there isn't much the Fed can do here.
+The FOMC hiked 25 basis points.  The Fed had to do something or they would be totally irrelevant.  But there isn't much the Fed can do here.
 
 In the housing sector, we will see "death and destruction this year and next" and lots of companies will go out of business.
 
@@ -82,7 +82,7 @@ He thinks all fuel products could go significantly higher in the fall.
 
 The Iranians are not backing down and there is no end in sight to this conflict.
 
-Real estate and gold are good components of value presentation.  You also want exposure to the fiat world to get a return on your paper.  You want assets in the real world that earn a real return.
+Real estate and gold are good components of value preservation.  You also want exposure to the fiat world to get a return on your paper.  You want assets in the real world that earn a real return.
 
 Real estate is falling fast in Florida and he expects this to spread to the rest of the country next year.
 
