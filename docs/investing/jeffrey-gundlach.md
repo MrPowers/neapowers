@@ -41,10 +41,12 @@ There are some reasons the yields are relentlessly rising:
 Rates will continue to rise till something is done about it.  One option is operation twist.  Another is restructuring the debt.
 
 Rosenberg:
+
 * This is the most unhinged the bond market has been in his 40-year career.
 * He thinks he will see the US dollar stop being the reserve currency in his lifetime (that's why he likes gold)
 
 Warsh reminds Gundlach of Al Gore at the different presidential debates:
+
 * first one was the "sighing Al Gore" when he was making noises when Bush said things he didn't like
 * second one was the pumpkin makeup because he wore so much makeup
 * third one was Mr. Nice Guy
@@ -52,6 +54,7 @@ Warsh reminds Gundlach of Al Gore at the different presidential debates:
 Nobody knew who Al Gore actually was and that's why he lost the election.
 
 Warsh is doing the same thing:
+
 * at one press conference he sounds really hawkish
 * then he sounds really dovish
 * then he thinks it's funny to talk about "hiking", but the physical activity.  But he's the guy who previously didn't want to talk about forward guidance.
@@ -78,6 +81,7 @@ He likes equal weighted stock indexes.  He wants to get far away from the blast 
 Rosie: Warsh wants 2% inflation during an energy shock.  This would destroy the economy.
 
 Possible measures of the true risk free rate:
+
 * 10 year Treasury
 * MBS that originated 5-6 years ago.  These won't default.  These homeowners have a large unrealized capital gain.  This yield is 7%.
 * Well managed funds of the top-tier bank loan market.  These give SOFR + 130 bp.  SOFR is currently 4%, so you get 5.3%, which is the same as the 10-year Treasury, but it's a floating rate instrument during a hiking cycle.
@@ -85,6 +89,7 @@ Possible measures of the true risk free rate:
 He thinks you can get a "risk free" yield of 6% on a 2-year duration portfolio.  He thinks this is a good allocation for 20% of your portfolio to wait for the stock/bond market to offer better opportunities.
 
 He recommends 30% in bonds.  He likes to barbell it.
+
 * Safe: Total return bond fund that he runs.  This owns no corporate or foreign bonds.  Just US based and heavily in US government and MBSs.
 * Risky: emerging market local bond funds.  You want this actively managed.  Don't put these in an index fund.  He expects the currency translation to work in your favor.  You want to avoid the serial defaulters.
 
@@ -174,6 +179,7 @@ The Dollar index (DXY) has been falling since 2024.
 **Felix Zulauf**
 
 Two main factors:
+
 * change in geopolitical order (unipolar to multipolar order)
 * economic changes
 
