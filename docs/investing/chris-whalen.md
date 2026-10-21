@@ -6,6 +6,40 @@ draft: False
 
 # Chris Whalen
 
+## Chris Whalen: Double-Digit Inflation, Falling Home Prices & a Fed Forced to Hike
+
+[Link](https://www.youtube.com/watch?v=pAvD__Rw7G8)
+
+Trump is trying to buy votes with a $5,000 dividend.
+
+Affordability is going to impact the upcoming midterms a lot.
+
+Some measures of inflation have it up 20% in the last year.
+
+The Democrats remain unpopular too.  We have no idea who their presidential candidate will be in two years.
+
+He looks at producer prices more than CPI cause the CPI is so adjusted by government agencies.
+
+September PPI was higher than any print since 2022.
+
+He doesn't think energy prices are going down in the near term.
+
+Fertilizer prices are so high that farmers just aren't buying it.
+
+Let's hope we don't have another unexpected economic shock.  We were anticipating lower rates this year till the Iran war happened.
+
+He was in Chicago for the Mortgage Bankers Association (MBA).  People are expecting lower prices.
+
+They're expecting softness in home prices for the next 3 years.
+
+Real estate is very local, so you can't generalize about it.
+
+Chris recently bought a house in Florida for $800,000, but the replacement cost is $1,500,000.  Construction, material, and labor costs have gone up a lot.  That's the inflation impact.
+
+Our society has not had to deal with significant inflation for 40 years.
+
+We've seen circular financing with the AI companies.  He thinks AI valuations will go down.  All of the smart minds on Wall Street think that we're done.
+
 ## Chris Whalen: Bonds, Gold, Energy, & the Coming Food Shock (September 26, 2026)
 
 [Link](https://www.youtube.com/watch?v=Seso71Yyny4).
