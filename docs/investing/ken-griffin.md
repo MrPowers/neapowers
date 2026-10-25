@@ -6,6 +6,63 @@ draft: False
 
 # Ken Griffin
 
+## Citadel CEO Ken Griffin Says AI ‘Almost Certainly’ in a Bubble; Trump Has 'Mixed Scorecard' (October 21, 2026)
+
+The advancement in AI models in the last year has been tremendous.  It's game-changing in many fields.
+
+Business owners are seeing their moats get filled in with bulldozers.  Seeing a machine execute a PhD-level 6-week job in a few hours.
+
+You can also see a golden age for new business owners.
+
+Our nation needs an initiative for reskilling of people who will be displaced by AI.
+
+The history of our free market is that we go thru transitions that are challenging, but ultimately make our lives better.
+
+There is no doubt that we would rather live in 2026 than 1926.
+
+Most Citadel business is research and fundamental based investing.  Trading is how they monetize their research.
+
+He thinks that the vast majority of the alpha they create is based on the people that do the research.
+
+Trading has been largely automated.  It's a vital way to monetize their research.
+
+A few years ago, people were buying anything related to the AI trade.  Now investors are becoming more discerning.
+
+GPUs, like airlines, have a low marginal cost to run.  The incremental seat on an airline is basically nothing.  You can sell an empty seat for $20 and that's an improvement.  This is one of the reasons the airline industry is such a nightmare.  When there is overcapacity, then pricing goes in a freefall.
+
+Corporate America has been very unequal in its ability to extract value from AI models.
+
+Any radical transformation of our economy is generally intertwined with a bubble.
+
+Situational Awareness is up significantly this year.
+
+Common playbook in finance:
+
+* see someone in trouble
+* anticipate the moves they will have to make
+* frontrun their trades
+* turn a possibility into a foregone conclusion
+
+The US political process with the midterms is a check+balance on the party in power.
+
+The Republicans will probably lose the House and maybe the Senate.  This is a normal part of the political cycle.
+
+We need to grow our economy to pay our future Social Security + Medicare + Medicaid liabilities.
+
+Ken recently gave a $3 billion grant to Carnegie Mellon because they are leaders in robotics.
+
+We need to reindustrialize America with robotics running our factories.
+
+He's not so worried about the rise in democratic socialism.
+
+France spends 60% of its GDP at the government level.  And the streets are full of violent protests.
+
+The US fiscal house is not in order.  That's part of the reason yields are so high.
+
+The trajectories of cities are written over decades.  People put down roots and become parts of communities.  We want a nation where people put down roots and call somewhere home.
+
+Carnegie Mellon leads the world in robotics.  They are building a campus in Miami and will transform the city.
+
 ## Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers (July 2026)
 
 [Link](https://youtu.be/gZweef8LX7M?si=qpF_Pay7N2XDFOr8)
