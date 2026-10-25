@@ -6,6 +6,83 @@ draft: False
 
 # Rob Arnott
 
+## 50% of the S&P 500 Is One Bet. Nvidia Is Lending to Its Customers. Are You Buying What Already Won?
+
+[Link](https://www.youtube.com/watch?v=keiwtE_J-rk)
+
+They're going back to their roots of active management.  They're built on their deep research in RAFI indexes.
+
+Nearly half of the S&P 500 are leaders in the AI revolution.
+
+The AI revolution is very powerful and real.  It will probably be the most powerful productivity enhancer for the global macroeconomy in our lifetimes.  Computers and the internet were incredible revolutions and this takes it to the next level.
+
+Technological revolutions always create more jobs than they destroy.
+
+Computers displaced the job of "computer" that was formerly performed by humans.
+
+Every technological revolution is accompanied by a bubble.
+
+The market always believes the pioneers will pave the way.
+
+Moats last till they don't.  OpenAI was disrupted by DeepSeek.  Google was disrupted by OpenAI.
+
+Of the 10 most valuable tech stocks in the world in the year 2000, only 1 has beaten the S&P 500 (Microsoft).  The rest underperformed.  4 don't even exist anymore.  2 had a negative cumulative return.
+
+This is likely to repeat:
+
+* some of the dominant players will likely be dominant in 10 years
+* maybe 1 or 2 will still be dominant in 25 years
+
+But they're already priced as if this is a foregone conclusion.
+
+Ralph Lauren created an interactive "ask Ralph" app to give you fashion advice.  This is a cool way to use AI to sell products.
+
+AI users have to find that the value they get from AI is more than the cost of using it.
+
+The big winners of AI will be the rest of the economy.
+
+In the 1990s, the S&P 500 outperformed because valuation multiples were soaring.  They call this revaluation alpha.
+
+Since 2014, the top 500 has outperformed the next 500 by 4,000 basis points.
+
+* The top 500 was priced at a 15% discount in 2014
+* Now it's an 80% premium
+
+Two options:
+
+1. fundamentals of the top 500 need to catch up
+2. there will be mean reversion on the relative valuation
+
+Arnott thinks the 1,400 companies in the Russell 2000 Value are highly likely to outperform large cap growth by 600 - 800 bp per annum to close the valuation gap.
+
+He doesn't think other researchers have investigated the impact of indexes on the markets like he has.
+
+Indexation moves markets, but it also creates inefficiencies and opportunities.
+
+Anthropic will likely IPO in mid-November.  OpenAI is likely to follow.
+
+Michael Green thinks these IPOs could break indexation.
+
+"I am a very curious person and think that is my competitive advantage".
+
+There are many red flags: for example, many of the providers (e.g. NVIDIA) are lending money to their customers to buy their product.
+
+One study said spending on AI would have to rise to 9% of GDP to justify current valuations.
+
+You can take some of your massive gains and put it into small-cap value and emerging markets value - parts of the market that are trading dirt cheap.  They have CAPE ratios of 10.
+
+R&D is speculative investment for the future.  CAPEX is current spending to keep up.
+
+Moats are not durable.  DeepSeek came out 2 years after ChatGPT was released.
+
+Anthropic was launched in 2021 and it's already thought to be a 2 trillion dollar company.  But Anthropic doesn't have a moat unless it keeps its edge.
+
+Win/win is key to business success.
+
+In the quant community, researchers often fall into the trap of finding a good backtest.  Use data to test an idea.
+
+The scientific method is largely absent from the quant community.  Don't use data to find the hypothesis.  Develop a hypothesis and then test it with the data.
+
 ## Can A.I. Improve Investment Results? With Rob Arnott, Founder & Chair, Research Affiliates.
 
 [Link](https://www.youtube.com/watch?v=N0A7RVSk__Y)

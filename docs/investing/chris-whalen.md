@@ -6,6 +6,142 @@ draft: False
 
 # Chris Whalen
 
+## Chris Whalen: Fannie & Freddie Stuck, Foreclosures Rising, Credit Problems Coming
+
+[Link](https://www.youtube.com/watch?v=eroaiQjex58&t=14s)
+
+Foreclosure sales are rising.  Auction volume is up 25% year-over-year.  Foreclosures are starting again after the COVID moratorium.
+
+Home prices are softening and foreclosures will continue to rise.
+
+When you price your home to sell, you can get the transaction done quickly.
+
+Investors buy REITs for income, not for appreciation.
+
+Inflation numbers aren't too bad if you exclude energy.
+
+The Fed may be forced to ease, which could rally the 10-year.
+
+His guess is that the 10-year will stay around 5%.  We're normalizing markets after 15 years of extraordinary intervention by the Fed.
+
+He thinks the Fed will be a lot more cautious under Kevin Warsh.
+
+You want a relatively modest portion of your portfolio in precious metals and real estate.
+
+Consumer product companies are suffering a lot from the higher diesel prices.  Trucks use diesel.
+
+He thinks gold is attractive if you have a long-term view.
+
+We have too much oil.  The world is awash with oil.  But we need refined product.  20% of the world's refined product was in the Gulf and now it's gone.  It will take years to rebuild this capacity.
+
+People in Europe know they don't have enough gas to get thru the winter.
+
+## Banks Face $500 Billion In Losses: Debt Bomb Strikes | Chris Whalen
+
+[Link](https://www.youtube.com/watch?v=P27dmbHs5qM)
+
+He expects weaker bank earnings.
+
+Bond yields are higher because confidence has been eroded in the US and from the AI boom.
+
+People have bought NVIDIA chips, often financed by NVIDIA, and are keeping them in a warehouse cause they can't use them.
+
+AI is a mania of vast proportions.
+
+AI will have lots of use cases, mostly internal.
+
+Private equity has grown immensely, but the quality of the opportunities has gone down.  They sell assets between funds so they can keep earning fees.  He thinks private equity is a train wreck.  It's one of the biggest scandals on Wall Street and nobody talks about it.
+
+SoftBank will invest in a company and invest again in 6-12 months at a higher valuation.  This is just pumping up the asset.  We used to call this securities fraud, but now we're calling it circular financing to be polite.
+
+Mortgage market will contract because there isn't enough volume.
+
+Home prices have been softening in red states where there is building.
+
+Home prices took off after the pandemic because of the Fed.
+
+He thinks energy prices will stay elevated for a while and that food prices will go up.  Higher diesel and fertilizer shortages lead to higher food prices.
+
+We are sleepwalking our way to a debt crisis.
+
+The US will pay its bills, but the Fed will have to print a lot more and it will lead to a lot of inflation.
+
+A democracy is very dysfunctional when it comes to protecting the value of its currency.
+
+## ‘I Got Out of My Bank Stocks’: Why a Former Fed Insider Is Betting on Gold (October 19, 2026)
+
+[Link](https://www.youtube.com/watch?v=ecSK_kUmcuw)
+
+Early on private equity was a bonanza for pensions and endowments.  As the industry has grown, the quality has declined.
+
+The track record of private equity has been poor in recent years.
+
+He doesn't think that private equity is suitable for pensions.  It's suitable for private investors who can take the risk.
+
+Continuation funds are when private equity firms move a portfolio company to another fund they run.
+
+NVIDIA has financed a lot of customer build-out of customer tools.  In many cases, the customers can't even use the chips cause they can't build the facilities.
+
+He thinks the circular AI financing has reached an endpoint.
+
+The political pushback on data centers is incredible.  Communities are worried about their electric bill going up if data centers are constructed.
+
+Semiconductors used to be a very sleepy sector.
+
+The big banks are upgrading stocks and they also want to be the bank that takes the company public.  So take their research with a grain of salt.
+
+The most powerful use of AI is internal.  The astute companies are using AI for software development and risk management internally.
+
+AI infrastructure raised $500 million this year in debt.
+
+Every quarter, the Treasury does a huge refunding and raises $800 billion / 1 trillion to pay their bills.
+
+We are going to run a $2 trillion dollar deficit.
+
+At some point, the companies that are borrowing this money will have to show the earnings.
+
+We could see much higher food prices next year and that would have huge political ramifications.
+
+He expects that the Fed will have to start printing again (buying Treasury securities during COVID).
+
+We're already familiar with monetization of the Federal debt.
+
+Between 2008-end of COVID, the Fed bought $10 trillion of Treasuries.
+
+The Fed may be forced to drop interest rates in the beginning of 2027.  But that doesn't mean that the 10-year and 30-year Treasury yield will go down.
+
+The US is in a tenuous situation and NOBODY is talking about the fiscal situation.  Neither party wants to talk about it.
+
+Two steps of a mortgage:
+
+1. Lender initiates a loan
+2. Investor buys the loan
+
+He doesn't think we will go back to 5% mortgages.
+
+We've been running this economy very hot with a $2 trillion dollar deficit, but eventually it will slow down because of interest rates.
+
+The mortgage industry is downsizing very significantly.
+
+We're slowly slipping into a buyer's market in the red states where there has been a lot of home building.
+
+Our country has been living above our means for decades.  The political class has gotten used to it.  We will continue this way till we have a crisis that forces the issue to get resolved.  This is why he's working on a book on gold.  Hard assets are how people will protect themselves: gold, precious metals, commodities, real estate.
+
+You know the government will continue to spend and eventually they will be forced to inflate the currency.
+
+He likes a barbell:
+
+* real assets that will hold their value
+* income generating assets to pay their bills
+
+Global central banks are continuously shifting away from dollars and towards gold.  They want an independent reserve asset that's not controlled by another country.
+
+The dollar will compete with other fiat currencies.
+
+China lets you import/export with either Yuan or gold.
+
+5-10% in a gold ETF is a benefit to most portfolios.
+
 ## Chris Whalen: Double-Digit Inflation, Falling Home Prices & a Fed Forced to Hike
 
 [Link](https://www.youtube.com/watch?v=pAvD__Rw7G8)

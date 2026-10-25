@@ -8,6 +8,26 @@ draft: False
 
 Jeffrey Sherman is the Deputy Chief Investment Officer of DoubleLine Capital, the firm founded by Jeffrey Gundlach.  He hosts The Sherman Show podcast and speaks frequently about rates, credit, and macro.
 
+## Jeffrey Sherman on the Treasury Rally, Fiscal Fears and Fading Foreign Demand (October 19, 2026)
+
+[Link](https://www.youtube.com/watch?v=Dn891oSS_Ns)
+
+The Fed should be tighter than where they are today.
+
+French yields hit their highest since 2002.
+
+They are underweight the back end of the curve.  They think ultimately debt issues will be a problem.
+
+Market is already priced for hikes over the next 3-6 months.
+
+Political gridlock is good.  Not expanding the debt as fast is a good thing right now.
+
+We need to find buyers for our bonds.  We need to be nice to our trading partners.
+
+Global yields are converging, which is also lowering demand for US Treasuries.
+
+Many central banks are moving towards gold instead of Treasuries.
+
 ## Jeffrey Sherman: Throw Away the Post-GFC Playbook | Insightful Investor Podcast
 
 [Link](https://www.youtube.com/watch?v=SurdHgqqlmo)
