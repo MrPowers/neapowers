@@ -10,6 +10,39 @@ Jeffrey Gundlach, colloquially known as the "Bond King" is the founder of the Do
 
 He speaks frequently and this post summarizes his talking points.
 
+## Jeffrey Gundlach: Ready, Aim, Aim, Aim, Aim | CNBC
+
+[Link](https://www.youtube.com/watch?v=RuCjUIjM8mo&t=8s)
+
+The "accumulation of more information concept" reminds him of ready, aim, aim, aim, aim and never pulling the trigger.
+
+Headline CPI will probably start with a 4 for the time being.
+
+Commodity prices are well above the 200-day moving average and rising.
+
+He thinks the Fed should be raising rates based on the 2-year Treasury at 4.75% and the yield curve steepening again.
+
+We're running a deficit over the last 2 months of 9% of GDP.
+
+France apparently thinks that 57% of government spending on social programs isn't enough.  And Le Pen, who is leading the polls, wants to lower the retirement age.
+
+The commodity index is rising in a bull market, inflation is heading towards 4%, and it's a bit puzzling to understand why the Fed is holding steady.
+
+He feels like the Fed is behind the curve and they need to hike.
+
+He thinks that 30% equities is appropriate in the equal-weighted S&P.  He does not like the cap-weighted S&P.  He doesn't want AI exposure.
+
+He recommends 30% in bonds with the barbell approach:
+
+* half in a safe portfolio with no corporate credit exposure and totally domestic
+* half in local currency emerging market debt
+
+He expects the dollar to continue going lower.
+
+He likes 20% in commodities: 15% in the Bloomberg Commodity Index and 5% in gold.
+
+20% dry powder in a well-managed, low-risk bond portfolio with a 2 year duration.  You can get yields of 6.5% and a duration of 2.
+
 ## Jeffrey Gundlach joins Scott Wapner on CNBC Overtime (May 6, 2022)
 
 [Link](https://www.youtube.com/watch?v=ECe4xLSkvZo&ab_channel=DoubleLineCapital).
