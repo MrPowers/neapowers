@@ -8,7 +8,7 @@ draft: False
 
 This is a very simple chicken stew made in a stovetop pressure cooker.  Three ingredients, one pot, about 25 minutes start to finish.
 
-The whole batch is around 910 calories with 137 grams of protein.  It makes roughly 3 servings.
+The whole batch is around 910 calories with 137 grams of protein.  It makes 2 servings.
 
 ## Ingredients
 
@@ -190,10 +190,10 @@ Here are the macros for the entire stew:
   </tr>
 </table>
 
-Split into 3 servings, each serving is about 303 calories, 5 grams of carbs, 2.6 grams of sugar, 46 grams of protein, 10 grams of fat (1.8 grams saturated), 1.1 grams of fiber, and 880mg of sodium.
+Split into 2 servings, each serving is about 455 calories, 7.6 grams of carbs, 4 grams of sugar, 69 grams of protein, 15 grams of fat (2.7 grams saturated), 1.7 grams of fiber, and 1320mg of sodium.
 
 Some key takeaways:
 
 * The chicken provides nearly all the protein.  600g of breast gives you 135 grams of protein.
 * About half the fat comes from the olive oil.  Skip the oil and the whole batch drops to about 785 calories and 16 grams of fat.
-* Almost all the sodium comes from the salt.  Use 4g of salt instead of 6g and each serving drops to about 620mg of sodium.
+* Almost all the sodium comes from the salt.  Use 4g of salt instead of 6g and each serving drops to about 925mg of sodium.
