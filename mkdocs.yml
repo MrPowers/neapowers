@@ -60,6 +60,12 @@ nav:
   - Recipes:
     - Lentil Soup: recipes/lentil-soup.md
     - Tilapia Stew: recipes/tilapia-stew.md
+    - Chicken Stew: recipes/chicken-stew.md
+    - Músculo: recipes/musculo.md
+    - Salmon Stew: recipes/salmon-stew.md
+    - Oat Bowl: recipes/oat-bowl.md
+    - Blueberry Shake: recipes/blueberry-shake.md
+    - Greek Yogurt Bowl: recipes/greek-yogurt-bowl.md
   - Blog:
     - blog/index.md
     - My First Post: blog/posts/hello-world.md
