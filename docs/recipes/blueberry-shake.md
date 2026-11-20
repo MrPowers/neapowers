@@ -6,20 +6,21 @@ draft: False
 
 # Blueberry Shake
 
-This is a simple three-ingredient blueberry shake.  About 2 minutes to make.
+This is a simple four-ingredient blueberry shake.  About 2 minutes to make.
 
-It makes one serving with around 280 calories and 17 grams of fiber.
+It makes one serving with around 400 calories, 32 grams of protein, and 17 grams of fiber.
 
 ## Ingredients
 
 * 100g frozen blueberries
 * 15g ground flaxseed
 * 30g chia seeds
+* 30g protein powder (1 scoop)
 * 300ml water
 
 ## Instructions
 
-1. Add the water, blueberries, flaxseed, and chia seeds to a blender.
+1. Add the water, blueberries, flaxseed, chia seeds, and protein powder to a blender.
 2. Blend on high for 30-60 seconds until smooth.
 3. Drink right away.  The chia seeds thicken the shake quickly if it sits.
 
@@ -119,32 +120,55 @@ Here are the macros for the entire shake:
    </td>
   </tr>
   <tr>
+   <td>Protein powder
+   </td>
+   <td>30
+   </td>
+   <td>120
+   </td>
+   <td>3.0
+   </td>
+   <td>1.0
+   </td>
+   <td>24.0
+   </td>
+   <td>1.5
+   </td>
+   <td>1.0
+   </td>
+   <td>0
+   </td>
+   <td>60
+   </td>
+  </tr>
+  <tr>
    <td><strong>TOTAL</strong>
    </td>
    <td>
    </td>
-   <td><strong>277</strong>
+   <td><strong>397</strong>
    </td>
-   <td><strong>29.1</strong>
+   <td><strong>32.1</strong>
    </td>
-   <td><strong>8.7</strong>
+   <td><strong>9.7</strong>
    </td>
-   <td><strong>8.1</strong>
+   <td><strong>32.1</strong>
    </td>
-   <td><strong>16.1</strong>
+   <td><strong>17.6</strong>
    </td>
-   <td><strong>1.6</strong>
+   <td><strong>2.6</strong>
    </td>
    <td><strong>17.1</strong>
    </td>
-   <td><strong>11</strong>
+   <td><strong>71</strong>
    </td>
   </tr>
 </table>
 
 Some key takeaways:
 
-* The chia seeds provide more than half the calories, protein, and fiber.  30g of chia gives you 10 grams of fiber on its own.
+* The protein powder provides three quarters of the protein.  Without it the shake has about 8 grams of protein.
+* The chia seeds provide more than half the fiber.  30g of chia gives you 10 grams of fiber on its own.
 * The blueberries are the only meaningful source of sugar, and all of it is naturally occurring.
 * The fat comes almost entirely from the flaxseed and chia.  Both are rich in omega-3 fats.
-* Sodium is negligible at 11mg for the whole shake.
+* The protein powder numbers are for a typical whey protein with 120 calories and 24 grams of protein per 30g scoop.  Check your label and adjust if yours is different.
