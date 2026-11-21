@@ -43,6 +43,133 @@ Here are the daily macros for this meal plan.
    </td>
   </tr>
   <tr>
+   <td>Breakfast
+   </td>
+   <td>571
+   </td>
+   <td>40
+   </td>
+   <td>16
+   </td>
+   <td>56
+   </td>
+   <td>23
+   </td>
+   <td>4
+   </td>
+   <td>18
+   </td>
+   <td>144
+   </td>
+  </tr>
+  <tr>
+   <td>Lunch
+   </td>
+   <td>455
+   </td>
+   <td>8
+   </td>
+   <td>4
+   </td>
+   <td>69
+   </td>
+   <td>15
+   </td>
+   <td>3
+   </td>
+   <td>2
+   </td>
+   <td>1320
+   </td>
+  </tr>
+  <tr>
+   <td>Dinner
+   </td>
+   <td>610
+   </td>
+   <td>98
+   </td>
+   <td>24
+   </td>
+   <td>29
+   </td>
+   <td>15
+   </td>
+   <td>2
+   </td>
+   <td>19
+   </td>
+   <td>970
+   </td>
+  </tr>
+  <tr>
+   <td>Dessert
+   </td>
+   <td>669
+   </td>
+   <td>114
+   </td>
+   <td>33
+   </td>
+   <td>17
+   </td>
+   <td>19
+   </td>
+   <td>2
+   </td>
+   <td>22
+   </td>
+   <td>156
+   </td>
+  </tr>
+  <tr>
+   <td><strong>TOTAL</strong>
+   </td>
+   <td><strong>2305</strong>
+   </td>
+   <td><strong>261</strong>
+   </td>
+   <td><strong>77</strong>
+   </td>
+   <td><strong>171</strong>
+   </td>
+   <td><strong>72</strong>
+   </td>
+   <td><strong>11</strong>
+   </td>
+   <td><strong>61</strong>
+   </td>
+   <td><strong>2590</strong>
+   </td>
+  </tr>
+</table>
+
+Breakfast is the Greek yogurt bowl and the blueberry shake.  Lunch is the chicken stew.  Dinner is the salad and fruit and the lentil soup.  Dessert is the oat bowl and the psyllium husk water.
+
+Here are the macros for each main component of this meal plan.
+
+<table>
+  <tr>
+   <td><strong>Meal</strong>
+   </td>
+   <td><strong>Calories</strong>
+   </td>
+   <td><strong>Carbs (g)</strong>
+   </td>
+   <td><strong>Sugar (g)</strong>
+   </td>
+   <td><strong>Protein (g)</strong>
+   </td>
+   <td><strong>Total Fat (g)</strong>
+   </td>
+   <td><strong>Saturated Fat (g)</strong>
+   </td>
+   <td><strong>Fiber (g)</strong>
+   </td>
+   <td><strong>Sodium (mg)</strong>
+   </td>
+  </tr>
+  <tr>
    <td>Greek yogurt bowl
    </td>
    <td>174
